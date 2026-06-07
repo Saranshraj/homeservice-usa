@@ -1,0 +1,228 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  pubDate: string;
+  updatedDate?: string;
+  category: string;
+  readTime: string;
+  heroAlt?: string;
+}
+
+const { title, description, pubDate, updatedDate, category, readTime } = Astro.props;
+
+const formattedPubDate = new Date(pubDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+const formattedUpdatedDate = updatedDate
+  ? new Date(updatedDate).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    })
+  : null;
+
+const categoryLabels: Record<string, string> = {
+  'cost-guides': 'Cost Guide',
+  'contractor-tips': 'Contractor Tips',
+  'hvac': 'HVAC',
+  'roofing': 'Roofing',
+  'plumbing': 'Plumbing',
+  'homeowner-basics': 'Homeowner Basics',
+  'home-warranty': 'Home Warranty',
+  'insurance': 'Insurance',
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  type="article"
+  articleDate={pubDate}
+  articleModified={updatedDate || pubDate}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": title,
+      "description": description,
+      "datePublished": pubDate,
+      "dateModified": updatedDate || pubDate,
+      "author": {
+        "@type": "Organization",
+        "name": "HomeService USA"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "HomeService USA",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://homeservice-usa.netlify.app/favicon.svg"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": Astro.url.href
+      }
+    })} />
+  </Fragment>
+
+  <article class="blog-article">
+    <div class="container">
+      <div class="article-header">
+        <div class="article-meta-top">
+          <span class="category-badge">{categoryLabels[category] || category}</span>
+          <span class="read-time">{readTime} read</span>
+        </div>
+        <h1>{title}</h1>
+        <p class="article-description">{description}</p>
+        <div class="article-dates">
+          <time datetime={pubDate}>Published {formattedPubDate}</time>
+          {formattedUpdatedDate && (
+            <time datetime={updatedDate} class="updated-date">
+              Last updated {formattedUpdatedDate}
+            </time>
+          )}
+        </div>
+      </div>
+
+      <div class="article-content">
+        <slot />
+      </div>
+
+      <div class="article-footer">
+        <div class="trust-note">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+          <p><strong>Our commitment to you:</strong> Every guide on HomeService USA is researched using real homeowner experiences, verified industry data, and official government sources. We never accept payment from contractors or service providers to influence our recommendations.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .blog-article {
+    padding: 2rem 0;
+  }
+
+  .article-header {
+    max-width: var(--content-width);
+    margin: 0 auto 2rem;
+  }
+
+  .article-meta-top {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .category-badge {
+    background: var(--color-primary);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  .read-time {
+    color: var(--color-text-light);
+    font-size: 0.9rem;
+  }
+
+  .article-header h1 {
+    font-size: 2.25rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+  }
+
+  .article-description {
+    font-size: 1.2rem;
+    color: var(--color-text-light);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .article-dates {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: var(--color-text-light);
+  }
+
+  .updated-date {
+    color: var(--color-success);
+    font-weight: 500;
+  }
+
+  .article-content {
+    max-width: var(--content-width);
+    margin: 0 auto;
+  }
+
+  .article-content :global(h2) {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .article-content :global(h2:first-of-type) {
+    border-top: none;
+    padding-top: 0;
+  }
+
+  .article-footer {
+    max-width: var(--content-width);
+    margin: 3rem auto 0;
+  }
+
+  .trust-note {
+    display: flex;
+    gap: 1rem;
+    padding: 1.25rem 1.5rem;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: var(--radius);
+    color: var(--color-primary-dark);
+    align-items: flex-start;
+  }
+
+  .trust-note svg {
+    flex-shrink: 0;
+    margin-top: 2px;
+    color: var(--color-primary);
+  }
+
+  .trust-note p {
+    font-size: 0.85rem;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .article-header h1 {
+      font-size: 1.75rem;
+    }
+
+    .article-description {
+      font-size: 1.05rem;
+    }
+
+    .article-dates {
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+  }
+</style>

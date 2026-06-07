@@ -1,0 +1,330 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  articleDate?: string;
+  articleModified?: string;
+  type?: 'website' | 'article';
+}
+
+const {
+  title,
+  description,
+  canonicalUrl = Astro.url.href,
+  ogImage = '/og-default.jpg',
+  articleDate,
+  articleModified,
+  type = 'website',
+} = Astro.props;
+
+const siteTitle = 'HomeService USA';
+const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" href="/favicon.ico" />
+
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-10L7HK7N2D"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-10L7HK7N2D');
+  </script>
+
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:site_name" content={siteTitle} />
+  <meta property="og:locale" content="en_US" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+
+  {articleDate && <meta property="article:published_time" content={articleDate} />}
+  {articleModified && <meta property="article:modified_time" content={articleModified} />}
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "HomeService USA",
+    "url": "https://homeservice-usa.netlify.app",
+    "description": "Trusted guides for American homeowners. Cost estimates, contractor vetting tips, and honest advice for every home repair and improvement project.",
+    "logo": "https://homeservice-usa.netlify.app/favicon.svg"
+  })} />
+
+  <slot name="head" />
+</head>
+<body>
+  <a href="#main-content" class="sr-only">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="logo">
+        <svg width="28" height="28" viewBox="0 0 64 64" aria-hidden="true">
+          <rect width="64" height="64" rx="8" fill="#1e40af"/>
+          <path d="M32 12 L52 28 L52 52 L12 52 L12 28 Z" fill="#fff"/>
+          <rect x="26" y="36" width="12" height="16" fill="#1e40af" rx="1"/>
+          <circle cx="32" cy="30" r="3" fill="#f59e0b"/>
+        </svg>
+        <span>HomeService <strong>USA</strong></span>
+      </a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+        <ul class="nav-list">
+          <li><a href="/blog/">Guides</a></li>
+          <li><a href="/#services">Services</a></li>
+          <li><a href="/#cost-guides">Cost Guides</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-about">
+          <h3>HomeService USA</h3>
+          <p>Honest, empathic guides for American homeowners. We help you understand costs, find trustworthy contractors, and make confident decisions about your home.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Popular Guides</h4>
+          <ul>
+            <li><a href="/blog/roof-replacement-cost/">Roof Replacement Cost</a></li>
+            <li><a href="/blog/how-to-find-good-contractor/">Finding a Good Contractor</a></li>
+            <li><a href="/blog/ac-blowing-warm-air/">AC Blowing Warm Air</a></li>
+            <li><a href="/blog/home-warranty-worth-it/">Are Home Warranties Worth It?</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="/blog/?category=plumbing">Plumbing</a></li>
+            <li><a href="/blog/?category=hvac">HVAC</a></li>
+            <li><a href="/blog/?category=roofing">Roofing</a></li>
+            <li><a href="/blog/?category=electrical">Electrical</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Resources</h4>
+          <ul>
+            <li><a href="https://www.energystar.gov/" target="_blank" rel="noopener">ENERGY STAR</a></li>
+            <li><a href="https://www.epa.gov/" target="_blank" rel="noopener">EPA</a></li>
+            <li><a href="https://www.energy.gov/" target="_blank" rel="noopener">Dept. of Energy</a></li>
+            <li><a href="https://www.cpsc.gov/" target="_blank" rel="noopener">CPSC Recalls</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {new Date().getFullYear()} HomeService USA. All rights reserved.</p>
+        <p class="footer-disclaimer">This site provides general information for educational purposes. Always consult licensed professionals for specific advice about your home.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.menu-toggle');
+    const navList = document.querySelector('.nav-list');
+    if (toggle && navList) {
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', String(!expanded));
+        navList.classList.toggle('open');
+      });
+    }
+  </script>
+</body>
+</html>
+
+<style>
+  .site-header {
+    background: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    font-size: 1.25rem;
+    color: var(--color-text);
+    font-weight: 400;
+  }
+
+  .logo strong {
+    color: var(--color-primary);
+  }
+
+  .logo:hover {
+    color: var(--color-text);
+  }
+
+  .nav-list {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav-list a {
+    color: var(--color-text-light);
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: color 0.2s;
+  }
+
+  .nav-list a:hover {
+    color: var(--color-primary);
+  }
+
+  .menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+  }
+
+  .menu-toggle span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: var(--color-text);
+    transition: transform 0.2s;
+  }
+
+  .site-footer {
+    background: var(--color-primary-dark);
+    color: #cbd5e1;
+    padding: 3rem 0 1.5rem;
+    margin-top: 4rem;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: 2rem;
+  }
+
+  .site-footer h3,
+  .site-footer h4 {
+    color: #ffffff;
+    margin-bottom: 1rem;
+  }
+
+  .site-footer h3 { font-size: 1.25rem; }
+  .site-footer h4 { font-size: 1rem; margin-top: 0; }
+
+  .site-footer p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-top: 0;
+  }
+
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-links li {
+    margin-top: 0.5rem;
+  }
+
+  .footer-links a {
+    color: #94a3b8;
+    font-size: 0.9rem;
+  }
+
+  .footer-links a:hover {
+    color: #ffffff;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    text-align: center;
+  }
+
+  .footer-disclaimer {
+    font-size: 0.8rem;
+    color: #64748b;
+    margin-top: 0.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .menu-toggle {
+      display: flex;
+    }
+
+    .nav-list {
+      display: none;
+      position: absolute;
+      top: 64px;
+      left: 0;
+      right: 0;
+      background: var(--color-bg);
+      flex-direction: column;
+      padding: 1rem 1.5rem;
+      gap: 0;
+      border-bottom: 1px solid var(--color-border);
+      box-shadow: var(--shadow-md);
+    }
+
+    .nav-list.open {
+      display: flex;
+    }
+
+    .nav-list li {
+      margin: 0;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .nav-list li:last-child {
+      border-bottom: none;
+    }
+
+    .footer-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+  }
+</style>

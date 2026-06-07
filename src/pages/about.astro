@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About HomeService USA"
+  description="We built HomeService USA to give American homeowners honest, research-backed answers to their home repair and improvement questions."
+>
+  <section class="about-hero">
+    <div class="container">
+      <h1>About HomeService USA</h1>
+    </div>
+  </section>
+
+  <section class="about-content">
+    <div class="container">
+      <div class="content-wrapper">
+        <h2>Why We Built This</h2>
+        <p>If you have ever gotten a contractor quote and wondered, "Is this fair, or am I being taken advantage of?" you are not alone. Millions of American homeowners face that exact moment of doubt every year.</p>
+
+        <p>We built HomeService USA because the existing options were not good enough. Most home services websites are either lead-generation funnels disguised as advice (they sell your contact info to contractors), or they are so generic that they do not actually help you make a decision.</p>
+
+        <p>We wanted to build something different: a resource that treats homeowners like adults who deserve real, specific, honest information.</p>
+
+        <h2>What Makes Us Different</h2>
+
+        <ul>
+          <li><strong>No paid contractor listings.</strong> We do not accept money from contractors or service providers to recommend them. Ever.</li>
+          <li><strong>Real cost data.</strong> Our price ranges come from real homeowner experiences, verified industry data, and official sources. Not made-up averages.</li>
+          <li><strong>Empathy first.</strong> We know that a broken furnace in January is not just a "home improvement project." It is a stressful, sometimes scary situation. We write like we are talking to a friend, not selling to a lead.</li>
+          <li><strong>Government-verified sources.</strong> We link to the EPA, Department of Energy, ENERGY STAR, state licensing boards, and other official sources so you can verify everything we share.</li>
+        </ul>
+
+        <h2>Our Sources</h2>
+        <p>Every guide we publish is built on multiple layers of research:</p>
+        <ul>
+          <li>Real homeowner discussions from communities across the internet</li>
+          <li>Official data from the <a href="https://www.epa.gov/" target="_blank" rel="noopener">EPA</a>, <a href="https://www.energy.gov/" target="_blank" rel="noopener">Department of Energy</a>, and <a href="https://www.energystar.gov/" target="_blank" rel="noopener">ENERGY STAR</a></li>
+          <li>Industry reports from the National Association of Home Builders and similar organizations</li>
+          <li>State and local building code requirements</li>
+          <li>Licensed contractor input where applicable</li>
+        </ul>
+
+        <h2>A Note on Advertising</h2>
+        <p>HomeService USA is supported by advertising. You may see ads on our pages from Google AdSense. These ads help us keep the site free and allow us to continue producing new guides. Importantly, the presence of ads does not influence our editorial content in any way. We will never recommend a product or service because an advertiser asked us to.</p>
+
+        <h2>Contact</h2>
+        <p>Have a question about one of our guides? Found information that needs updating? We would love to hear from you. Reach us at <strong>hello@homeservice-usa.com</strong>.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about-hero {
+    background: var(--color-primary-dark);
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  .about-hero h1 {
+    color: white;
+  }
+
+  .about-content {
+    padding: 3rem 0;
+  }
+
+  .content-wrapper {
+    max-width: var(--content-width);
+    margin: 0 auto;
+  }
+
+  .content-wrapper p,
+  .content-wrapper li {
+    font-size: 1.05rem;
+    line-height: 1.75;
+  }
+</style>

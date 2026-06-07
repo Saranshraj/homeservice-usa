@@ -1,0 +1,377 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ServiceCard from '../components/ServiceCard.astro';
+import BlogCard from '../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const latestPosts = allPosts
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .slice(0, 6);
+
+const services = [
+  { title: 'Plumbing', description: 'Leaks, clogs, water heaters, pipe repairs, and sewer line issues.', icon: '🔧', href: '/blog/?category=plumbing' },
+  { title: 'HVAC', description: 'Air conditioning, heating, furnaces, heat pumps, and indoor air quality.', icon: '❄️', href: '/blog/?category=hvac' },
+  { title: 'Roofing', description: 'Roof replacement, repairs, storm damage, shingle types, and costs.', icon: '🏠', href: '/blog/?category=roofing' },
+  { title: 'Electrical', description: 'Panel upgrades, wiring, outlets, lighting, and safety inspections.', icon: '⚡', href: '/blog/?category=electrical' },
+  { title: 'Pest Control', description: 'Ants, termites, rodents, mosquitoes, and wildlife removal.', icon: '🐜', href: '/blog/?category=pest-control' },
+  { title: 'General Repairs', description: 'Handyman services, contractors, home warranties, and insurance.', icon: '🛠️', href: '/blog/?category=homeowner-basics' },
+];
+---
+
+<BaseLayout
+  title="HomeService USA"
+  description="Trusted guides for American homeowners. Honest cost estimates, contractor vetting tips, and expert advice for every home repair and improvement project."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "HomeService USA",
+      "url": "https://homeservice-usa.netlify.app",
+      "description": "Trusted guides for American homeowners. Honest cost estimates, contractor vetting tips, and expert advice for every home repair and improvement project.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://homeservice-usa.netlify.app/blog/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    })} />
+  </Fragment>
+
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <h1>Your Home Deserves Honest Answers</h1>
+        <p class="hero-subtitle">
+          We know how stressful home repairs can be. Whether you are dealing with a surprise plumbing leak at midnight, an AC that quit on the hottest day of the year, or a contractor quote that feels way too high, you deserve clear, trustworthy guidance.
+        </p>
+        <p class="hero-subtitle">
+          No sales pitches. No lead generation. Just honest advice from people who care about helping American homeowners make confident decisions.
+        </p>
+        <div class="hero-cta">
+          <a href="/blog/" class="btn btn-primary">Browse All Guides</a>
+          <a href="/#cost-guides" class="btn btn-outline">View Cost Guides</a>
+        </div>
+        <div class="trust-badges">
+          <div class="badge">
+            <span class="badge-icon">✓</span>
+            <span>No paid contractor listings</span>
+          </div>
+          <div class="badge">
+            <span class="badge-icon">✓</span>
+            <span>Real cost data from homeowners</span>
+          </div>
+          <div class="badge">
+            <span class="badge-icon">✓</span>
+            <span>Verified with official sources</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="services-section" id="services">
+    <div class="container">
+      <h2 class="section-title">What Do You Need Help With?</h2>
+      <p class="section-subtitle">Choose a service category to find cost guides, troubleshooting tips, and contractor vetting advice.</p>
+      <div class="services-grid">
+        {services.map(service => (
+          <ServiceCard {...service} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="problems-section">
+    <div class="container">
+      <h2 class="section-title">Common Problems We Can Help With</h2>
+      <p class="section-subtitle">These are the real issues American homeowners deal with every day. We have guides for each one.</p>
+      <div class="problems-grid">
+        <div class="problem-card">
+          <h3>"Am I being overcharged?"</h3>
+          <p>You got a quote and it feels high, but you have no idea what things should cost. Our state-by-state cost guides give you real price ranges so you can negotiate with confidence.</p>
+          <a href="/blog/roof-replacement-cost/">See an example: Roof costs</a>
+        </div>
+        <div class="problem-card">
+          <h3>"How do I know this contractor is legit?"</h3>
+          <p>Contractor scams cost American homeowners millions each year. From fake licenses to material downgrades, we will show you exactly what to look for before you sign anything.</p>
+          <a href="/blog/how-to-find-good-contractor/">Read our contractor guide</a>
+        </div>
+        <div class="problem-card">
+          <h3>"Something broke and I am panicking"</h3>
+          <p>Your AC is blowing warm air. Your pipe just burst. Your furnace died in January. Take a breath. We have step-by-step guides for the most common home emergencies.</p>
+          <a href="/blog/ac-blowing-warm-air/">AC troubleshooting guide</a>
+        </div>
+        <div class="problem-card">
+          <h3>"Is my home warranty actually worth it?"</h3>
+          <p>Home warranty companies spend a lot on marketing, but thousands of homeowners report denied claims and frustrating loopholes. Here is what you actually need to know.</p>
+          <a href="/blog/home-warranty-worth-it/">Get the honest answer</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="latest-section" id="cost-guides">
+    <div class="container">
+      <h2 class="section-title">Latest Guides</h2>
+      <p class="section-subtitle">Our newest articles, researched and written for real homeowners like you.</p>
+      <div class="blog-grid">
+        {latestPosts.map(post => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            category={post.data.category}
+            readTime={post.data.readTime}
+            slug={post.id}
+          />
+        ))}
+      </div>
+      <div class="section-cta">
+        <a href="/blog/" class="btn btn-outline">View All Guides</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container">
+      <div class="cta-box">
+        <h2>We Are Here to Help</h2>
+        <p>Homeownership can feel overwhelming, especially when something goes wrong and you are not sure who to trust. That is exactly why we built HomeService USA. Every guide we write starts with one question: "What would actually help someone going through this right now?"</p>
+        <p>We link to official government resources like the EPA, Department of Energy, and state licensing boards so you can verify everything we share. No shortcuts, no spin.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #2563eb 100%);
+    color: white;
+    padding: 4rem 0 3.5rem;
+  }
+
+  .hero-content {
+    max-width: 720px;
+  }
+
+  .hero h1 {
+    font-size: 2.75rem;
+    color: white;
+    margin-bottom: 1.25rem;
+    line-height: 1.15;
+  }
+
+  .hero-subtitle {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    color: #bfdbfe;
+    margin-top: 0.75rem;
+  }
+
+  .hero-cta {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.75rem;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 1rem;
+    transition: all 0.2s;
+    border: 2px solid transparent;
+  }
+
+  .btn-primary {
+    background: var(--color-accent);
+    color: #1a1a1a;
+  }
+
+  .btn-primary:hover {
+    background: var(--color-accent-dark);
+    color: #1a1a1a;
+  }
+
+  .btn-outline {
+    border-color: rgba(255,255,255,0.4);
+    color: white;
+    background: transparent;
+  }
+
+  .btn-outline:hover {
+    border-color: white;
+    color: white;
+    background: rgba(255,255,255,0.1);
+  }
+
+  .trust-badges {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .badge {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    color: #93c5fd;
+  }
+
+  .badge-icon {
+    color: var(--color-accent);
+    font-weight: bold;
+  }
+
+  .section-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+  }
+
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-light);
+    max-width: 600px;
+    margin: 0 auto 2.5rem;
+    font-size: 1.05rem;
+  }
+
+  .services-section {
+    padding: 4rem 0;
+    background: var(--color-bg-alt);
+  }
+
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .problems-section {
+    padding: 4rem 0;
+  }
+
+  .problems-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .problem-card {
+    padding: 2rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-bg);
+  }
+
+  .problem-card h3 {
+    font-size: 1.2rem;
+    color: var(--color-primary-dark);
+    margin: 0 0 0.75rem;
+  }
+
+  .problem-card p {
+    color: var(--color-text-light);
+    font-size: 0.95rem;
+    margin: 0 0 1rem;
+    line-height: 1.6;
+  }
+
+  .problem-card a {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  .latest-section {
+    padding: 4rem 0;
+    background: var(--color-bg-alt);
+  }
+
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .section-cta {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .section-cta .btn-outline {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+
+  .section-cta .btn-outline:hover {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .cta-section {
+    padding: 4rem 0;
+  }
+
+  .cta-box {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 3rem;
+    background: #eff6ff;
+    border-radius: 12px;
+    border: 1px solid #bfdbfe;
+  }
+
+  .cta-box h2 {
+    color: var(--color-primary-dark);
+    margin: 0 0 1rem;
+  }
+
+  .cta-box p {
+    color: var(--color-text);
+    line-height: 1.7;
+    font-size: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      padding: 3rem 0 2.5rem;
+    }
+
+    .hero h1 {
+      font-size: 2rem;
+    }
+
+    .hero-cta {
+      flex-direction: column;
+    }
+
+    .services-grid,
+    .blog-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .problems-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .trust-badges {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .services-grid,
+    .blog-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

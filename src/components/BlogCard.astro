@@ -1,0 +1,101 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  pubDate: string;
+  category: string;
+  readTime: string;
+  slug: string;
+}
+
+const { title, description, pubDate, category, readTime, slug } = Astro.props;
+
+const formattedDate = new Date(pubDate).toLocaleDateString('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+});
+
+const categoryLabels: Record<string, string> = {
+  'cost-guides': 'Cost Guide',
+  'contractor-tips': 'Contractor Tips',
+  'hvac': 'HVAC',
+  'roofing': 'Roofing',
+  'plumbing': 'Plumbing',
+  'homeowner-basics': 'Homeowner Basics',
+  'home-warranty': 'Home Warranty',
+  'insurance': 'Insurance',
+};
+---
+
+<a href={`/blog/${slug}/`} class="blog-card">
+  <div class="card-meta">
+    <span class="card-category">{categoryLabels[category] || category}</span>
+    <span class="card-date">{formattedDate}</span>
+  </div>
+  <h3>{title}</h3>
+  <p>{description}</p>
+  <span class="card-readtime">{readTime} read</span>
+</a>
+
+<style>
+  .blog-card {
+    display: block;
+    padding: 1.5rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    transition: box-shadow 0.2s, transform 0.2s;
+    color: var(--color-text);
+  }
+
+  .blog-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-2px);
+    color: var(--color-text);
+  }
+
+  .card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .card-category {
+    background: var(--color-bg-dark);
+    color: var(--color-primary);
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  .card-date {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+  }
+
+  .blog-card h3 {
+    font-size: 1.125rem;
+    margin: 0 0 0.5rem;
+    line-height: 1.35;
+  }
+
+  .blog-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-light);
+    margin: 0 0 0.75rem;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-readtime {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+  }
+</style>

@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogCard from '../../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort(
+  (a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()
+);
+---
+
+<BaseLayout
+  title="Home Repair & Improvement Guides"
+  description="Honest, research-backed guides for American homeowners. Cost estimates, contractor tips, troubleshooting help, and advice you can trust."
+>
+  <section class="blog-hero">
+    <div class="container">
+      <h1>Guides for American Homeowners</h1>
+      <p>Every article is researched using real homeowner experiences, verified industry data, and official government sources. We write for people who want honest answers, not sales pitches.</p>
+    </div>
+  </section>
+
+  <section class="blog-listing">
+    <div class="container">
+      <div class="blog-grid">
+        {sortedPosts.map(post => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            category={post.data.category}
+            readTime={post.data.readTime}
+            slug={post.id}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .blog-hero {
+    background: var(--color-primary-dark);
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  .blog-hero h1 {
+    color: white;
+    margin-bottom: 0.75rem;
+  }
+
+  .blog-hero p {
+    color: #93c5fd;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 1.05rem;
+  }
+
+  .blog-listing {
+    padding: 3rem 0;
+  }
+
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .blog-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .blog-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

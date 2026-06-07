@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" description="The page you are looking for does not exist.">
+  <section class="not-found">
+    <div class="container">
+      <h1>Page Not Found</h1>
+      <p>The page you are looking for may have been moved or no longer exists.</p>
+      <div class="not-found-links">
+        <a href="/" class="btn btn-primary">Go to Homepage</a>
+        <a href="/blog/" class="btn btn-outline">Browse All Guides</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    text-align: center;
+    padding: 6rem 0;
+  }
+
+  .not-found h1 {
+    font-size: 3rem;
+    color: var(--color-primary);
+  }
+
+  .not-found p {
+    font-size: 1.15rem;
+    color: var(--color-text-light);
+    margin-bottom: 2rem;
+  }
+
+  .not-found-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.75rem;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 1rem;
+    transition: all 0.2s;
+    border: 2px solid transparent;
+  }
+
+  .btn-primary {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    background: var(--color-primary-light);
+    color: white;
+  }
+
+  .btn-outline {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+  }
+
+  .btn-outline:hover {
+    background: var(--color-primary);
+    color: white;
+  }
+</style>
