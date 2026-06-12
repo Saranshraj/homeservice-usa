@@ -9,7 +9,7 @@ tags: ["plumbing", "water-heater", "cost-guide", "home-improvement", "energy-eff
 
 **The short answer:** Water heater replacement costs between **$900 and $3,500** for most US homeowners in 2026, including both the unit and labor. A standard 40- to 50-gallon gas tank water heater installed by a licensed plumber typically runs **$1,100 to $1,800**. Electric tank units are slightly cheaper to install at **$900 to $1,500**, while tankless water heaters cost significantly more upfront at **$2,500 to $5,500**. Heat pump water heaters sit in between at **$1,800 to $4,000**, but qualify for a **$600 IRS tax credit** that can tip the math in their favor.
 
-Your water heater is one of those things you never think about until a cold shower jolts you awake at 6 a.m. If you are already dealing with rusty water, a leaking tank, or a unit that is more than 12 years old, you are probably shopping right now. This guide will walk you through exactly what you will pay, which type makes sense for your home, and how to avoid overpaying.
+Your water heater is one of those things you never think about until a cold shower jolts you awake at 6 a.m. If you are already dealing with rusty water, a leaking tank, or a unit that is more than 12 years old, you are probably shopping right now. This guide will walk you through exactly what you will pay, which type makes sense for your home, and how to avoid overpaying. If you are a [first-time homeowner](/blog/first-year-homeowner-guide/), add water heater checks to your seasonal maintenance list. And if you are wondering whether your [homeowners insurance](/blog/homeowners-insurance-claims/) or a [home warranty](/blog/home-warranty-worth-it/) would cover this, we have honest guides on both.
 
 ---
 
@@ -153,7 +153,7 @@ Replacing a water heater is a competitive market in most cities. Here is how to 
 
 **Do not skip the permit.** It feels like extra cost and hassle, but an unpermitted water heater installation can cause real problems at resale and may leave you without recourse if something goes wrong.
 
-**Check licensing.** Water heater installation should be done by a licensed plumber. You can verify a plumber's license through your state's contractor licensing board. Many states have free online lookup tools. If someone offers to do it for cash with no paperwork, walk away.
+**Check licensing.** Water heater installation should be done by a licensed plumber. You can verify a plumber's license through your state's contractor licensing board. Many states have free online lookup tools. If someone offers to do it for cash with no paperwork, walk away. Our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) covers the full vetting process.
 
 ---
 

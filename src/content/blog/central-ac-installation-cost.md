@@ -150,7 +150,7 @@ When getting quotes, insist on the following:
 3. **Permits.** In most states, AC installation requires a permit and inspection. Any contractor who offers to skip the permit is not just cutting corners on paperwork; an unpermitted system can create problems when you sell your home and may void your homeowner's insurance coverage.
 4. **NATE certification.** North American Technician Excellence (NATE) is the industry's leading certification. Choosing a NATE-certified technician is not required, but it signals a higher level of verified competence.
 
-Verify your contractor's license through your state licensing board before signing anything. In most states you can look this up in 60 seconds online.
+Verify your contractor's license through your state licensing board before signing anything. In most states you can look this up in 60 seconds online. For a complete step-by-step vetting process, read our guide on [how to find a good contractor and avoid scams](/blog/how-to-find-good-contractor/).
 
 ---
 
@@ -166,7 +166,7 @@ Not every AC problem requires a full replacement. Here is a simple framework:
 | Refrigerant leak in an R-22 system | Replace immediately |
 | System running but struggling to cool adequately | Get efficiency analysis; likely replacement |
 
-A useful rule of thumb: if the repair cost exceeds 50 percent of the cost of a new system, replacement is the smarter financial move. A new system also comes with a fresh warranty, better efficiency, and a refrigerant that will be supported for decades.
+If your AC is still working but blowing warm air, check our [AC troubleshooting guide](/blog/ac-blowing-warm-air/) before spending on a full replacement. A useful rule of thumb: if the repair cost exceeds 50 percent of the cost of a new system, replacement is the smarter financial move. A new system also comes with a fresh warranty, better efficiency, and a refrigerant that will be supported for decades.
 
 ---
 
@@ -191,4 +191,4 @@ The following government and authoritative sources can help you make an informed
 
 ---
 
-Replacing your central air conditioner is one of the larger home expenses you will face, but it is also one of the most predictable. Get three quotes, insist on a Manual J calculation, confirm the permit is included, and check the IRS tax credit eligibility before you sign. A little preparation now means you are not making a rushed decision in the middle of a July heat wave.
+Replacing your central air conditioner is one of the larger home expenses you will face, but it is also one of the most predictable. Get three quotes, insist on a Manual J calculation, confirm the permit is included, and check the IRS tax credit eligibility before you sign. A little preparation now means you are not making a rushed decision in the middle of a July heat wave. If you are a [first-time homeowner](/blog/first-year-homeowner-guide/), regular AC maintenance can prevent most emergency replacements entirely.

@@ -137,7 +137,7 @@ Getting multiple quotes is essential for electrical work. Here is what a proper 
 - Pressure to sign same-day without getting other bids
 - No physical address or license number on the estimate
 
-Always verify your electrician's license through your state's contractor licensing board before signing anything. The National Association of Home Builders (NAHB) recommends getting at least three written quotes for any project over $1,000.
+Always verify your electrician's license through your state's contractor licensing board before signing anything. The National Association of Home Builders (NAHB) recommends getting at least three written quotes for any project over $1,000. Our detailed guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) covers the full vetting process, including what to look for in reviews and contracts.
 
 ## State-by-State Cost Snapshots
 
@@ -184,7 +184,7 @@ Total time: Most panel upgrades are completed in one day, sometimes two if the i
 
 A panel upgrade is one of those investments that quietly protects your family, lowers your insurance risk, makes EV ownership possible, and adds real value to your home. The key is getting quotes from licensed electricians, confirming permits will be pulled, and not letting anyone talk you out of doing it right just to save a few hundred dollars. Done properly, a new electrical panel can last 30 to 40 years.
 
-If your home is older, your breakers trip often, or you are planning to add an EV charger or major appliance, get three quotes this week. The longer you wait, the higher the risk and often the higher the cost.
+If your home is older, your breakers trip often, or you are planning to add an EV charger or major appliance, get three quotes this week. The longer you wait, the higher the risk and often the higher the cost. If you are a [first-time homeowner](/blog/first-year-homeowner-guide/), add an electrical panel check to your first-year maintenance list. And if you are wondering whether a [home warranty would cover this](/blog/home-warranty-worth-it/), read our honest breakdown first.
 
 ---
 
