@@ -9,7 +9,7 @@ tags: ["hvac", "ac-repair", "troubleshooting", "diy"]
 
 **The short answer:** The most common reason your AC blows warm air is a dirty air filter restricting airflow. Check that first. If the filter is clean, you are likely dealing with low refrigerant, a tripped breaker, a frozen evaporator coil, or a faulty thermostat. Some of these you can fix in minutes. Others require a licensed HVAC technician.
 
-We know how miserable it is when your AC stops cooling, especially in the middle of a heat wave. Before you panic or call the first HVAC company that shows up on Google (where emergency service calls can run $150 to $300 just for the visit), let us walk through the most likely causes in order from simplest to most serious.
+We know how miserable it is when your AC stops cooling, especially in the middle of a heat wave. Before you panic or call the first HVAC company that shows up on Google (where emergency service calls can run $150 to $300 just for the visit), let us walk through the most likely causes in order from simplest to most serious. And if you do need to call a pro, make sure you know [how to find a trustworthy HVAC contractor](/blog/how-to-find-good-contractor/) first.
 
 ## Check These First (Before Calling Anyone)
 
@@ -99,6 +99,8 @@ Consider replacing your AC if:
 - Your energy bills have been rising steadily
 
 A new central AC system typically costs **$3,500 to $7,500** installed, depending on the size and efficiency rating. High-efficiency systems cost more upfront but can cut your cooling bills by 20 to 40%. [Check ENERGY STAR certified products](https://www.energystar.gov/productfinder/product/certified-central-air-conditioners/) for models that meet efficiency standards.
+
+Wondering if a [home warranty would cover this repair](/blog/home-warranty-worth-it/)? Read our honest breakdown before you buy one. And if you are a [first-time homeowner](/blog/first-year-homeowner-guide/), regular HVAC maintenance can prevent most of these problems entirely.
 
 ## How to Avoid Emergency AC Calls
 

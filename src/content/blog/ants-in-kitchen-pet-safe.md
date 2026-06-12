@@ -111,7 +111,7 @@ Call a pest control professional if:
 - You see ants in multiple rooms simultaneously
 - You notice ant damage to wood in your home
 
-**Cost for professional ant treatment:** $150 to $300 for interior treatment. Make sure to tell them you have pets so they use pet-safe products and can advise on re-entry times.
+**Cost for professional ant treatment:** $150 to $300 for interior treatment. Make sure to tell them you have pets so they use pet-safe products and can advise on re-entry times. Always [vet any pest control company](/blog/how-to-find-good-contractor/) before hiring them, the same rules apply as for any home service contractor.
 
 ## Why Ants Show Up in the First Place
 
@@ -132,6 +132,8 @@ Understanding this helps prevent future invasions:
 - Seal entry points with caulk
 - Keep tree branches trimmed away from the house
 - Move firewood and debris away from the foundation
+
+If you are a new homeowner dealing with ants for the first time, our [first-year homeowner maintenance guide](/blog/first-year-homeowner-guide/) includes seasonal pest prevention as part of the exterior inspection checklist.
 
 ## Official Resources
 

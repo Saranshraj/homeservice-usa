@@ -9,7 +9,7 @@ tags: ["insurance", "claims", "homeowner-rights"]
 
 **The short answer:** If your homeowners insurance claim was denied, do not accept the first answer. Request a written explanation, review your policy language carefully, document everything, and file a formal appeal. If the denial seems unfair, your state's Department of Insurance can investigate. Many denied claims get overturned on appeal.
 
-Few things are more frustrating than paying insurance premiums for years, filing a legitimate claim when something goes wrong, and getting denied. Unfortunately, this is more common than most homeowners realize, especially in states with high natural disaster risk like Florida, Texas, and the Gulf Coast.
+Few things are more frustrating than paying insurance premiums for years, filing a legitimate claim when something goes wrong, and getting denied. Unfortunately, this is more common than most homeowners realize, especially in states with high natural disaster risk like Florida, Texas, and the Gulf Coast. (And no, a [home warranty](/blog/home-warranty-worth-it/) is not the same as insurance. Read our guide on the difference.)
 
 ## Common Reasons for Claim Denials
 
@@ -109,7 +109,7 @@ Wind and hail damage is covered under most policies, but disputes are common aro
 - The scope of necessary repairs vs. what the adjuster approved
 - Percentage-based deductibles in coastal and hail-prone areas
 
-**Tip:** After any significant storm, have your roof inspected by a licensed roofer (not a storm chaser) and document their findings. File your claim promptly, as many policies have deadlines.
+**Tip:** After any significant storm, have your roof inspected by a licensed roofer (not a storm chaser) and document their findings. Our [roof replacement cost guide](/blog/roof-replacement-cost/) can help you understand whether the adjuster's estimate is fair. And always [vet any roofer](/blog/how-to-find-good-contractor/) before signing a contract. File your claim promptly, as many policies have deadlines.
 
 ### Mold
 

@@ -15,7 +15,7 @@ This is one of the most searched, most debated topics among American homeowners.
 
 A home warranty is a service contract (not insurance) that covers the repair or replacement of major home systems and appliances when they break down from normal wear and tear. You pay an annual premium plus a service call fee (usually $75 to $125) each time you file a claim.
 
-**Important distinction:** A home warranty is NOT homeowners insurance. Insurance covers damage from events like fire, storms, and theft. A warranty covers mechanical breakdowns.
+**Important distinction:** A home warranty is NOT [homeowners insurance](/blog/homeowners-insurance-claims/). Insurance covers damage from events like fire, storms, and theft. A warranty covers mechanical breakdowns.
 
 ## What They Typically Cover
 
@@ -81,7 +81,7 @@ For most of these repairs, the warranty savings (repair cost minus service fee) 
 
 Despite the problems, there are situations where a warranty could be worthwhile:
 
-1. **You just bought an older home** with aging systems (15+ year old HVAC, original water heater, old appliances) and you do not have an emergency fund built up yet.
+1. **You just bought an older home** with aging systems (15+ year old HVAC, original water heater, old appliances) and you do not have an emergency fund built up yet. (If this is you, our [first-time homeowner guide](/blog/first-year-homeowner-guide/) has a complete maintenance schedule that helps prevent costly breakdowns.)
 2. **The seller is paying for it.** If a home warranty is included free as part of your home purchase, there is no downside to having it for the first year.
 3. **You have multiple aging appliances** that are likely to fail within the next year or two.
 
@@ -108,7 +108,7 @@ For major expenses like HVAC replacement or a new roof, options include:
 
 ### Option 4: Maintenance Contracts Directly with Local Companies
 
-Instead of a national warranty company, some homeowners find better value in annual maintenance contracts directly with a local HVAC company, plumber, or electrician. These often include priority scheduling, discounted parts, and annual tune-ups. The relationship is direct, and you can read reviews of the specific company doing the work.
+Instead of a national warranty company, some homeowners find better value in annual maintenance contracts directly with a local HVAC company, plumber, or electrician. These often include priority scheduling, discounted parts, and annual tune-ups. The relationship is direct, and you can read reviews of the specific company doing the work. Just make sure you [vet any contractor properly](/blog/how-to-find-good-contractor/) before signing a maintenance contract.
 
 ## If You Do Buy a Home Warranty
 

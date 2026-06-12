@@ -9,7 +9,7 @@ tags: ["roofing", "cost-guide", "home-improvement"]
 
 **The short answer:** Most American homeowners pay between **$8,500 and $24,500** for a full roof replacement in 2026. The national average sits around **$12,000 to $15,000** for a standard 2,000 sq ft home with asphalt shingles.
 
-But your actual cost depends on where you live, what materials you choose, and a few other factors that contractors do not always explain upfront. Let us break it all down.
+But your actual cost depends on where you live, what materials you choose, and a few other factors that contractors do not always explain upfront. Before you hire anyone, make sure you know [how to vet a contractor properly](/blog/how-to-find-good-contractor/) to avoid scams. Let us break it all down.
 
 ## Why Roof Costs Vary So Much
 
@@ -79,6 +79,8 @@ Not every roof problem means a full replacement. Here is a general guide:
 - **Replace:** Roof is 20+ years old, multiple leaks, widespread shingle deterioration, sagging deck, daylight visible through attic boards.
 
 If your roof is between 15-20 years old and you need a repair, ask your roofer honestly whether it makes more sense to repair now and replace in 2-3 years, or just replace now. A good roofer will give you an honest answer.
+
+If you are a new homeowner and roof maintenance feels overwhelming, our [first-time homeowner maintenance guide](/blog/first-year-homeowner-guide/) includes a seasonal checklist that covers roof inspections. And if you are considering a home warranty to cover your roof, read our honest review of [whether home warranties are actually worth it](/blog/home-warranty-worth-it/).
 
 ## Official Resources
 

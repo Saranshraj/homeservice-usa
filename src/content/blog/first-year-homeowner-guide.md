@@ -11,7 +11,7 @@ tags: ["first-time-homeowner", "maintenance", "home-care"]
 
 If you recently closed on your first home, congratulations. You probably feel a mix of excitement and low-level terror. That is completely normal. Surveys consistently show that a large percentage of first-time buyers feel overwhelmed within the first few months. One highly upvoted post on a homeowner forum asked, "Anyone else feel like they made the biggest mistake of their life? When does it get better?" It had over 400 comments from people saying, "Same."
 
-So if you are feeling that way, you are not alone. And this guide exists specifically to replace that anxiety with a clear, manageable plan.
+So if you are feeling that way, you are not alone. And this guide exists specifically to replace that anxiety with a clear, manageable plan. We also have guides on [finding a trustworthy contractor](/blog/how-to-find-good-contractor/), [understanding roof replacement costs](/blog/roof-replacement-cost/), and [whether home warranties are worth it](/blog/home-warranty-worth-it/) to help you navigate the big decisions.
 
 ## The First Week: Critical Tasks
 
@@ -52,9 +52,9 @@ Run both heating and cooling for 15 minutes each to confirm they work. Check tha
 
 ### Spring (March through May)
 
-- **Schedule HVAC tune-up for cooling season.** Cost: $75 to $150. This is the single best money you can spend on your home. A technician will clean the coils, check refrigerant levels, and catch problems before they become mid-summer emergencies.
+- **Schedule HVAC tune-up for cooling season.** Cost: $75 to $150. This is the single best money you can spend on your home. A technician will clean the coils, check refrigerant levels, and catch problems before they become mid-summer emergencies. If your [AC starts blowing warm air](/blog/ac-blowing-warm-air/), check our troubleshooting guide before calling for an expensive service visit.
 - **Clean gutters and downspouts.** Remove debris, check for damage, and make sure water flows away from your foundation. Cost: Free (DIY) or $100 to $250 (professional).
-- **Inspect the exterior.** Walk around your house and look for cracked caulking around windows, damaged siding, gaps where pests could enter, and foundation cracks.
+- **Inspect the exterior.** Walk around your house and look for cracked caulking around windows, damaged siding, gaps where pests could enter, and foundation cracks. Sealing gaps is also the best way to prevent [ant invasions](/blog/ants-in-kitchen-pet-safe/).
 - **Test your sprinkler system.** Check every zone for broken heads or misaligned spray.
 - **Check the grading around your foundation.** Soil should slope away from the house, not toward it. Poor grading is one of the most common causes of basement water problems.
 
@@ -71,7 +71,7 @@ Run both heating and cooling for 15 minutes each to confirm they work. Check tha
 - **Clean gutters again.** Leaves are the biggest culprit. Clogged gutters cause ice dams in winter, which can damage your roof.
 - **Winterize outdoor faucets.** Disconnect hoses, close interior shut-off valves for outdoor spigots, and open the outdoor faucet to drain remaining water. A burst outdoor pipe can cost $1,000 or more to repair.
 - **Check weather stripping** on doors and windows. Replace if worn. This is one of the easiest ways to reduce heating bills. [ENERGY STAR weatherization tips](https://www.energystar.gov/campaign/seal_insulate).
-- **Inspect your roof.** From the ground with binoculars or from a ladder, look for missing, cracked, or curling shingles. Catch small problems before winter makes them worse.
+- **Inspect your roof.** From the ground with binoculars or from a ladder, look for missing, cracked, or curling shingles. Catch small problems before winter makes them worse. If you think a replacement is coming, check our [roof replacement cost guide](/blog/roof-replacement-cost/) for state-by-state pricing.
 
 ### Winter (December through February)
 

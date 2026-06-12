@@ -9,7 +9,7 @@ tags: ["contractors", "scam-prevention", "hiring"]
 
 **The short answer:** Always verify a contractor's license through your state licensing board, get at least three written quotes, never pay more than 30% upfront, and get everything in writing. These four steps alone would prevent the majority of contractor scams in the US.
 
-If you are reading this, you are probably about to spend a significant amount of money on your home. Maybe it is a new roof, a kitchen remodel, an HVAC replacement, or foundation work. Whatever it is, hiring the wrong contractor can turn a stressful situation into a devastating one.
+If you are reading this, you are probably about to spend a significant amount of money on your home. Maybe it is a new roof, a kitchen remodel, an HVAC replacement, or foundation work. Whatever it is, hiring the wrong contractor can turn a stressful situation into a devastating one. Whether you need a [roof replacement](/blog/roof-replacement-cost/), an [AC repair](/blog/ac-blowing-warm-air/), or any other major home project, these steps apply.
 
 We have researched hundreds of real homeowner complaints, BBB reports, and federal lawsuits to put together this guide. These are not hypothetical risks. They are patterns that repeat themselves across the country every single day.
 
@@ -129,6 +129,8 @@ Instead of waiting for someone to knock on your door, try these approaches:
 - Check with your local building supply stores. They often know which contractors have good reputations.
 - Contact your local Home Builders Association chapter.
 - Use your state licensing board's directory to find licensed contractors in your area.
+
+If a contractor does shoddy work and your [homeowners insurance claim gets denied](/blog/homeowners-insurance-claims/), you will need proper documentation to fight back. And if someone tries to sell you a [home warranty](/blog/home-warranty-worth-it/) as a substitute for vetting contractors properly, read our honest guide on whether those are actually worth it.
 
 ## Official Resources
 
