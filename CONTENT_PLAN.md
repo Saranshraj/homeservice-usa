@@ -8,6 +8,15 @@ This is the master roadmap. When told to "banao agle N blogs," pick the next unb
 
 Every article must follow the existing content rules: empathic US-targeted tone, no emdash, answer-first opening paragraph, real cost tables, internal links to 2-4 related existing articles, Official Resources section, 1500-2500 words.
 
+### Hard rule: no content cannibalization
+
+Before writing any article, grep the existing `src/content/blog/*.md` files for the core keyword and subtopic you are about to cover. Two pages competing for the same search intent split ranking signal and hurt both instead of helping either. This has already happened once in this plan (flagged and fixed 2026-07-24: knob-and-tube wiring and 100-vs-200-amp panel upgrades were both already covered as subsections inside `house-rewiring-cost.md` and `electrical-panel-upgrade-cost.md`).
+
+Rules going forward:
+- If a topic is already covered as a full article OR as a substantial subsection inside an existing article, do not write a new page targeting the same query. Either skip it, or make the new angle genuinely different in search intent (identification/diagnosis vs. cost vs. comparison vs. decision-guide) and say so explicitly in the title and first paragraph.
+- Prefer generic "How Much Does X Cost" titles only once per topic. A second article on a near-duplicate topic must lead with a different intent word (why, when, signs, vs., checklist, how to choose) not "cost."
+- When in doubt, fold the new angle into the existing article as an added section instead of creating a new page.
+
 ## Why these clusters
 
 - **Roofing, HVAC, Plumbing, Electrical, Painting** are already pulling impressions in Search Console (furnace, roof, exterior painting, AC warm air, electrical panel) and are the highest-CPC categories ($9.40-$14). Building topic clusters around them builds topical authority and lifts the whole cluster's rankings, not just one page.
@@ -19,6 +28,11 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 - **Smart Home / Aging in Place** are lower search volume but very low competition and good for AdSense diversity.
 
 ---
+
+## Progress log
+
+- 2026-07-24: Scheduler resumed after being stalled since Jun 23. It independently published 12 articles covering: foundation-repair-cost (#67), siding-replacement-cost (#68), mold-remediation-cost (#74), garage-door-replacement-cost (#70), sewer-line-repair-cost (#27), termite-treatment-cost (#61), whole-home-generator-cost (#38/#98), attic-insulation-cost (#96), deck-building-cost (#93), heat-pump-installation-cost (related to #14), plus two off-plan bonus topics: solar-panel-installation-cost, hardwood-floor-installation-cost. These are marked DONE below with their actual published slug. Always check `src/content/blog/` before assigning new work since the scheduler runs independently and may pick items out of order.
+- 2026-07-24: Cannibalization audit. Confirmed `house-rewiring-cost.md` already has a full "Knob-and-Tube Wiring" section and `electrical-panel-upgrade-cost.md` already covers 100-amp-vs-200-amp directly. Items #33 and #34 below were reframed to non-cost search intents (identification/safety, not pricing) to avoid competing with those existing pages. Item #68 (siding comparison) and #98/#38 (generator comparison) were also reframed since scheduler's generic cost guides now own the "cost" intent for those topics.
 
 ## TIER 1 — Roofing Cluster (10)
 
@@ -38,7 +52,7 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 11. furnace-not-turning-on-troubleshooting
 12. how-to-choose-hvac-contractor (ties to "HVAC mafia" Reddit thread, pricing transparency angle)
 13. ductless-mini-split-cost
-14. heat-pump-vs-furnace-cost-comparison
+14. ~~heat-pump-vs-furnace-cost-comparison~~ — DONE as `heat-pump-installation-cost.md` (2026-07-24, scheduler)
 15. hvac-maintenance-plan-worth-it
 16. thermostat-installation-cost-smart-vs-standard
 17. air-duct-cleaning-cost-and-when-needed
@@ -54,7 +68,7 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 24. sump-pump-installation-cost (direct Reddit question: is $6,500 quote fair)
 25. septic-to-sewer-conversion-cost (direct Reddit topic)
 26. clogged-drain-diy-vs-professional
-27. sewer-line-repair-cost
+27. ~~sewer-line-repair-cost~~ — DONE (2026-07-24, scheduler)
 28. tankless-water-heater-installation-cost
 29. pipe-leak-repair-cost
 30. garbage-disposal-installation-cost
@@ -63,12 +77,12 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 
 ## TIER 1 — Electrical Cluster (8)
 
-33. knob-and-tube-wiring-replacement (direct Reddit topic: "Bought a 110 year old house, trying to replace knob and tube wiring")
-34. 100-amp-vs-200-amp-panel-upgrade (ties to Reddit permit controversy thread)
+33. how-to-tell-if-your-house-has-knob-and-tube-wiring — identification/safety intent, NOT cost (cost already covered in house-rewiring-cost.md); direct Reddit topic: "Bought a 110 year old house, trying to replace knob and tube wiring"
+34. do-you-need-a-200-amp-panel-signs-and-checklist — decision intent, NOT cost (cost already covered in electrical-panel-upgrade-cost.md); ties to Reddit permit controversy thread
 35. electrical-inspection-cost-and-checklist
 36. gfci-outlet-installation-cost
 37. ev-charger-installation-cost
-38. generator-installation-cost-whole-house
+38. ~~generator-installation-cost-whole-house~~ — DUPLICATE, see whole-home-generator-cost.md (scheduler, 2026-07-24). Slot removed.
 39. electrical-panel-labeling-safety-guide (direct Reddit topic)
 40. outdoor-lighting-installation-cost
 
@@ -105,7 +119,7 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 
 ## TIER 2 — Pest Control Cluster (6)
 
-61. termite-inspection-and-treatment-cost
+61. ~~termite-inspection-and-treatment-cost~~ — DONE as `termite-treatment-cost.md` (2026-07-24, scheduler)
 62. how-to-get-rid-of-mice-in-house-safely
 63. bed-bug-treatment-cost
 64. mosquito-control-yard-treatment-cost
@@ -114,14 +128,14 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 
 ## TIER 2 — Foundation / Siding / Gutters / Windows-Doors / Garage Cluster (8)
 
-67. foundation-crack-repair-cost
-68. vinyl-siding-vs-fiber-cement-cost-comparison
+67. ~~foundation-crack-repair-cost~~ — DONE as `foundation-repair-cost.md` (2026-07-24, scheduler)
+68. vinyl-vs-fiber-cement-vs-wood-siding-comparison — durability/pros-cons comparison intent, NOT cost (cost already covered in siding-replacement-cost.md, scheduler)
 69. gutter-installation-and-replacement-cost
-70. garage-door-repair-vs-replacement-cost
+70. ~~garage-door-repair-vs-replacement-cost~~ — DONE as `garage-door-replacement-cost.md` (2026-07-24, scheduler)
 71. front-door-replacement-cost
 72. basement-waterproofing-cost
 73. crawl-space-encapsulation-cost
-74. mold-remediation-cost-and-process
+74. ~~mold-remediation-cost-and-process~~ — DONE as `mold-remediation-cost.md` (2026-07-24, scheduler)
 
 ---
 
@@ -154,14 +168,19 @@ Every article must follow the existing content rules: empathic US-targeted tone,
 
 ## TIER 3 — Additional Cost Guides / Problem Solvers (8)
 
-93. deck-building-cost-per-square-foot
+93. ~~deck-building-cost-per-square-foot~~ — DONE as `deck-building-cost.md` (2026-07-24, scheduler)
 94. fence-installation-cost-by-material
 95. driveway-replacement-cost-concrete-vs-asphalt
-96. attic-insulation-cost-and-energy-savings
+96. ~~attic-insulation-cost-and-energy-savings~~ — DONE as `attic-insulation-cost.md` (2026-07-24, scheduler)
 97. basement-finishing-cost
-98. whole-house-generator-vs-portable-cost-comparison
+98. portable-generator-vs-whole-house-generator-which-is-right-for-you — comparison/decision intent, NOT cost (cost already covered in whole-home-generator-cost.md, scheduler)
 99. why-is-my-electric-bill-so-high-troubleshooting
 100. home-inspection-cost-what-it-covers
+
+### Bonus / off-plan articles already published
+
+- solar-panel-installation-cost.md (2026-07-24, scheduler)
+- hardwood-floor-installation-cost.md (2026-07-24, scheduler)
 
 ---
 
