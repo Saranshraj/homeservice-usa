@@ -36,9 +36,9 @@ Rules going forward:
 
 ## TIER 1 — Roofing Cluster (10)
 
-1. roof-repair-vs-replace — "How do you personally decide it's finally time to replace your roof instead of keep repairing" (real Reddit question, high engagement)
-2. roof-leak-causes-and-fixes
-3. how-long-does-a-roof-last-by-material
+1. ~~roof-repair-vs-replace~~ — DONE (2026-07-24)
+2. ~~roof-leak-causes-and-fixes~~ — DONE (2026-07-24)
+3. ~~how-long-does-a-roof-last-by-material~~ — DONE (2026-07-24)
 4. metal-roof-cost-vs-shingle
 5. roof-inspection-cost-what-to-expect
 6. hiring-a-roofer-vs-general-contractor (direct Reddit question)
