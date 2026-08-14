@@ -194,4 +194,4 @@ Before you spend a dollar, bookmark these sources for your research:
 - [NAHB Contractor Finder](https://www.nahb.org) to find credentialed contractors in your area
 - Your state contractor licensing board to verify any contractor's license before signing
 
-Replacing your siding is a significant investment, but it protects everything else inside your walls. If you are seeing any of the warning signs above, the cost of waiting is almost always higher than the cost of acting now.
+Replacing your siding is a significant investment, but it protects everything else inside your walls, working alongside your [roof](/blog/roof-replacement-cost/) as your home's primary defense against the elements. If you are seeing any of the warning signs above, the cost of waiting is almost always higher than the cost of acting now.
