@@ -56,7 +56,7 @@ Most homeowners are dealing with the top half of this table. Full foundation rep
 
 Cracks are the most common foundation concern homeowners call about. But not all cracks are created equal.
 
-**Vertical cracks** are usually caused by normal concrete curing and settling. They are the least concerning. A contractor will inject epoxy or polyurethane to seal them and stop water intrusion. Expect to pay **$300 to $800 per crack**.
+**Vertical cracks** are usually caused by normal concrete curing and settling. They are the least concerning. A contractor will inject epoxy or polyurethane to seal them and stop water intrusion — left unchecked, persistent moisture also creates [mold risks](/blog/mold-remediation-cost/) that compound your repair costs. Expect to pay **$300 to $800 per crack**.
 
 **Diagonal cracks** (running at a 45-degree angle from corners of windows or doors) often indicate differential settlement, meaning one section of the foundation is sinking faster than another. These warrant closer inspection. Repair costs range from **$800 to $3,000** depending on what is causing them.
 
@@ -116,7 +116,7 @@ Signs that warrant urgent professional attention (not a wait-and-see approach):
 - Gaps appearing between walls and ceilings
 - Floors that slope more than 1 inch over 20 feet
 - Walls visibly pulling away from the structure
-- Water pooling in the basement after rain (drainage failure accelerates foundation damage)
+- Water pooling in the [basement](/blog/basement-waterproofing-cost/) after rain (drainage failure accelerates foundation damage)
 
 ## Can You DIY Foundation Repair?
 
@@ -140,7 +140,7 @@ Foundation repair is one of those expenses that rarely comes at a convenient tim
 
 **FEMA assistance:** If your foundation damage was caused by a declared natural disaster (flooding, earthquake, hurricane), [FEMA](https://www.fema.gov) may cover repair costs under the Individual Assistance program. Check [DisasterAssistance.gov](https://www.disasterassistance.gov) after any federally declared disaster in your area.
 
-**Homeowners insurance:** Standard homeowners policies do not cover foundation settling or soil movement. However, if your foundation was damaged by a sudden event like a burst pipe, fallen tree, or vehicle impact, your policy may cover it. Always call your insurer before starting repairs to confirm coverage.
+**[Homeowners insurance](/blog/homeowners-insurance-claims/):** Standard homeowners policies do not cover foundation settling or soil movement. However, if your foundation was damaged by a sudden event like a burst pipe, fallen tree, or vehicle impact, your policy may cover it. Always call your insurer before starting repairs to confirm coverage.
 
 ## How to Avoid Foundation Repair Scams
 
@@ -184,4 +184,4 @@ These government and professional sources provide reliable, unbiased information
 - [EPA Guide to Moisture Control in Buildings](https://www.epa.gov/mold/mold-course-chapter-1)
 - [Consumer Financial Protection Bureau: Home Repair Financing](https://www.consumerfinance.gov/consumer-tools/mortgages/)
 
-Foundation repair is one of those home expenses that can feel overwhelming the moment you discover the problem. But the reality is that most foundation issues are fixable, many are less expensive than you fear, and acting sooner always costs less than waiting. Get an independent structural engineer's assessment first, compare at least three licensed contractor quotes, and do not let anyone pressure you into a decision before you understand what you are actually dealing with.
+Foundation repair is one of those home expenses that can feel overwhelming the moment you discover the problem. But the reality is that most foundation issues are fixable, many are less expensive than you fear, and acting sooner always costs less than waiting. Get an independent structural engineer's assessment first, compare at least three [licensed contractor](/blog/how-to-find-good-contractor/) quotes, and do not let anyone pressure you into a decision before you understand what you are actually dealing with.

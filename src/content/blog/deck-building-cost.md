@@ -23,7 +23,7 @@ This is the most important decision you will make, and it affects both upfront c
 
 Pressure-treated pine is the classic American deck material and still the most common choice. It is durable, widely available, and easy for contractors to work with. The wood is treated with preservatives to resist rot and insects, which is why it can last 15 to 25 years with proper maintenance.
 
-The catch: pressure-treated decks need to be stained or sealed every one to three years to stay looking good and to extend their life. If you skip maintenance, the wood grays, checks (develops surface cracks), and splinters. Factor in roughly **$200 to $500 every few years** for sealing and staining.
+The catch: pressure-treated decks need to be stained or sealed every one to three years to stay looking good and to extend their life. If you skip maintenance, the wood grays, checks (develops surface cracks), and splinters. Factor in roughly **$200 to $500 every few years** for sealing and staining — our [first-year homeowner guide](/blog/first-year-homeowner-guide/) includes a seasonal maintenance checklist that covers deck upkeep alongside other essential tasks.
 
 Total cost for a 300 sq ft deck: **$4,500 to $7,500**
 
@@ -94,7 +94,7 @@ If you are replacing an existing deck, disposal adds cost. A small old deck cost
 
 Almost every US municipality requires a building permit for a new deck. The permit ensures the framing is structurally sound, the footings are deep enough for local frost depths, and the railings meet code height requirements (typically 36 to 42 inches, depending on deck height). Permit fees vary widely: a rural county might charge $100 to $150, while a major city can charge $500 to $1,000.
 
-A contractor who suggests skipping the permit is a contractor you should not hire. An unpermitted deck creates problems when you sell: it must be disclosed, buyers can require it to be torn down, and homeowners insurance may deny claims related to an unpermitted structure. The [CPSC](https://www.cpsc.gov) has noted that deck collapses cause hundreds of injuries annually, most involving older uncertified structures.
+A contractor who suggests skipping the permit is a contractor you should not hire. An unpermitted deck creates problems when you sell: it must be disclosed, buyers can require it to be torn down, and [homeowners insurance](/blog/homeowners-insurance-claims/) may deny claims related to an unpermitted structure. The [CPSC](https://www.cpsc.gov) has noted that deck collapses cause hundreds of injuries annually, most involving older uncertified structures.
 
 ## Deck Costs by State
 
@@ -146,11 +146,11 @@ The lifespan numbers above assume the deck is properly built with the right fast
 
 Decks are one of the better return-on-investment home improvements. According to [Remodeling Magazine's Cost vs. Value Report](https://www.remodelingmagazine.com), a wood deck addition nationally returns about **65 to 75 percent** of its cost at resale, while composite decks return slightly less at **60 to 65 percent**. In markets where outdoor living is a high priority (Pacific Northwest, Southeast, mid-Atlantic), returns are typically higher.
 
-More practically: a deck expands your usable living space, which matters to buyers even if the formal appraisal value does not fully capture it. Homes with well-maintained decks sell faster in most markets.
+More practically: a deck expands your usable living space, which matters to buyers even if the formal appraisal value does not fully capture it. Homes with well-maintained decks sell faster in most markets, especially when paired with complementary outdoor improvements like [privacy fencing](/blog/fence-installation-cost/).
 
 ## How to Get the Best Price Without Getting Burned
 
-**Get three quotes minimum.** Deck contractor pricing varies by 30 to 50 percent for the same project. Always compare quotes with the same square footage, material spec, and features so you are comparing apples to apples.
+**Get [three quotes minimum](/blog/how-to-find-good-contractor/).** Deck contractor pricing varies by 30 to 50 percent for the same project. Always compare quotes with the same square footage, material spec, and features so you are comparing apples to apples.
 
 **Ask to see completed projects.** Deck framing quality varies enormously. Ask to visit or see photos of a similar deck the contractor built in the last 12 months, not just the finished surface but the framing and post-connection details.
 

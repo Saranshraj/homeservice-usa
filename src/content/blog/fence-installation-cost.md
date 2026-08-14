@@ -114,7 +114,7 @@ If you are in a high-cost state and sticker-shocked by quotes, know that **mater
 
 ## Permit Costs and HOA Rules
 
-Here is something many homeowners skip: **fencing typically requires a permit**, and skipping it can cost you later when you sell.
+Here is something many homeowners skip: **fencing typically requires a permit**, and skipping it can cost you later when you sell — and an unpermitted fence may not be covered by your [homeowners insurance](/blog/homeowners-insurance-claims/) after storm damage.
 
 Most cities and counties require a permit for any fence over 3 to 4 feet tall. Permits typically cost **$50 to $200** depending on your municipality. The permitting office will also check that your fence does not encroach on utility easements or your neighbor's property. Always confirm your property lines with a survey (cost: $300 to $700) if there is any doubt.
 
@@ -127,7 +127,7 @@ If you live in a neighborhood with a **Homeowners Association**, you face an add
 
 Always get written HOA approval before a contractor even pulls a permit. Ripping out a non-compliant fence is an expensive lesson.
 
-Your contractor should pull the permit, not just "help you with it." If a contractor suggests skipping the permit process, that is a red flag.
+Your [contractor](/blog/how-to-find-good-contractor/) should pull the permit, not just "help you with it." If a contractor suggests skipping the permit process, that is a red flag.
 
 ---
 
@@ -178,13 +178,13 @@ Maintenance and material choice determine longevity more than anything else. Rou
 - **Wrought iron:** 50+ years with occasional rust treatment
 - **Chain link (galvanized):** 15 to 20 years in most climates
 
-The fastest way to kill a wood fence early: let grass and soil accumulate against the base of the boards. Bottom rot from ground contact is the number-one cause of premature wood fence failure. Keep a 2-inch gap between the fence boards and the soil surface.
+The fastest way to kill a wood fence early: let grass and soil accumulate against the base of the boards. Bottom rot from ground contact is the number-one cause of premature wood fence failure — a detail worth knowing for any new homeowner; our [first-year homeowner guide](/blog/first-year-homeowner-guide/) covers this and similar routine upkeep. Keep a 2-inch gap between the fence boards and the soil surface.
 
 ---
 
 ## Return on Investment: Does a Fence Add Value?
 
-According to [Remodeling Magazine's Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/), a midrange wood fence project recoups roughly **50 to 65 percent** of its cost at resale. That is not spectacular as a pure investment, but fences improve daily quality of life in ways that go beyond the resale number: privacy, pet safety, noise reduction, and backyard usability.
+According to [Remodeling Magazine's Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/), a midrange wood fence project recoups roughly **50 to 65 percent** of its cost at resale. That is not spectacular as a pure investment, but fences improve daily quality of life in ways that go beyond the resale number: privacy, pet safety, noise reduction, and backyard usability that pairs naturally with a [deck or patio](/blog/deck-building-cost/).
 
 In neighborhoods where fences are the norm, not having one can actually hurt your home's appeal to buyers with kids or pets.
 

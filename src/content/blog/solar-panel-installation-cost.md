@@ -34,7 +34,7 @@ Your system size is measured in kilowatts (kW) and is determined by how much ele
 | 10 kW | Large home or high usage | $25,000 to $35,000 | $17,500 to $24,500 |
 | 12 kW | Very large home, EV charging | $30,000 to $42,000 | $21,000 to $29,400 |
 
-These ranges reflect installed costs including labor, permitting, and interconnection fees. Equipment (panels and inverter) typically accounts for about 35 to 40 percent of the total; the rest is soft costs.
+These ranges reflect installed costs including labor, permitting, and interconnection fees. Equipment (panels and inverter) typically accounts for about 35 to 40 percent of the total; the rest is soft costs. If you are sizing your solar system to support electric vehicle charging, our guide to [EV charger installation costs](/blog/ev-charger-installation-cost/) explains the additional electrical infrastructure you may need.
 
 ## What Drives Solar Installation Costs?
 
@@ -174,7 +174,7 @@ Knowing the timeline helps you avoid surprises.
 | Permission to operate | 1 to 4 weeks | Utility flips the switch for net metering |
 | First full solar bill | 1 to 2 months | You see the impact on your electricity bill |
 
-Total time from contract to generating power: **2 to 5 months** in most markets.
+Total time from contract to generating power: **2 to 5 months** in most markets. Note that if your home has an older electrical panel, the site assessment may identify the need for an [electrical panel upgrade](/blog/electrical-panel-upgrade-cost/) before installation can proceed — plan for that possibility in your timeline and budget.
 
 ## Does Solar Affect Your Homeowners Insurance?
 
