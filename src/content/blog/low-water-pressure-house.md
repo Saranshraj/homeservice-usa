@@ -48,7 +48,7 @@ Your home has at least two main shutoff valves: one at the meter and one where t
 
 ### 4. Corroded or Galvanized Pipes
 
-If your home is older than 50 years and still has original galvanized steel pipes, corrosion and mineral buildup may be narrowing the pipe interior. Water essentially has to squeeze through a smaller and smaller opening over decades.
+If your home is older than 50 years and still has original galvanized steel pipes, corrosion and mineral buildup may be narrowing the pipe interior. Water essentially has to squeeze through a smaller and smaller opening over decades. The same scale and corrosion that restricts supply flow tends to cause recurring drain clogs too — if you are dealing with both issues, a [professional drain cleaning](/blog/drain-cleaning-cost/) can help confirm the scope of the problem before committing to a full repipe.
 
 This is one of the more expensive problems to address. **Repiping a home costs $4,000 to $15,000** depending on home size, pipe material, and your location. Copper and PEX are the modern replacements. However, you can often do a partial repipe on the worst sections first to restore acceptable pressure at a lower cost.
 
@@ -125,7 +125,7 @@ Follow this process before calling a plumber:
 
 ## What Does a Plumber Charge to Fix Water Pressure?
 
-Plumbers in the US charge **$75 to $150 per hour** for labor, with a typical diagnostic visit running **$100 to $250**. Many companies include the diagnostic fee in the repair cost if you hire them for the fix.
+Plumbers in the US charge **$75 to $150 per hour** for labor, with a typical diagnostic visit running **$100 to $250** (our [full plumber cost guide](/blog/how-much-does-a-plumber-cost/) has a job-by-job breakdown if you want to know what specific repairs typically run). Many companies include the diagnostic fee in the repair cost if you hire them for the fix.
 
 By region, expect some variation:
 
@@ -152,7 +152,7 @@ Call a plumber immediately (do not wait for a business day) if:
 - You smell sulfur or notice discolored water alongside the pressure change
 - Pressure drops to near zero suddenly
 
-These scenarios suggest an active major leak or pipe failure that can cause structural damage, mold growth, or health hazards quickly.
+These scenarios suggest an active major leak or pipe failure that can cause structural damage, mold growth, or health hazards quickly. If sewage odors accompany the pressure drop, a failing sewer line may be part of the picture — [sewer line repair](/blog/sewer-line-repair-cost/) is a significant but often unavoidable expense when the main lateral is involved.
 
 ## Preventing Low Water Pressure Problems
 
@@ -163,7 +163,7 @@ A little maintenance goes a long way:
 - **Replace whole-home filters every 6-12 months.** Check the filter packaging for your specific cartridge.
 - **Know where your shutoff valves are** and verify they are fully open after any plumbing work.
 - **Have a plumber inspect your pressure regulator every 10 years.** PRVs typically last 10-15 years.
-- **Get a whole-home plumbing inspection** if your home is over 40 years old and has never had one. Many plumbers offer these for $100-200 and they can catch corroded pipes before they become emergencies.
+- **Get a whole-home plumbing inspection** if your home is over 40 years old and has never had one. Many plumbers offer these for $100-200 and they can catch corroded pipes before they become emergencies. If you recently bought the home, the [first-year homeowner guide](/blog/first-year-homeowner-guide/) covers the full range of inspections and maintenance tasks worth completing in your first twelve months.
 
 Low water pressure is almost always fixable. Start with the free and easy checks, and only escalate to professional help once you've ruled out the simple causes. Most homeowners find the problem within the first three steps, spend nothing, and are back to full-pressure showers the same day.
 

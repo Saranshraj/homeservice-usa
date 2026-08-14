@@ -28,7 +28,7 @@ The repair method is the single biggest driver of your final cost. Here are the 
 | Trenchless pipe bursting | $3,000 to $10,000 | Heavily damaged or collapsed pipe | Low |
 | Traditional full replacement | $6,000 to $25,000 | Collapsed, severely corroded, or outdated pipe | High (full excavation) |
 
-**Hydro-jetting** uses high-pressure water to blast clogs and grease out of your sewer line. It is not a repair, but it is the first thing a good plumber will try. If your problem is a grease or soap buildup rather than a structural issue, $400 can solve what you feared would be a $10,000 job.
+**Hydro-jetting** uses high-pressure water to blast clogs and grease out of your sewer line (the same technique used for severe household drain blockages — see our [drain cleaning cost guide](/blog/drain-cleaning-cost/) if you are still diagnosing whether you have a simple clog or a structural sewer problem). It is not a repair, but it is the first thing a good plumber will try. If your problem is a grease or soap buildup rather than a structural issue, $400 can solve what you feared would be a $10,000 job.
 
 **Trenchless pipe lining (CIPP)** inserts a flexible liner coated in epoxy resin into the existing damaged pipe. The liner is inflated and cured in place, creating a new pipe inside the old one. Your yard stays intact. The new liner typically carries a **50-year warranty** and resists root intrusion better than original clay or cast iron pipe.
 
@@ -86,7 +86,7 @@ Several factors can push your quote higher than the baseline numbers above.
 
 ## Does Homeowners Insurance Cover Sewer Line Repair?
 
-This is one of the most common questions homeowners ask, and the answer is frustrating: **standard homeowners insurance typically does not cover sewer line repair** if the cause is age, wear and tear, tree roots, or general deterioration. These are considered maintenance issues, not sudden accidents.
+This is one of the most common questions homeowners ask, and the answer is frustrating: **standard homeowners insurance typically does not cover sewer line repair** if the cause is age, wear and tear, tree roots, or general deterioration. These are considered maintenance issues, not sudden accidents. Before assuming you are fully on your own financially, our [homeowners insurance claims guide](/blog/homeowners-insurance-claims/) explains how to document the damage and evaluate whether any coverage may apply.
 
 However, there are situations where coverage may apply:
 
@@ -98,13 +98,13 @@ The [National Association of Insurance Commissioners](https://www.naic.org) reco
 
 ## What Every Homeowner Should Know Before Calling a Plumber
 
-**Start with a camera inspection.** Before any plumber recommends a repair method, they should run a sewer camera through your line. This takes about 30 to 60 minutes and costs **$250 to $800**. Some plumbers charge separately; others include it in the quote. The camera footage tells you exactly what is wrong, where the problem is, and whether trenchless repair is viable. Never agree to a major repair without seeing the camera footage.
+**Start with a camera inspection.** Before any plumber recommends a repair method, they should run a sewer camera through your line. This takes about 30 to 60 minutes and costs **$250 to $800**. If you are uncertain what licensed plumbers charge by the hour in your area, our [plumber cost guide](/blog/how-much-does-a-plumber-cost/) breaks rates down by region and job type. Some plumbers charge separately; others include it in the quote. The camera footage tells you exactly what is wrong, where the problem is, and whether trenchless repair is viable. Never agree to a major repair without seeing the camera footage.
 
 **Get at least three quotes.** Sewer line work pricing can vary by 50 percent or more between contractors for the same job. A quote of $15,000 from one company and $7,500 from another for the same trenchless pipe lining job is not unusual. Always compare quotes that specify the same method and scope.
 
 **Ask about the warranty.** Quality trenchless lining carries a 25- to 50-year warranty. Traditional pipe replacement should be warrantied for at least 1 to 2 years on labor and the manufacturer's warranty on pipe materials. Get this in writing.
 
-**Verify licensing.** Sewer line work requires a licensed plumber in virtually every US state. Verify your contractor's license through your state's plumbing licensing board. The [National Association of Home Builders](https://www.nahb.org) maintains a directory of licensed contractors by state. Unlicensed sewer work can result in failed inspections, fines, and liability if the repair causes problems downstream.
+**Verify licensing.** Sewer line work requires a licensed plumber in virtually every US state. Verify your contractor's license through your state's plumbing licensing board. The [National Association of Home Builders](https://www.nahb.org) maintains a directory of licensed contractors by state. Unlicensed sewer work can result in failed inspections, fines, and liability if the repair causes problems downstream. The same core principles that apply when [hiring any home contractor](/blog/how-to-find-good-contractor/) — getting multiple quotes, checking references, and insisting on a written contract — are especially important for a job of this scale.
 
 **Understand the municipal boundary.** Your responsibility for the sewer line typically ends at the point it connects to the public main in the street. From there, your municipality is responsible. If a plumber's camera finds that the problem is at or beyond that connection point, contact your local public works department before spending money on private repairs.
 
@@ -116,7 +116,7 @@ Do not wait for a backup inside your home. These early warning signs give you ti
 - **Gurgling sounds from drains or toilet:** Air trapped in a partially blocked sewer line creates gurgling when you run water elsewhere in the house.
 - **Sewage odor in basement or yard:** A properly functioning sewer line is completely sealed. Any sewage smell is a sign of a crack, break, or unsealed joint.
 - **Lush patches of grass over your sewer line:** Sewage leaking into the soil is a fertilizer for grass. An unusually green strip across your yard is often the first visible sign of a leaking sewer line.
-- **Wet or soft spots in your yard:** Saturated ground directly above a buried pipe, without a recent rainfall explanation, points to a leak.
+- **Wet or soft spots in your yard:** Saturated ground directly above a buried pipe, without a recent rainfall explanation, points to a leak. Persistent soil saturation near the house can also put stress on your foundation — [foundation repair](/blog/foundation-repair-cost/) is a serious downstream cost that makes acting on these wet spots sooner rather than later worthwhile.
 - **Repeated clogs in the same drain:** One clog can be debris. Three or more clogs in the same line within a year suggest a structural problem.
 - **Home is 40-plus years old with original plumbing:** Clay and cast iron sewer pipes have a typical service life of 50 to 75 years. If your home was built before 1985 and has never had sewer work, a camera inspection is a wise investment.
 
