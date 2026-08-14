@@ -29,7 +29,7 @@ Before spending money on a full replacement, it is worth knowing whether patchin
 - Water is pooling and not draining properly
 - You are seeing multiple problems across the whole surface
 
-A professional will dig down to check the base material. If the gravel base is compromised or the soil beneath has shifted, even a fresh surface will fail within a few years without proper base repair. That base prep is included in replacement cost estimates but is an add-on for repair jobs.
+A professional will dig down to check the base material. If the gravel base is compromised or the soil beneath has shifted, even a fresh surface will fail within a few years without proper base repair. Significant soil movement under a driveway can sometimes signal the same ground settling that affects a [home's foundation](/blog/foundation-repair-cost/), so it is worth having a professional assess both if you notice uneven sinking. That base prep is included in replacement cost estimates but is an add-on for repair jobs.
 
 ---
 
@@ -186,7 +186,7 @@ The federal government does not currently offer tax credits specifically for dri
 
 - **Permeable paver installations** may qualify for local stormwater management rebates or credits. Check with your city or county public works department.
 - **Energy efficiency improvements** to your property as a whole can sometimes offset costs. The [IRS](https://www.irs.gov) updates energy-related credits annually.
-- **Homeowner's insurance:** If your driveway was damaged by a covered event (storm, tree fall, flooding), your insurance may cover partial or full replacement. Document the damage and contact your insurer before hiring a contractor.
+- **Homeowner's insurance:** If your driveway was damaged by a covered event (storm, tree fall, flooding), your [homeowners insurance](/blog/homeowners-insurance-claims/) may cover partial or full replacement. Document the damage and contact your insurer before hiring a contractor.
 
 ---
 
@@ -203,7 +203,7 @@ This is a significant investment, and the contractor you choose matters as much 
 6. **Get the payment terms in writing.** A reputable contractor typically asks for 10 to 30 percent upfront and the balance on completion. Be wary of contractors demanding full payment before work begins.
 7. **Confirm who hauls away the debris.** Old concrete and asphalt disposal costs money; make sure it is included in the quote.
 
-For more guidance on vetting contractors and avoiding common scams, see [how to find a good contractor](/blog/how-to-find-good-contractor).
+For more guidance on vetting contractors and avoiding common scams, see [how to find a good contractor](/blog/how-to-find-good-contractor/).
 
 ---
 

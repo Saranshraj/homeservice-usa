@@ -51,7 +51,7 @@ If you burn green (unseasoned) wood, burn fires at low smoldering temperatures, 
 
 ## How Often Does a Chimney Actually Need Cleaning?
 
-The [National Fire Protection Association](https://www.nfpa.org) recommends cleaning and inspecting chimneys, fireplaces, and vents at least once a year, regardless of how often you use them. Even a rarely-used fireplace can have animal nests, moisture damage, or blockages that create carbon monoxide and fire risks.
+The [National Fire Protection Association](https://www.nfpa.org) recommends cleaning and inspecting chimneys, fireplaces, and vents at least once a year, regardless of how often you use them — it is one of the essential annual tasks that any [first-year homeowner guide](/blog/first-year-homeowner-guide/) will put near the top of the fall checklist. Even a rarely-used fireplace can have animal nests, moisture damage, or blockages that create carbon monoxide and fire risks.
 
 Frequency guidelines based on use:
 
@@ -94,13 +94,13 @@ Homeowners in Atlanta might pay $140 for a standard cleaning; the same job in Bo
 
 Skipping an annual $180 cleaning can lead to outcomes that are genuinely frightening and financially devastating.
 
-**Chimney fires:** A chimney fire happens when creosote ignites inside the flue. These fires burn at temperatures over 2,000 degrees Fahrenheit and can cause the chimney to crack, spread flames to framing inside your walls, and result in total house fires. The average chimney fire claim costs $10,000 to $30,000 to repair, and that is when the house survives.
+**Chimney fires:** A chimney fire happens when creosote ignites inside the flue. These fires burn at temperatures over 2,000 degrees Fahrenheit and can cause the chimney to crack, spread flames to framing inside your walls, and result in total house fires. The average chimney fire claim costs $10,000 to $30,000 to repair, and that is when the house survives. Knowing [how homeowners insurance claims work](/blog/homeowners-insurance-claims/) before a chimney fire happens can help you recover costs faster and avoid claim-filing mistakes under pressure.
 
 **Carbon monoxide poisoning:** A blocked or damaged chimney can prevent combustion gases from venting outside, sending them into your home instead. Carbon monoxide is odorless and colorless. It kills roughly 400 Americans each year, according to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov). A $180 cleaning appointment can prevent this outcome entirely.
 
 **Animal nests:** Raccoons, squirrels, and birds (especially chimney swifts, which are federally protected under the Migratory Bird Treaty Act) frequently nest inside uncapped chimneys. A nest can completely block the flue and may cost $200 to $500 to professionally remove, on top of your cleaning fee.
 
-**Water and moisture damage:** A chimney without an intact cap and crown allows rainwater in, which deteriorates mortar, corrodes metal components, and can cause spalling brick. Water damage repairs start at $500 and can easily reach $5,000 or more.
+**Water and moisture damage:** A chimney without an intact cap and crown allows rainwater in, which deteriorates mortar, corrodes metal components, and can cause spalling brick. Since chimneys penetrate the roof, moisture damage at the chimney often signals broader roofing issues worth evaluating — including whether [roof replacement](/blog/roof-replacement-cost/) may be needed. Water damage repairs start at $500 and can easily reach $5,000 or more.
 
 ## How to Find a Trustworthy Chimney Sweep
 
@@ -112,7 +112,7 @@ Here is how to protect yourself:
 
 **Check for NFI certification.** The National Fireplace Institute certifies technicians who specialize in gas, wood, and pellet hearth systems. Relevant if you have an insert or wood stove.
 
-**Get at least two quotes.** For anything beyond a routine cleaning, always get a second opinion before agreeing to repairs. A trustworthy company will not pressure you into same-day decisions.
+**Get at least two quotes.** For anything beyond a routine cleaning, always get a second opinion before agreeing to repairs — the same approach described in our [guide to hiring a good contractor](/blog/how-to-find-good-contractor/) applies here. A trustworthy company will not pressure you into same-day decisions.
 
 **Ask for before and after photos.** A professional should photograph the inside of your flue before and after the cleaning. This is standard practice and helps you verify the work was actually done.
 

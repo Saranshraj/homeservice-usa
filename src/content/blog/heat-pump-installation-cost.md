@@ -32,7 +32,7 @@ One system for both heating and cooling. No gas line required. That combination 
 
 ### Air-Source Heat Pumps: $3,500 to $7,500
 
-This is the most common type. An air-source heat pump looks and installs almost exactly like a central AC system: an outdoor unit connected to an indoor air handler through your existing ductwork. If your home already has ducts from a furnace or central AC, this is usually the most cost-effective path to all-in-one heating and cooling.
+This is the most common type. An air-source heat pump looks and installs almost exactly like a [central AC system](/blog/central-ac-installation-cost/): an outdoor unit connected to an indoor air handler through your existing ductwork. If your home already has ducts from a furnace or central AC, this is usually the most cost-effective path to all-in-one heating and cooling.
 
 A typical installation breaks down roughly like this:
 
@@ -56,7 +56,7 @@ Brands like Mitsubishi, Daikin, and LG have strong reputations for quality and r
 
 ### Dual Fuel Heat Pumps: $4,000 to $8,500
 
-A dual fuel system pairs a heat pump with a gas furnace backup. The heat pump handles heating when outdoor temperatures are above roughly 35 to 40 degrees F, then the furnace takes over when it gets colder. This setup makes a lot of sense for homeowners in colder climates (Climate Zones 5 and above) who already have a functioning gas furnace and want to reduce fuel bills during milder weather without fully abandoning their gas backup.
+A dual fuel system pairs a heat pump with a [gas furnace](/blog/furnace-replacement-cost/) backup. The heat pump handles heating when outdoor temperatures are above roughly 35 to 40 degrees F, then the furnace takes over when it gets colder. This setup makes a lot of sense for homeowners in colder climates (Climate Zones 5 and above) who already have a functioning gas furnace and want to reduce fuel bills during milder weather without fully abandoning their gas backup.
 
 ### Cold Climate Heat Pumps: $4,500 to $9,000
 
@@ -157,7 +157,7 @@ In mild to moderate climates (Climate Zones 1 through 4: most of the Southeast, 
 
 **Get at least three written quotes.** HVAC installation prices for identical jobs can vary 30 to 50 percent between contractors in the same city. Three quotes gives you enough data to identify the market rate and spot outliers.
 
-**Ask for a Manual J load calculation.** Any reputable contractor will perform this before specifying a system. Contractors who size by square footage alone often install oversized equipment that short-cycles, fails to control humidity, and wears out early. If they will not run a Manual J, walk away.
+**Ask for a Manual J load calculation.** Any [reputable contractor](/blog/how-to-find-good-contractor/) will perform this before specifying a system. Contractors who size by square footage alone often install oversized equipment that short-cycles, fails to control humidity, and wears out early. If they will not run a Manual J, walk away.
 
 **Verify licensing and insurance.** Every state licenses HVAC contractors. Check your state contractor licensing board before signing anything. Ask for proof of general liability insurance (minimum $1 million) and workers' compensation.
 
@@ -185,14 +185,14 @@ Give the switch more thought if:
 
 A straightforward heat pump swap (replacing an old AC and air handler) takes **4 to 8 hours** for an experienced crew and is typically completed in a single day. Multi-zone mini-split installations or jobs requiring new electrical work take longer, sometimes two days.
 
-Budget for ongoing maintenance:
+Budget for [ongoing maintenance](/blog/first-year-homeowner-guide/):
 
 - **Annual tune-up:** $75 to $150 per visit; twice yearly (spring and fall) is ideal
 - **Air filter replacement:** $5 to $30 every one to three months depending on filter type
 - **Coil cleaning:** Usually included in the annual tune-up
 - **Defrost system check:** Heat pumps run a defrost cycle to clear ice from the outdoor coil in winter; have a technician verify this is working each fall
 
-With regular maintenance, a quality air-source heat pump should last 15 to 20 years.
+With [regular maintenance](/blog/home-warranty-worth-it/), a quality air-source heat pump should last 15 to 20 years.
 
 ## Official Resources
 

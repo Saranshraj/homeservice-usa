@@ -67,7 +67,7 @@ If a tree is touching or tangled in utility lines, call your utility company fir
 
 ### Emergency and Storm Damage Removal
 
-After a major storm, demand for tree services spikes and so do prices. Expect to pay 25 to 50 percent above normal rates for emergency removal in the first 48 to 72 hours. If a tree has fallen on your house, it becomes a homeowners insurance claim for most people. Call your insurer before calling a tree company so you understand what is covered.
+After a major storm, demand for tree services spikes and so do prices. Expect to pay 25 to 50 percent above normal rates for emergency removal in the first 48 to 72 hours. If a tree has fallen on your house, it becomes a [homeowners insurance claim](/blog/homeowners-insurance-claims/) for most people. Call your insurer before calling a tree company so you understand what is covered.
 
 The [Federal Emergency Management Agency (FEMA)](https://www.fema.gov) offers assistance for disaster-related tree damage in federally declared disaster areas. After a named hurricane or severe storm event, check FEMA's disaster assistance site before paying out of pocket.
 
@@ -108,9 +108,9 @@ Most tree companies offer a bundled price if you combine tree removal and stump 
 
 **Haul-away vs. leaving wood:** Many companies include debris haul-away in their base price. Others leave logs and brush, or charge extra to take them. Clarify this in writing before the crew starts. Cleaning up a full-size tree's worth of debris yourself is a weekend project.
 
-**Permits:** Many cities and counties require permits before removing trees, especially large or "heritage" trees. Costs range from free to $150 or more. Your tree company should know local requirements and can often pull the permit for you, sometimes included in the quote, sometimes as an add-on. Check with your local parks department or building department if you are unsure.
+**Permits:** Many cities and counties require permits before removing trees, especially large or "heritage" trees. Costs range from free to $150 or more. Your tree company should know local requirements and can often pull the permit for you, sometimes included in the quote, sometimes as an add-on. Check with your local parks department or building department if you are unsure. Large trees that overhang your roofline can also pack [gutters](/blog/gutter-replacement-cost/) with leaves and debris year-round, accelerating wear on the gutter system — worth factoring into your decision about trimming versus full removal.
 
-**Emergency boarding or tarping:** If a fallen tree has breached your roof or a window, a tree company may charge separately for temporary weatherproofing while the structural damage is assessed.
+**Emergency boarding or tarping:** If a fallen tree has breached your roof or a window, a tree company may charge separately for temporary weatherproofing while the structural damage is assessed. A tree impact can cause damage well beyond what is visible on the surface — our guide to [roof replacement costs](/blog/roof-replacement-cost/) explains what to expect if the structure needs significant work.
 
 ---
 
@@ -132,7 +132,7 @@ California runs higher due to elevated labor costs, strict regulations around ce
 
 ## How to Hire a Tree Service Without Getting Scammed
 
-Storm chasers and fly-by-night tree outfits cause more damage to American homeowners than almost any other contractor category. After a big storm, unmarked trucks roll through neighborhoods offering cheap, fast removal. Many of these crews are uninsured and unqualified. If one of them drops a limb through your roof, you pay for it.
+Storm chasers and fly-by-night tree outfits cause more damage to American homeowners than almost any other contractor category. After a big storm, unmarked trucks roll through neighborhoods offering cheap, fast removal. Many of these crews are uninsured and unqualified. If one of them drops a limb through your roof, you pay for it. The same due diligence that applies to any home contractor applies double here — our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) covers the verification steps that can protect you.
 
 **Here is how to protect yourself:**
 
@@ -157,6 +157,8 @@ Before spending $1,000 or more, it is worth asking a certified arborist whether 
 - **Crown reduction or trimming:** Reduces a tree's height and spread without full removal. Cost is $200 to $800 for most trees.
 - **Cabling and bracing:** For structurally weak or split trunks, steel cables can extend a tree's life. Cost is $500 to $1,500.
 - **Disease treatment:** Some diseased trees can be treated and saved. An arborist can assess whether treatment is viable.
+
+Getting an arborist's opinion on large trees near your home is a step that any solid [first-year homeowner guide](/blog/first-year-homeowner-guide/) recommends as part of an annual outdoor safety check.
 
 Full removal makes sense when a tree is dead, structurally unsound and cannot be safely stabilized, in a location that cannot be managed safely over time, or when a structure is being built in its footprint.
 

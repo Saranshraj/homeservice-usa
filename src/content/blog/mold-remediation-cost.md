@@ -43,11 +43,11 @@ Bathroom mold is the most common call remediation companies get in summer. High 
 
 ### Crawl Space Mold: $500 to $4,000
 
-Crawl spaces are the most overlooked mold hotspot in American homes, particularly in the South and Pacific Northwest. Moisture rises from the ground, condenses on floor joists, and mold follows. The cost varies based on how much of the floor framing is affected. Many remediation companies will also recommend encapsulating the crawl space with a vapor barrier after treatment, which is a separate project running **$1,500 to $5,000** but dramatically reduces recurrence.
+Crawl spaces are the most overlooked mold hotspot in American homes, particularly in the South and Pacific Northwest. Moisture rises from the ground, condenses on floor joists, and mold follows. The cost varies based on how much of the floor framing is affected. Many remediation companies will also recommend [encapsulating the crawl space](/blog/crawl-space-encapsulation-cost/) with a vapor barrier after treatment, which is a separate project running **$1,500 to $5,000** but dramatically reduces recurrence.
 
 ### Attic Mold: $1,000 to $9,000
 
-Attic mold almost always traces back to poor ventilation, a bathroom exhaust fan venting into the attic instead of outside, or a roof leak. The mold typically grows on the underside of the roof decking. Remediation includes treatment and sometimes full decking replacement, which pushes costs to the high end. If your roof is already due for replacement, remediation is often done in tandem to save money on labor.
+Attic mold almost always traces back to poor ventilation, a bathroom exhaust fan venting into the attic instead of outside, or a [roof leak](/blog/roof-leak-causes-and-fixes/). The mold typically grows on the underside of the roof decking. Remediation includes treatment and sometimes full decking replacement, which pushes costs to the high end. If your roof is already due for replacement, remediation is often done in tandem to save money on labor.
 
 ### HVAC and Ductwork Mold: $3,000 to $10,000
 
@@ -108,7 +108,7 @@ If you are in Florida or along the Gulf Coast, you are likely to pay a premium. 
 
 ## Does Homeowners Insurance Cover Mold Remediation?
 
-This is where many homeowners get surprised, and not in a good way. Standard homeowners insurance policies typically do not cover mold remediation unless the mold resulted directly from a covered peril, such as a burst pipe or appliance malfunction. Even then, insurers often cap mold coverage at **$1,000 to $10,000**, well below the actual cost of severe remediation.
+This is where many homeowners get surprised, and not in a good way. Understanding [how homeowners insurance claims work](/blog/homeowners-insurance-claims/) before you call your adjuster can help you document the damage correctly and avoid a flat denial. Standard homeowners insurance policies typically do not cover mold remediation unless the mold resulted directly from a covered peril, such as a burst pipe or appliance malfunction. Even then, insurers often cap mold coverage at **$1,000 to $10,000**, well below the actual cost of severe remediation.
 
 Mold that developed slowly from a leaky roof, poor ventilation, or ongoing humidity is almost always classified as a maintenance issue, which policies explicitly exclude.
 
@@ -168,7 +168,7 @@ Mold remediation is not a licensed trade in most states, which means anyone can 
 - No written warranty on their work
 - Cash only payment
 
-Get at least three written quotes. Pricing varies significantly even within the same city, and the cheapest bid is rarely the right choice for something that affects your family's health.
+Get at least three written quotes — applying the same vetting process you would use [when hiring any home contractor](/blog/how-to-find-good-contractor/) is especially important here. Pricing varies significantly even within the same city, and the cheapest bid is rarely the right choice for something that affects your family's health.
 
 ## How to Reduce the Cost of Mold Remediation
 
@@ -207,7 +207,7 @@ The most effective prevention steps, ranked by impact:
 2. **Control indoor humidity.** The [EPA recommends](https://www.epa.gov/mold/controlling-mold) keeping indoor relative humidity between 30 and 60 percent. In humid climates, a whole-house dehumidifier (**$1,200 to $3,000 installed**) is a sound investment.
 3. **Ensure bathroom fans vent outside.** Many older homes have fans ducted into the attic, which is a direct path to attic mold.
 4. **Encapsulate the crawl space.** A sealed crawl space with a vapor barrier eliminates the most common mold vector in single-family homes.
-5. **Check roof and gutter drainage.** Water pooling against the foundation is often the culprit in basement mold cases.
+5. **Check roof and gutter drainage.** Water pooling against the foundation is often the culprit in basement mold cases — a problem that [basement waterproofing](/blog/basement-waterproofing-cost/) can permanently resolve.
 6. **Service your HVAC annually.** A clean evaporator coil and drain pan prevent HVAC mold from developing.
 
 ---

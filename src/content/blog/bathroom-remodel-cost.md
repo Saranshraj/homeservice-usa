@@ -64,7 +64,7 @@ If you are converting a tub to a walk-in shower, factor in waterproofing, a new 
 
 Replacing fixtures only (faucets, showerheads, shut-off valves) keeps plumbing costs modest, usually $500-$1,500. Moving a drain, relocating the toilet, or rerouting supply lines can add $2,000-$4,500 in plumbing labor alone.
 
-Plumbers charge $75-$150 per hour in most US markets, with higher rates in cities like San Francisco, New York, Boston, and Seattle.
+Plumbers charge $75-$150 per hour in most US markets, with higher rates in cities like San Francisco, New York, Boston, and Seattle — see our [plumber cost guide](/blog/how-much-does-a-plumber-cost/) for a full breakdown by job type.
 
 ### Electrical: $300-$2,500
 
@@ -82,7 +82,7 @@ Bathroom painting is one area where you can DIY to save money. A gallon of high-
 
 Most structural, plumbing, and electrical work requires a building permit. Costs vary by municipality. In many cities and counties, a bathroom remodel permit runs $150-$500. In high-cost metros like Los Angeles or Chicago, permit fees can reach $1,000-$1,500.
 
-Never skip permits. Working without them can void your homeowners insurance, create serious problems when you sell the home, and expose you to code violation fines. A reputable contractor will always pull permits.
+Never skip permits. Working without them can void your homeowners insurance, create serious problems when you sell the home, and expose you to code violation fines. It is also worth knowing [how homeowners insurance claims work](/blog/homeowners-insurance-claims/) in case water damage or unexpected issues surface after the project is complete. A reputable contractor will always pull permits.
 
 ## Labor Costs by Trade
 
@@ -117,7 +117,7 @@ A bathroom remodel that costs $12,000 in Kansas City might run $18,000-$20,000 i
 
 Some discoveries during demolition can add thousands to your budget:
 
-- **Water damage or mold behind walls**: If your old shower pan was leaking, you may find rotted subfloor or mold inside the walls. Mold remediation can add $1,000-$4,000 to the project. The [EPA has thorough guidance on mold cleanup](https://www.epa.gov/mold) that is worth reading before any bathroom demo.
+- **Water damage or mold behind walls**: If your old shower pan was leaking, you may find rotted subfloor or mold inside the walls. [Mold remediation](/blog/mold-remediation-cost/) can add $1,000-$4,000 to the project. The [EPA has thorough guidance on mold cleanup](https://www.epa.gov/mold) that is worth reading before any bathroom demo.
 - **Outdated plumbing**: Older homes with galvanized steel pipes may need full pipe replacement, not just fixture swaps.
 - **Asbestos**: Homes built before 1980 may have asbestos in floor tile, drywall compound, or pipe insulation. Testing costs $200-$600; remediation can add $1,500-$5,000 if asbestos is found.
 - **Structural issues**: Moving load-bearing walls or addressing structural problems can add $3,000-$10,000 to your project.
@@ -142,7 +142,7 @@ If you have the skills, handling painting and simple fixture swaps yourself can 
 
 ## How to Vet Your Contractor (and Avoid Scams)
 
-Bathroom remodels are a frequent target for contractor fraud. Here is how to protect yourself:
+Bathroom remodels are a frequent target for contractor fraud. Knowing [how to find and vet a reliable contractor](/blog/how-to-find-good-contractor/) before you commit is your best protection. Here is how to protect yourself:
 
 1. **Verify the license.** Every state requires plumbers and electricians to be licensed. Most states also license general contractors. Check your state contractor licensing board before signing anything. The [National Association of Home Builders (NAHB)](https://www.nahb.org) has a contractor locator tool worth using.
 
@@ -158,7 +158,7 @@ Bathroom remodels are a frequent target for contractor fraud. Here is how to pro
 
 ## Smart Ways to Save Without Cutting Quality
 
-- **Keep the layout the same.** Moving plumbing is expensive. Updating the bathroom without relocating the toilet, shower, or tub can save you $2,000-$5,000.
+- **Keep the layout the same.** Moving plumbing is expensive. Updating the bathroom without relocating the toilet, shower, or tub can save you $2,000-$5,000. The same principle applies if you're also planning a [kitchen remodel](/blog/kitchen-remodel-cost/) — keeping plumbing runs in place is the single biggest cost-saver in either project.
 - **Reface rather than replace cabinets.** Cabinet refacing costs 40-50% less than full replacement and looks nearly identical.
 - **Choose stock vanities over custom.** Stock options from home improvement stores deliver solid quality at a fraction of the price of custom cabinetry.
 - **Buy your own materials.** Purchase tile, fixtures, and hardware yourself and let the contractor handle labor only. You control quality and can shop sales.

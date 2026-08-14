@@ -51,7 +51,7 @@ Here is what you can realistically expect to pay for the full job (labor plus fa
 
 This is the single biggest cost driver. If your room already has a ceiling light controlled by a wall switch, an electrician can usually swap in a ceiling fan in an hour or two for a few hundred dollars total.
 
-If there is no existing overhead fixture, you are looking at a much bigger job. The electrician needs to run wire from your electrical panel or from a nearby circuit, fish it through walls and the ceiling, and install a new box. That can easily double or triple the labor cost.
+If there is no existing overhead fixture, you are looking at a much bigger job. The electrician needs to run wire from your [electrical panel](/blog/electrical-panel-upgrade-cost/) or from a nearby circuit, fish it through walls and the ceiling, and install a new box. That can easily double or triple the labor cost.
 
 ### 2. Your Ceiling Height
 
@@ -97,7 +97,7 @@ The fan you pick matters a lot for both cost and long-term satisfaction. Here ar
 
 **High-end fans ($250-$600+):** Premium finishes like brushed nickel or matte black, quiet DC motors, remote controls or smart home integration, and very long warranties. Worth it for prominent rooms where the fan is a design feature.
 
-**Smart fans ($150-$500):** Connect to Wi-Fi or Bluetooth and can be controlled via an app, Alexa, Google Home, or Apple HomeKit. Some integrate with your smart thermostat to optimize comfort automatically. Particularly useful if you want to set schedules or control fans from your phone.
+**Smart fans ($150-$500):** Connect to Wi-Fi or Bluetooth and can be controlled via an app, Alexa, Google Home, or Apple HomeKit. Some integrate with your [smart thermostat](/blog/central-ac-installation-cost/) to optimize comfort automatically. Particularly useful if you want to set schedules or control fans from your phone.
 
 **Outdoor and wet-rated fans ($75-$350):** Required for covered porches, patios, and bathrooms. The motor and blades are protected from moisture. Do not install an interior fan outdoors; it is a fire and safety hazard.
 
@@ -122,7 +122,7 @@ You can legally install a ceiling fan yourself in most states, as long as you ar
 - You have aluminum wiring in an older home (requires special connectors and expertise).
 - You are not confident around electrical work. A mistake can cause a fire or serious injury.
 
-A licensed electrician is always the safest choice, and for new wiring, it is not optional in most jurisdictions. The [Consumer Product Safety Commission (CPSC)](https://www.cpsc.gov) reports that ceiling fan and light fixture wiring issues are a documented cause of house fires. Do not cut corners on the electrical side.
+A [licensed electrician](/blog/how-to-find-good-contractor/) is always the safest choice, and for new wiring, it is not optional in most jurisdictions. The [Consumer Product Safety Commission (CPSC)](https://www.cpsc.gov) reports that ceiling fan and light fixture wiring issues are a documented cause of house fires. Do not cut corners on the electrical side.
 
 If budget is tight, consider this: hire an electrician to verify the box and wiring is correct, then install the fan yourself from there. Some homeowners split it this way to save on labor while keeping the safety-critical part in professional hands.
 
@@ -180,4 +180,4 @@ Your electrician should handle permit applications and any required inspections.
 
 ---
 
-The bottom line: if you already have wiring in place, ceiling fan installation is one of the more affordable electrical upgrades you can make, and it pays dividends in comfort and energy savings for years. Get quotes from two or three local electricians, pick a fan that fits your room size and style, and make sure the person doing the wiring is licensed. The combination of comfort, energy efficiency, and relatively modest cost makes ceiling fans one of the best-value home upgrades out there.
+The bottom line: if you already have wiring in place, ceiling fan installation is one of the more affordable electrical upgrades you can make, and it pays dividends in comfort and energy savings for years. Get quotes from two or three local electricians, pick a fan that fits your room size and style, and make sure the person doing the wiring is licensed. The combination of comfort, energy efficiency, and relatively modest cost makes ceiling fans one of the [best-value home upgrades](/blog/first-year-homeowner-guide/) out there.

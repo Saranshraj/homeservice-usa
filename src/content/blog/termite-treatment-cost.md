@@ -98,7 +98,7 @@ Before any treatment, you need a termite inspection. Many companies offer free i
 
 Real estate transactions in most states require a **Wood Destroying Organism (WDO) report**, sometimes called a termite letter or termite clearance letter. This costs $100 to $150 and must be performed by a licensed inspector. HUD requires a termite inspection for FHA loans in most termite-prone states, as outlined by [HUD guidelines](https://www.hud.gov).
 
-If you are buying a home, never skip the termite inspection even if it is not required. A home that looks perfect can have significant termite damage that only shows up when you probe the wood.
+If you are buying a home, never skip the termite inspection even if it is not required — it is typically offered as an add-on to the [standard home inspection](/blog/home-inspection-cost/). A home that looks perfect can have significant termite damage that only shows up when you probe the wood.
 
 ## How to Spot Termites Before They Get Expensive
 
@@ -128,7 +128,9 @@ Structural wood damage repair costs vary widely but here are realistic numbers f
 - Structural beam replacement: $5,000 to $15,000+
 - Significant structural damage affecting wall studs and framing: $10,000 to $50,000+
 
-Most standard homeowners insurance policies **do not cover termite damage**, classifying it as a pest maintenance issue rather than a sudden, accidental loss. Some companies offer termite damage protection as an add-on endorsement, so check your policy carefully. The [Insurance Information Institute](https://www.iii.org) recommends reviewing your policy annually and asking specifically about pest exclusions.
+In severe cases where termites have compromised the sill plate or load-bearing supports, you may also be looking at [foundation repair work](/blog/foundation-repair-cost/) in addition to the cost of treatment and framing replacement.
+
+Most standard homeowners insurance policies **do not cover termite damage**, classifying it as a pest maintenance issue rather than a sudden, accidental loss. Some companies offer termite damage protection as an add-on endorsement, so check your policy carefully. Our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims/) explains how to read your policy and what documentation to keep if any covered damage is involved. The [Insurance Information Institute](https://www.iii.org) recommends reviewing your policy annually and asking specifically about pest exclusions.
 
 ## DIY Termite Treatment: What You Can and Cannot Do
 
@@ -142,7 +144,7 @@ If you do want to do preventive borate treatments yourself, the product must pen
 
 ## How to Choose a Termite Control Company
 
-Not all pest control companies are equal, and termite treatment is one of the areas where choosing wrong is expensive.
+Not all pest control companies are equal, and termite treatment is one of the areas where choosing wrong is expensive. The same vetting steps covered in our [how to find a good contractor](/blog/how-to-find-good-contractor/) guide apply here: verify licensing, read reviews carefully, and get at least three written quotes before committing.
 
 **Verify the license.** Every state requires pest control applicators to be licensed. Your state's Department of Agriculture or a comparable regulatory agency maintains a license lookup. This is non-negotiable: never hire an unlicensed exterminator.
 
@@ -158,7 +160,7 @@ Not all pest control companies are equal, and termite treatment is one of the ar
 
 ## Termite Prevention: What Actually Works
 
-The best termite treatment is one you never need. These are evidence-based prevention steps recommended by the EPA and pest control professionals:
+The best termite treatment is one you never need. These are evidence-based prevention steps recommended by the EPA and pest control professionals, and they fit naturally into the seasonal maintenance habits outlined in a good [first-year homeowner guide](/blog/first-year-homeowner-guide/):
 
 **Fix moisture problems.** Termites are attracted to moisture. Fix leaking pipes, improve drainage around your foundation, repair roof leaks promptly, and make sure gutters direct water away from the house.
 

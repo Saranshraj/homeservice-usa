@@ -22,7 +22,7 @@ Air duct cleaning costs **$300 to $1,000** for most US homes in 2026, with the n
 | Add-on: dryer vent cleaning | Typically 1 vent | $75 to $150 |
 | Add-on: mold treatment/sanitizing | Per treatment | $150 to $500 |
 
-These ranges assume a single-story or two-story home with a standard central HVAC system and accessible ductwork. Homes with complicated layouts, partially blocked ducts, or significant debris buildup may cost more.
+These ranges assume a single-story or two-story home with a standard [central HVAC system](/blog/central-ac-installation-cost/) and accessible ductwork. Homes with complicated layouts, partially blocked ducts, or significant debris buildup may cost more.
 
 ---
 
@@ -109,9 +109,9 @@ That said, many homeowners report that duct cleaning helped after they noticed i
 
 Even without a specific problem triggering the EPA's three conditions, there are circumstances where cleaning provides genuine value.
 
-**After buying an older home.** If you moved into a house where the HVAC system was never serviced, cleaning the ducts gives you a fresh start and lets you visually inspect the system for problems.
+**After buying an older home.** If you [moved into a house](/blog/first-year-homeowner-guide/) where the HVAC system was never serviced, cleaning the ducts gives you a fresh start and lets you visually inspect the system for problems.
 
-**After major renovation or construction.** Drywall dust, sawdust, and insulation fibers from a remodel can coat duct interiors and circulate through the home for months. Cleaning after major work is standard practice for many contractors.
+**After major renovation or construction.** Drywall dust, sawdust, and [insulation fibers](/blog/attic-insulation-cost/) from a remodel can coat duct interiors and circulate through the home for months. Cleaning after major work is standard practice for many contractors.
 
 **After rodent or pest infestation.** Once exterminators have addressed the infestation, cleaning and sanitizing the ductwork removes droppings, nesting material, and odors.
 
@@ -132,7 +132,7 @@ Even without a specific problem triggering the EPA's three conditions, there are
 | Mold treatment | Not equipped | Can treat and certify |
 | Time | 3 to 6 hours | 2 to 4 hours |
 
-DIY duct cleaning is an option for light maintenance. You can remove vent covers, wipe them down, and vacuum several inches into the duct with a long-hose attachment. However, you will not reach the main trunk line, deep bends, or the air handler itself. For a thorough cleaning, especially if you are dealing with mold or rodent contamination, hire a professional.
+DIY duct cleaning is an option for light maintenance. You can remove vent covers, wipe them down, and vacuum several inches into the duct with a long-hose attachment. However, you will not reach the main trunk line, deep bends, or the air handler itself. For a thorough cleaning, especially if you are dealing with mold or rodent contamination, [hire a professional](/blog/how-to-find-good-contractor/).
 
 If you do go DIY, change your air filter first and again after cleaning. A clogged filter is often responsible for more of your air quality problems than the ducts themselves. The [U.S. Department of Energy](https://www.energy.gov/energysaver/maintaining-your-air-conditioner) recommends checking your filter every month and replacing it every 1 to 3 months depending on use and filter type.
 
@@ -146,7 +146,7 @@ When you hire a reputable company, here is what you should expect to happen:
 2. **System protection.** Furniture and floors near return air grilles are protected.
 3. **Negative air pressure.** The technician creates negative pressure in the duct system using powerful vacuum equipment so that debris is drawn out rather than blown around.
 4. **Mechanical agitation.** Rotary brushes or pneumatic whips loosen debris from duct walls while the vacuum removes it.
-5. **All components cleaned.** A full cleaning covers not just the ducts but also supply and return air registers, grilles, diffusers, the heat exchanger, fan motor and housing, and the drip pan.
+5. **All components cleaned.** A full cleaning covers not just the ducts but also supply and return air registers, grilles, diffusers, the [heat exchanger](/blog/furnace-replacement-cost/), fan motor and housing, and the drip pan.
 6. **Post-inspection.** Before leaving, the technician should show you before and after photos or video.
 7. **Written documentation.** You receive a written summary of what was done.
 

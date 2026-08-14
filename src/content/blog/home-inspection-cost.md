@@ -159,9 +159,11 @@ A typical inspection report will have 20 to 100+ items noted. Do not panic when 
 
 ### Option 1: Renegotiate the price
 
-If the inspector finds significant problems, you can ask the seller to lower the purchase price by the estimated repair cost. Get contractor estimates for any major work before making your counter-offer. This is often the cleanest solution.
+If the inspector finds significant problems, you can ask the seller to lower the purchase price by the estimated repair cost. Get contractor estimates for any major work before making your counter-offer. Our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) can help you vet whoever you hire for post-inspection repairs. This is often the cleanest solution.
 
 ### Option 2: Ask for repairs
+
+Some buyers also negotiate a [home warranty](/blog/home-warranty-worth-it/) as part of the sale terms, which provides coverage for systems and appliances that pass inspection but are nearing the end of their service life.
 
 You can request that the seller fix specific problems before closing. Be strategic here. Focus on safety hazards and major defects rather than a long list of every maintenance item. Sellers who feel nickel-and-dimed sometimes walk away.
 
@@ -171,6 +173,8 @@ Instead of repairs, you can ask for a credit at closing, which reduces the amoun
 
 ### Option 4: Walk away
 
+Once you have closed on the home, review your [homeowners insurance policy](/blog/homeowners-insurance-claims/) against the inspection findings — items like a known roof issue or aging electrical panel can affect your coverage options and what exclusions to expect.
+
 If the inspection reveals serious structural problems, extensive mold, or a combination of costly issues that the seller will not address, you can typically exit the contract during the inspection contingency period and get your earnest money back. This is why the inspection contingency clause in your purchase agreement matters so much.
 
 ---
@@ -179,7 +183,7 @@ If the inspection reveals serious structural problems, extensive mold, or a comb
 
 In competitive markets, some buyers waive the inspection to make their offer more attractive. This is a serious risk. Here is why.
 
-The [National Association of Home Builders](https://www.nahb.org) estimates that home maintenance and repairs cost the average homeowner 1 to 4 percent of the home's value every year. On a $400,000 home, that is $4,000 to $16,000 annually. A hidden foundation problem or failed HVAC system can easily cost $10,000 to $50,000 to fix. A $400 inspection is cheap insurance.
+The [National Association of Home Builders](https://www.nahb.org) estimates that home maintenance and repairs cost the average homeowner 1 to 4 percent of the home's value every year. On a $400,000 home, that is $4,000 to $16,000 annually. If you are buying your first home, our [first-year homeowner guide](/blog/first-year-homeowner-guide/) can help you build a maintenance calendar based on what the inspection uncovers. A hidden [foundation problem](/blog/foundation-repair-cost/) or failed HVAC system can easily cost $10,000 to $50,000 to fix. A $400 inspection is cheap insurance.
 
 If you are under pressure to waive the inspection, consider an alternative: a pre-offer walkthrough with a trusted contractor. It is not as thorough, but it gives you some protection. Some buyers also negotiate a post-closing inspection period with a right to request repairs.
 

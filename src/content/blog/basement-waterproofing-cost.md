@@ -11,7 +11,7 @@ Basement waterproofing costs between **$3,000 and $15,000** for most US homeowne
 
 ## Why Basement Waterproofing Matters (And What Happens If You Skip It)
 
-Water in your basement is not just an inconvenience. Left unaddressed, moisture creates conditions for mold growth within **24 to 48 hours**, according to the [EPA](https://www.epa.gov/mold/mold-course-chapter-2). Mold remediation alone costs **$1,500 to $6,000** for moderate infestations, and severe mold can require gutting entire walls. Beyond mold, persistent moisture weakens floor joists, corrodes steel support beams, and erodes the concrete or mortar holding your foundation together. What starts as a $4,000 waterproofing job can balloon into a $25,000 foundation repair if ignored for a few years.
+Water in your basement is not just an inconvenience. Left unaddressed, moisture creates conditions for mold growth within **24 to 48 hours**, according to the [EPA](https://www.epa.gov/mold/mold-course-chapter-2). [Mold remediation](/blog/mold-remediation-cost/) alone costs **$1,500 to $6,000** for moderate infestations, and severe mold can require gutting entire walls. Beyond mold, persistent moisture weakens floor joists, corrodes steel support beams, and erodes the concrete or mortar holding your foundation together. What starts as a $4,000 waterproofing job can balloon into a $25,000 [foundation repair](/blog/foundation-repair-cost/) if ignored for a few years.
 
 The financial case for acting now is strong. Waterproofing typically returns **80 to 90 cents on the dollar** at resale, and a dry, usable basement can meaningfully increase your home's livable square footage.
 
@@ -147,7 +147,7 @@ If you see horizontal cracks or bowing walls, contact a structural engineer befo
 
 This is one of the most common questions homeowners ask, and the honest answer is mostly no.
 
-**Standard homeowners insurance** typically covers sudden and accidental water damage (like a burst pipe), but **excludes gradual water infiltration** and flooding from outside the home. Waterproofing work is almost never covered because insurers classify it as a maintenance issue, not a sudden event.
+**Standard homeowners insurance** typically covers sudden and accidental water damage (like a burst pipe), but **excludes gradual water infiltration** and flooding from outside the home. Understanding [how homeowners insurance claims work](/blog/homeowners-insurance-claims/) helps you know what to document and when to file. Waterproofing work is almost never covered because insurers classify it as a maintenance issue, not a sudden event.
 
 **FEMA flood insurance** (available through the [National Flood Insurance Program](https://www.fema.gov/flood-insurance)) covers flooding damage to the structure and contents but does not pay for waterproofing installation. It may help with cleanup and repair costs after a flood event.
 
@@ -157,7 +157,7 @@ This is one of the most common questions homeowners ask, and the honest answer i
 
 The basement waterproofing industry has a well-documented problem with high-pressure sales tactics and overselling. Here is how to protect yourself:
 
-**Get three written quotes minimum.** Prices vary enormously. A job quoted at $12,000 by one company may be $5,500 with another using the same method. This is one of the most price-competitive home service categories, so comparison shopping genuinely pays off.
+**Get three written quotes minimum.** Prices vary enormously. A job quoted at $12,000 by one company may be $5,500 with another using the same method. This is one of the most price-competitive home service categories, and knowing [how to find and vet a good contractor](/blog/how-to-find-good-contractor/) before collecting bids can save you thousands.
 
 **Understand the warranty carefully.** Most reputable companies offer a lifetime transferable warranty, which means coverage passes to the next owner if you sell. Ask: Is the warranty backed by insurance? Does the company belong to a warranty network? What happens if the company goes out of business?
 
@@ -173,7 +173,7 @@ Some basement moisture issues genuinely are DIY-friendly. If you have minor cond
 
 Exterior grading fixes, where the soil around your home slopes toward the foundation instead of away from it, cost nothing if you do it yourself with rented equipment or $500 to $1,500 if you hire a landscaper. This simple fix prevents a large percentage of basement moisture problems.
 
-However, interior drainage systems, exterior excavation, and crack injection all require professional equipment, permits in most jurisdictions, and significant experience to install correctly. A DIY crack injection attempt using the wrong product (like regular caulk) can trap water and make cracking worse. For any work beyond dehumidification and grading, hire a licensed professional.
+However, interior drainage systems, exterior excavation, and crack injection all require professional equipment, permits in most jurisdictions, and significant experience to install correctly. A DIY crack injection attempt using the wrong product (like regular caulk) can trap water and make cracking worse. For any work beyond dehumidification and grading, hire a licensed professional. If your home has a crawl space, [crawl space encapsulation](/blog/crawl-space-encapsulation-cost/) is a complementary solution that prevents ground moisture from entering your home from below.
 
 ## Official Resources
 

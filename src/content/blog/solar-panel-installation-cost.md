@@ -69,7 +69,7 @@ Battery costs are also covered by the 30 percent ITC when installed with a solar
 
 Your installer will assess your roof before installing. Roofs less than 5 years old in good condition add no cost. Older roofs or those needing repair add $1,000 to $5,000 before panels go on. Complex roofs (multiple angles, dormers, steep pitches) increase labor costs by $1,500 to $3,000.
 
-Most installers will not put panels on a roof less than 25 years from needing replacement. If your shingles are aging, replacing them first is worth discussing with a roofing contractor. See our guide to [roof replacement costs](/blog/roof-replacement-cost) for what to expect.
+Most installers will not put panels on a roof less than 25 years from needing replacement. If your shingles are aging, replacing them first is worth discussing with a roofing contractor. See our guide to [roof replacement costs](/blog/roof-replacement-cost/) for what to expect.
 
 ### Local Labor Rates and Permitting
 
@@ -180,7 +180,7 @@ Total time from contract to generating power: **2 to 5 months** in most markets.
 
 Yes, but usually not in a bad way. Notify your homeowners insurance company when you go solar. Most policies cover rooftop solar systems under the dwelling coverage automatically, but you want to confirm. Adding $20,000 to $30,000 in equipment to your roof may increase your premium modestly, typically **$10 to $20 per month**.
 
-If a storm damages your panels, homeowners insurance should cover repair or replacement (minus your deductible). Make sure your coverage limit is high enough to include the system value. See our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims) if you need to file.
+If a storm damages your panels, homeowners insurance should cover repair or replacement (minus your deductible). Make sure your coverage limit is high enough to include the system value. See our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims/) if you need to file.
 
 ## Quick Reference: Solar Panel Cost Summary
 

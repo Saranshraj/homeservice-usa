@@ -7,7 +7,7 @@ readTime: "9 min"
 tags: ["carpet installation cost", "carpet cost per square foot", "carpet replacement cost", "flooring cost", "cost guides"]
 ---
 
-Carpet installation costs **$3 to $11 per square foot fully installed**, which means a standard 12x15 foot bedroom (180 sq ft) runs between **$540 and $1,980**. For a whole home of 1,200 square feet, budget **$3,600 to $13,200**. The wide range comes down to the carpet type you choose, the quality of the padding underneath, and labor rates in your area. This guide breaks it all down so you know exactly what to expect before you call a flooring company.
+Carpet installation costs **$3 to $11 per square foot fully installed**, which means a standard 12x15 foot bedroom (180 sq ft) runs between **$540 and $1,980**. For a whole home of 1,200 square feet, budget **$3,600 to $13,200**. The wide range comes down to the carpet type you choose, the quality of the padding underneath, and labor rates in your area. This guide breaks it all down so you know exactly what to expect before you call a flooring company — if you're a new homeowner, it's one of the many flooring and maintenance decisions laid out in a good [first-year homeowner guide](/blog/first-year-homeowner-guide/).
 
 ## What You Are Actually Paying For
 
@@ -113,7 +113,7 @@ If you have existing carpet, it needs to come up before the new stuff goes down.
 
 For a 180 square foot bedroom, expect to pay an extra $135 to $405 for removal and disposal. Some big-box store installers (Home Depot, Lowe's) include removal in their pricing packages, so always ask.
 
-If the old carpet has pet urine or mold damage, the subfloor underneath may need treatment or replacement before new carpet goes in. Subfloor repairs add $1.50 to $7 per square foot depending on the extent of damage.
+If the old carpet has pet urine or mold damage, the subfloor underneath may need treatment or replacement before new carpet goes in — and depending on the extent, you may need a professional [mold remediation service](/blog/mold-remediation-cost/) before installation can begin. Subfloor repairs add $1.50 to $7 per square foot depending on the extent of damage.
 
 ## Staircase Carpet Cost
 
@@ -181,7 +181,7 @@ If a flooring company does any of the following, get a second opinion:
 - Does not ask to see the subfloor condition before quoting
 - Skips the power stretcher in favor of a knee kicker only (proper stretching requires both)
 
-Licensed contractors can be verified through your state's contractor licensing board. Most states maintain searchable online databases.
+Licensed contractors can be verified through your state's contractor licensing board. Applying the same vetting process you would use [when hiring any home contractor](/blog/how-to-find-good-contractor/) — checking licenses, getting written quotes, and confirming insurance — protects you here too.
 
 ## Tax Credits and Rebates
 
@@ -204,7 +204,7 @@ Replace rather than repair when:
 - The carpet is more than 10 to 15 years old and worn unevenly
 - You notice musty smells, which can indicate mold in the padding or subfloor
 
-The [Environmental Protection Agency](https://epa.gov/iaq) notes that carpets can harbor allergens, pet dander, and mold if not properly maintained. If you or a family member has worsening indoor allergies, replacing old carpet with fresh material on clean padding can meaningfully improve indoor air quality.
+The [Environmental Protection Agency](https://epa.gov/iaq) notes that carpets can harbor allergens, pet dander, and mold if not properly maintained. If you or a family member has worsening indoor allergies, replacing old carpet with fresh material on clean padding can meaningfully improve indoor air quality. Some homeowners in this situation also explore switching to [hardwood floors](/blog/hardwood-floor-installation-cost/), which are easier to clean thoroughly and do not trap allergens the way carpet fibers do.
 
 ## Official Resources
 
