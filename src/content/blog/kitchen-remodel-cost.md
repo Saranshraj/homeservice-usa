@@ -161,7 +161,7 @@ Not everything in a kitchen remodel requires a licensed contractor. Here is an h
 | Electrical work | No (permits required, safety risk) | Risk of fire, failed inspection |
 | Cabinet installation | Only if very handy | $1,500 to $5,000 |
 
-If you are comfortable with power tools and have a few weekends to spare, tackling the backsplash and flooring yourself can save **$1,500 to $3,000** on a mid-range remodel. That is real money.
+If you are comfortable with power tools and have a few weekends to spare, tackling the backsplash, flooring, or [interior painting](/blog/interior-house-painting-cost/) yourself can save **$1,500 to $3,000** on a mid-range remodel. That is real money.
 
 ---
 
@@ -185,7 +185,7 @@ Kitchen remodels are one of the most common categories for contractor fraud. A f
 - **Pressure to decide immediately.** Legitimate contractors are busy, not desperate. High-pressure tactics are a scam signal.
 - **No license or insurance verification.** Verify your contractor's license through your state licensing board before signing anything. A list of state licensing boards is available through [HUD](https://www.hud.gov).
 
-For more on protecting yourself, see our guide on [how to find a good contractor and avoid getting scammed](/blog/how-to-find-good-contractor).
+For more on protecting yourself, see our guide on [how to find a good contractor and avoid getting scammed](/blog/how-to-find-good-contractor/).
 
 ---
 
@@ -199,7 +199,7 @@ Most homeowners underestimate how long a kitchen remodel takes. Here is a realis
 - **Actual construction:** 3 to 8 weeks for a full remodel
 - **Punch list and finishing:** 1 to 2 weeks
 
-Total: **plan for 3 to 6 months from first call to completed kitchen** for a full remodel. Budget an extra 10 to 15 percent as a contingency fund. Unexpected costs (hidden water damage, outdated wiring discovered inside walls, uneven floors) are common in any renovation project.
+Total: **plan for 3 to 6 months from first call to completed kitchen** for a full remodel. Budget an extra 10 to 15 percent as a contingency fund. Unexpected costs (hidden water damage, outdated wiring discovered inside walls, uneven floors) are common in any renovation project. If water damage from a leaking pipe is discovered during the remodel, a [homeowners insurance claim](/blog/homeowners-insurance-claims/) may cover the remediation cost — contact your insurer before proceeding with repairs so you do not accidentally void coverage.
 
 ---
 

@@ -25,7 +25,7 @@ Most plumbing calls fall into a handful of common categories. Here are realistic
 | Faucet repair or replacement | $150 to $400 | Includes labor; fixture costs extra |
 | Toilet repair | $100 to $250 | Flapper, fill valve, supply line |
 | Toilet replacement | $250 to $600 | Labor only; toilet costs extra ($100 to $600) |
-| Water heater installation | $300 to $800 | Labor only; see our water heater guide |
+| Water heater installation | $300 to $800 | Labor only; see our [water heater cost guide](/blog/water-heater-replacement-cost/) |
 | Pipe leak repair | $150 to $550 | Accessible pipes cost less; wall access costs more |
 | Garbage disposal installation | $150 to $350 | Labor; disposal costs extra ($75 to $350) |
 | Shower or tub installation | $500 to $1,500 | More if tiling or structural work needed |
@@ -95,7 +95,7 @@ Not every plumbing problem requires a professional. Here is an honest breakdown.
 ### Call a plumber:
 - Any gas line work. This is non-negotiable. Gas leaks kill people, and every US state requires a licensed professional for gas work.
 - A burst pipe or one that is actively flooding your home.
-- Sewer line problems (sewage smell, multiple drains backing up at once, gurgling sounds from multiple fixtures).
+- Sewer line problems (sewage smell, multiple drains backing up at once, gurgling sounds from multiple fixtures — see our [sewer line repair cost guide](/blog/sewer-line-repair-cost/) to understand what you may be facing).
 - Water heater replacement if you are switching fuel types or the installation requires new connections.
 - Any work that requires a permit. Plumbing permits are required for new installations and major changes in virtually every US municipality.
 - Lead pipe replacement. Homes built before 1986 may have lead service lines. The [EPA](https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water) has guidance on identifying and replacing lead pipes, and this work should always be done by a licensed pro.
@@ -116,7 +116,7 @@ Never let a plumber start work before you have a written estimate that breaks do
 
 Every state requires plumbers to be licensed. In most states, there are different license levels: journeyman (works under supervision) and master plumber (licensed to pull permits and run a business). You can check your state's licensing board directly. In California, verify through the Contractors State License Board. In Texas, use the Texas State Board of Plumbing Examiners. For most states, a search for "[your state] plumber license lookup" gets you there in under a minute.
 
-The [National Association of Home Builders](https://www.nahb.org/) recommends verifying license, insurance, and at least three references before hiring any contractor, including plumbers.
+The [National Association of Home Builders](https://www.nahb.org/) recommends verifying license, insurance, and at least three references before hiring any contractor, including plumbers. Our guide to [finding a reliable home contractor](/blog/how-to-find-good-contractor/) covers the full vetting process with a step-by-step checklist that applies equally well to plumbers.
 
 ### Get three quotes for big jobs
 
@@ -134,7 +134,7 @@ If you are replacing a water heater or installing a high-efficiency fixture, che
 
 ## Drain Cleaning Cost: A Closer Look
 
-Drain cleaning is one of the most common plumbing calls, and the price range is wide enough to be confusing.
+Drain cleaning is one of the most common plumbing calls, and the price range is wide enough to be confusing — we cover it in full detail in our [drain cleaning cost guide](/blog/drain-cleaning-cost/), but here is a quick summary.
 
 **Plunger or hand auger (DIY):** $0 to $30 in parts. The right move for a single slow or clogged drain.
 
@@ -171,7 +171,7 @@ Knowing your home's plumbing basics saves you money and helps you communicate cl
 
 **Know your pipe material.** Homes built before 1970 often have galvanized steel or cast iron pipes that corrode over time. Homes built between 1978 and 1995 may have polybutylene pipe, which is notorious for failing and was the subject of a class action settlement. Homes built after 1995 typically have copper or PVC/CPVC. Your pipe material affects repair costs, compatibility of parts, and the likelihood of future problems.
 
-**Test your water pressure.** Normal household water pressure runs 40 to 80 PSI. Above 80 PSI can stress pipes and fixtures; a pressure reducing valve (PRV) costs $200 to $500 installed and protects your entire system. You can buy a water pressure gauge for $15 at any hardware store.
+**Test your water pressure.** Normal household water pressure runs 40 to 80 PSI (if you're consistently reading below 40, our guide to [diagnosing low water pressure](/blog/low-water-pressure-house/) walks through the most common causes and fixes). Above 80 PSI can stress pipes and fixtures; a pressure reducing valve (PRV) costs $200 to $500 installed and protects your entire system. You can buy a water pressure gauge for $15 at any hardware store.
 
 **Look for signs before a small problem becomes big.** Water stains on ceilings or walls, musty smells in cabinets under sinks, and higher-than-normal water bills are early warning signs of hidden leaks. Catching them early keeps a $200 repair from becoming a $5,000 remediation.
 

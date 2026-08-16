@@ -77,7 +77,7 @@ Northeastern states tend to run highest due to higher labor costs and stricter c
 
 The Inflation Reduction Act extended and expanded energy efficiency tax credits through 2032. For furnace replacements, here is what you need to know:
 
-**What qualifies:** Natural gas furnaces with an AFUE rating of 96% or higher qualify for the Energy Efficient Home Improvement Credit. Heat pumps (which can replace a furnace entirely in many climates) qualify for a separate, more generous credit of up to $2,000.
+**What qualifies:** Natural gas furnaces with an AFUE rating of 96% or higher qualify for the Energy Efficient Home Improvement Credit. [Heat pumps](/blog/heat-pump-installation-cost/) (which can replace a furnace entirely in many climates) qualify for a separate, more generous credit of up to $2,000.
 
 **How much:** 30% of the cost of the qualifying equipment, capped at **$600 per year** for furnaces. This is a tax credit, not a deduction, meaning it reduces your actual tax bill dollar for dollar.
 
@@ -89,9 +89,9 @@ You can check whether a specific furnace model qualifies at [ENERGY STAR's certi
 
 ## 8 Signs You Need a New Furnace (Not Just a Repair)
 
-Knowing when to repair versus replace saves thousands. Here are the signals that point toward replacement:
+Knowing when to [repair versus replace](/blog/home-warranty-worth-it/) saves thousands. Here are the signals that point toward replacement:
 
-1. **Age over 15 to 20 years.** The average gas furnace lasts 15 to 20 years with proper maintenance. If yours is in that range and needs a major repair, replacement usually pencils out better. The [Department of Energy](https://www.energy.gov/energysaver/furnaces-and-boilers) recommends replacing any furnace older than 20 years.
+1. **Age over 15 to 20 years.** The average gas furnace lasts 15 to 20 years with [proper maintenance](/blog/first-year-homeowner-guide/). If yours is in that range and needs a major repair, replacement usually pencils out better. The [Department of Energy](https://www.energy.gov/energysaver/furnaces-and-boilers) recommends replacing any furnace older than 20 years.
 
 2. **Repair cost exceeds 50% of replacement.** If you are looking at a $2,000 repair on a 15-year-old furnace, a new unit is almost always the smarter financial move.
 
@@ -149,9 +149,9 @@ Replacing a furnace is not a DIY project for most homeowners. Here is why:
 
 - **Proper sizing requires training.** A Manual J calculation is not something most homeowners can do accurately on their own, and an improperly sized furnace causes real problems for years.
 
-- **Manufacturer warranties typically require professional installation.** Most furnace warranties specify that the unit must be installed by a licensed HVAC contractor. DIY installation voids the warranty from day one.
+- **Manufacturer warranties typically require professional installation.** Most furnace warranties specify that the unit must be installed by a [licensed HVAC contractor](/blog/how-to-find-good-contractor/). DIY installation voids the warranty from day one.
 
-Where homeowners can legitimately save money: replacing a furnace filter monthly (cost: $5 to $30), cleaning vents and registers, and keeping the area around the furnace clear. These tasks genuinely extend furnace life and are safe to do yourself.
+Where homeowners can legitimately save money: replacing a furnace filter monthly (cost: $5 to $30), [cleaning vents and registers](/blog/air-duct-cleaning-cost/), and keeping the area around the furnace clear. These tasks genuinely extend furnace life and are safe to do yourself.
 
 ---
 

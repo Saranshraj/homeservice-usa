@@ -13,9 +13,9 @@ Clogged or failing gutters are one of the most common causes of roof leaks, espe
 
 ## Why Gutters Matter More Than You Think
 
-Gutters are your home's first line of defense against water damage. When they fail, rainwater pours directly against your foundation, seeps into your basement, erodes landscaping, and soaks the fascia boards behind the gutters. The [Federal Emergency Management Agency (FEMA)](https://www.fema.gov) estimates that water damage is one of the most common and costly home disasters in the US. Replacing failing gutters is almost always cheaper than repairing the damage they would cause if left in place.
+Gutters are your home's first line of defense against water damage. When they fail, rainwater pours directly against your foundation, seeps into your [basement](/blog/basement-waterproofing-cost/), erodes landscaping, and soaks the fascia boards behind the gutters. The [Federal Emergency Management Agency (FEMA)](https://www.fema.gov) estimates that water damage is one of the most common and costly home disasters in the US. Replacing failing gutters is almost always cheaper than repairing the damage they would cause if left in place, and water damage from failed gutters may be worth reviewing against your [homeowners insurance coverage](/blog/homeowners-insurance-claims/).
 
-The [National Association of Home Builders (NAHB)](https://www.nahb.org) notes that gutters have an expected lifespan of 20 years for aluminum, 30 years for steel, and 50 or more years for copper. If your gutters are pulling away from the fascia, have visible cracks, leak at seams, or show rust staining on your siding, replacement is likely overdue.
+The [National Association of Home Builders (NAHB)](https://www.nahb.org) notes that gutters have an expected lifespan of 20 years for aluminum, 30 years for steel, and 50 or more years for copper. If your gutters are pulling away from the fascia, have visible cracks, leak at seams, or show rust staining on your [siding](/blog/siding-replacement-cost/), replacement is likely overdue.
 
 ## Gutter Replacement Cost by Material
 
@@ -126,7 +126,7 @@ Full replacement makes more sense when:
 - Gutters are sagging along multiple runs (means the fascia behind them has rotted)
 - Rust or cracks appear in multiple places
 - The gutters are more than 20 years old and have had repeated problems
-- You are replacing the roof (gutters are removed anyway; replace them now at a discount)
+- You are [replacing the roof](/blog/roof-replacement-cost/) (gutters are removed anyway; replace them now at a discount)
 
 ## Can You DIY Gutter Installation?
 
@@ -145,7 +145,7 @@ If you are comfortable on a ladder and your home is single-story, DIY sectional 
 
 **Get at least three quotes.** Gutter installation is a competitive market, and bids can vary by 30 to 50 percent for the same scope. Always compare apples to apples: material type, seamless vs. sectional, whether fascia replacement and hauling are included.
 
-**Ask about contractor licensing.** Most states require contractors to be licensed for work above a certain dollar amount. You can verify licenses through your state's contractor licensing board (search "[your state] contractor license verification"). An unlicensed contractor who causes property damage may leave you with no recourse.
+**Ask about [contractor licensing](/blog/how-to-find-good-contractor/).** Most states require contractors to be licensed for work above a certain dollar amount. You can verify licenses through your state's contractor licensing board (search "[your state] contractor license verification"). An unlicensed contractor who causes property damage may leave you with no recourse.
 
 **Check the pitch.** Gutters must slope slightly toward the downspouts (about 1/4 inch per 10 feet) to drain properly. Ask your contractor how they ensure proper pitch, or watch them use a level during installation.
 

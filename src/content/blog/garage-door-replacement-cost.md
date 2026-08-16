@@ -72,7 +72,7 @@ Anything outside standard dimensions is considered custom, and custom doors are 
 
 ## Garage Door Opener: An Often-Forgotten Cost
 
-If your existing opener is older than 10 years or incompatible with your new door, budget for a replacement. A new garage door opener costs:
+If your existing opener is older than 10 years or incompatible with your new door, budget for a replacement. Garage door openers are sometimes covered under [home warranty plans](/blog/home-warranty-worth-it/) — worth checking your coverage before paying out of pocket for a new unit. A new garage door opener costs:
 
 - **Chain drive:** $150 to $250 (loud but reliable; best for detached garages)
 - **Belt drive:** $200 to $350 (quieter; ideal for attached garages near living spaces)
@@ -109,7 +109,7 @@ Always ask your installer for a written quote that itemizes the door, hardware, 
 | Pacific Northwest | $1,300 to $3,000 | Moisture-resistant materials recommended |
 | Mountain West | $1,200 to $2,800 | Standard pricing; altitude not a factor |
 
-**A note on Florida:** If you live in a hurricane zone, local codes may require a wind-load-rated garage door. These doors cost **$200 to $600 more** than standard doors but are required in many South Florida counties and coastal areas. The [FEMA guidelines on hurricane-resistant construction](https://www.fema.gov) specifically call out garage doors as a common failure point during storms.
+**A note on Florida:** If you live in a hurricane zone, local codes may require a wind-load-rated garage door. These doors cost **$200 to $600 more** than standard doors but are required in many South Florida counties and coastal areas. The [FEMA guidelines on hurricane-resistant construction](https://www.fema.gov) specifically call out garage doors as a common failure point during storms. If a storm damages your garage door, that is typically a [homeowners insurance claim](/blog/homeowners-insurance-claims/) — call your insurer before ordering a replacement to confirm your coverage.
 
 ---
 
@@ -132,7 +132,7 @@ Garage door replacement is one of the more genuinely dangerous DIY projects in h
 **What you can DIY:**
 - Cosmetic repairs (painting, replacing weather stripping, replacing decorative hardware)
 - Installing a new smart opener on an existing working door
-- Lubricating springs, rollers, and hinges (annual maintenance)
+- Lubricating springs, rollers, and hinges (annual maintenance — a 15-minute task that is part of the seasonal routine any [first-year homeowner guide](/blog/first-year-homeowner-guide/) recommends)
 
 **What should be left to professionals:**
 - Full door replacement (especially torsion spring installation)
@@ -146,7 +146,7 @@ Labor for a professional installation runs $200 to $600, which is modest relativ
 
 ## How to Get the Best Price on a Garage Door
 
-**Get three quotes.** Garage door pricing varies more than most homeowners expect. Get quotes from at least two to three companies. Big-box stores (Home Depot, Lowe's) offer doors with installation packages that are worth comparing against local garage door specialists.
+**Get three quotes.** Garage door pricing varies more than most homeowners expect. Get quotes from at least two to three companies. Big-box stores (Home Depot, Lowe's) offer doors with installation packages that are worth comparing against local garage door specialists. Our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) covers how to evaluate installer credentials and spot red flags before signing.
 
 **Buy the door and labor together.** Garage door companies typically charge less for installation when they supply the door. Buying a door online and having a company install it often costs more overall.
 

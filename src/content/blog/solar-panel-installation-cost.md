@@ -36,7 +36,7 @@ Your system size is measured in kilowatts (kW) and is determined by how much ele
 | 10 kW | Large home or high usage | $25,000 to $35,000 | $17,500 to $24,500 |
 | 12 kW | Very large home, EV charging | $30,000 to $42,000 | $21,000 to $29,400 |
 
-These ranges reflect installed costs including labor, permitting, and interconnection fees. Equipment (panels and inverter) typically accounts for about 35 to 40 percent of the total; the rest is soft costs.
+These ranges reflect installed costs including labor, permitting, and interconnection fees. Equipment (panels and inverter) typically accounts for about 35 to 40 percent of the total; the rest is soft costs. If you are sizing your solar system to support electric vehicle charging, our guide to [EV charger installation costs](/blog/ev-charger-installation-cost/) explains the additional electrical infrastructure you may need.
 
 ## What Drives Solar Installation Costs?
 
@@ -71,7 +71,7 @@ Battery costs are also covered by the 30 percent ITC when installed with a solar
 
 Your installer will assess your roof before installing. Roofs less than 5 years old in good condition add no cost. Older roofs or those needing repair add $1,000 to $5,000 before panels go on. Complex roofs (multiple angles, dormers, steep pitches) increase labor costs by $1,500 to $3,000.
 
-Most installers will not put panels on a roof less than 25 years from needing replacement. If your shingles are aging, replacing them first is worth discussing with a roofing contractor. See our guide to [roof replacement costs](/blog/roof-replacement-cost) for what to expect.
+Most installers will not put panels on a roof less than 25 years from needing replacement. If your shingles are aging, replacing them first is worth discussing with a roofing contractor. See our guide to [roof replacement costs](/blog/roof-replacement-cost/) for what to expect.
 
 ### Local Labor Rates and Permitting
 
@@ -176,13 +176,13 @@ Knowing the timeline helps you avoid surprises.
 | Permission to operate | 1 to 4 weeks | Utility flips the switch for net metering |
 | First full solar bill | 1 to 2 months | You see the impact on your electricity bill |
 
-Total time from contract to generating power: **2 to 5 months** in most markets.
+Total time from contract to generating power: **2 to 5 months** in most markets. Note that if your home has an older electrical panel, the site assessment may identify the need for an [electrical panel upgrade](/blog/electrical-panel-upgrade-cost/) before installation can proceed — plan for that possibility in your timeline and budget.
 
 ## Does Solar Affect Your Homeowners Insurance?
 
 Yes, but usually not in a bad way. Notify your homeowners insurance company when you go solar. Most policies cover rooftop solar systems under the dwelling coverage automatically, but you want to confirm. Adding $20,000 to $30,000 in equipment to your roof may increase your premium modestly, typically **$10 to $20 per month**.
 
-If a storm damages your panels, homeowners insurance should cover repair or replacement (minus your deductible). Make sure your coverage limit is high enough to include the system value. See our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims) if you need to file.
+If a storm damages your panels, homeowners insurance should cover repair or replacement (minus your deductible). Make sure your coverage limit is high enough to include the system value. See our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims/) if you need to file.
 
 ## Quick Reference: Solar Panel Cost Summary
 

@@ -97,7 +97,7 @@ Look, painting your own house sounds like a great way to save $2,000 or more. An
 
 ## How to Get an Accurate Quote (and Avoid Getting Burned)
 
-Getting three quotes is the minimum standard advice, and it is good advice. But knowing what makes a quote legitimate versus a lowball trap is just as important.
+Getting [three quotes](/blog/how-to-find-good-contractor/) is the minimum standard advice, and it is good advice. But knowing what makes a quote legitimate versus a lowball trap is just as important.
 
 **A legitimate exterior painting quote should include:**
 - Total square footage of surface area being painted
@@ -146,7 +146,7 @@ Here are legitimate ways to reduce your exterior painting costs without sacrific
 
 ## What Happens If You Delay?
 
-Bare or peeling exterior paint is not just an eyesore. It is a slow leak in your home's envelope. Once moisture gets under failing paint and into bare wood, you are looking at wood rot repair costs of $500 to $2,500 or more on top of the paint job. In extreme cases, structural damage from water infiltration can run into the tens of thousands. Exterior painting is genuinely maintenance, not cosmetics. The [CPSC](https://www.cpsc.gov) and building code authorities recognize proper exterior maintenance as a fundamental homeowner responsibility for this reason.
+Bare or peeling exterior paint is not just an eyesore. It is a slow leak in your home's envelope. Once moisture gets under failing paint and into bare wood, you are looking at wood rot repair costs of $500 to $2,500 or more on top of the paint job — or [siding replacement](/blog/siding-replacement-cost/) if the underlying material has failed. In extreme cases, structural damage from water infiltration can run into the tens of thousands — and most [homeowners insurance policies](/blog/homeowners-insurance-claims/) won't cover damage caused by deferred maintenance. Exterior painting is genuinely maintenance, not cosmetics. The [CPSC](https://www.cpsc.gov) and building code authorities recognize proper exterior maintenance as a fundamental homeowner responsibility for this reason.
 
 Most painted homes need a fresh coat every 7 to 10 years with quality paint on prepared surfaces, or every 5 to 7 years with standard paint. If you are seeing cracking, peeling, chalking, or fading, your home is telling you the time is now.
 
@@ -159,4 +159,4 @@ Most painted homes need a fresh coat every 7 to 10 years with quality paint on p
 - **CPSC Home Safety Resources:** [cpsc.gov](https://www.cpsc.gov)
 - **HUD Lead Paint Resources for Homeowners:** [hud.gov/program_offices/healthy_homes/healthyhomes/lead](https://www.hud.gov/program_offices/healthy_homes/healthyhomes/lead)
 
-Getting your home's exterior painted is one of the highest return-on-investment projects you can do. It protects the structure underneath, boosts curb appeal, and can meaningfully increase your home's value before a sale. Get your three quotes, ask the right questions, and do not let price alone drive the decision.
+Getting your home's exterior painted is one of the highest return-on-investment projects you can do. It protects the structure underneath, boosts curb appeal, and can meaningfully increase your home's value before a sale. Get your three quotes, ask the right questions, and do not let price alone drive the decision — if you're also budgeting for [interior painting](/blog/interior-house-painting-cost/), scheduling both projects with the same contractor often reduces overall costs.

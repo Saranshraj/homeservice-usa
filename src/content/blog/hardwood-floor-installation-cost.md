@@ -36,7 +36,7 @@ Prefinished hardwood skips the site finishing cost and gets your room back to no
 
 This is the first choice most homeowners face, and it matters more than the price tag alone.
 
-**Solid hardwood** is a single piece of real wood, typically 3/4 inch thick. It can be sanded and refinished many times over a 50 to 100 year lifespan. The catch: it expands and contracts with humidity, so it cannot go below grade (in basements) and does not hold up well in bathrooms or high-moisture spaces.
+**Solid hardwood** is a single piece of real wood, typically 3/4 inch thick. It can be sanded and refinished many times over a 50 to 100 year lifespan. The catch: it expands and contracts with humidity, so it cannot go below grade (in basements) and does not hold up well in bathrooms or high-moisture spaces — if you're planning a [bathroom remodel](/blog/bathroom-remodel-cost/), tile or luxury vinyl are typically better flooring choices for those rooms.
 
 **Engineered hardwood** has a real wood veneer bonded to layers of plywood underneath. It handles humidity better, can go in basements, and works over radiant heating systems. The tradeoff: the veneer is thinner (typically 2 to 6 millimeters), so it can only be refinished once or twice before you hit the core.
 
@@ -76,7 +76,7 @@ Here are real-world estimates for common room sizes using the national average o
 | Whole home (1,000 sq ft) | 1,000 sq ft | $8,000 | $15,000 |
 | Whole home (1,500 sq ft) | 1,500 sq ft | $12,000 | $22,500 |
 
-Stairs cost extra. Expect to pay **$75 to $125 per step** for hardwood stair installation. A typical 13-step staircase adds **$975 to $1,625** to your total.
+Stairs cost extra. Expect to pay **$75 to $125 per step** for hardwood stair installation. A typical 13-step staircase adds **$975 to $1,625** to your total. Homeowners tackling a larger refresh often pair new hardwood floors with a [kitchen remodel](/blog/kitchen-remodel-cost/), since both projects benefit from having a general contractor on-site.
 
 ## What Drives the Price Up or Down
 
@@ -166,7 +166,7 @@ Before any contractor starts work, get clear answers to these questions:
 - What warranty do you offer on labor?
 - How long will the project take, including acclimation time?
 
-Always verify your contractor's license through your state contractor licensing board before signing anything. In most states, flooring installers need a general contractor's license or a specialty flooring license to operate legally.
+Always verify your contractor's license through your state contractor licensing board before signing anything — the same vetting process that applies [when hiring any home contractor](/blog/how-to-find-good-contractor/) is just as important here. In most states, flooring installers need a general contractor's license or a specialty flooring license to operate legally.
 
 ## How Long Does Installation Take?
 
@@ -193,7 +193,7 @@ If you are weighing hardwood against alternatives, here is a practical compariso
 | Ceramic or porcelain tile | $7 to $20 per sq ft | 50+ years | Not applicable |
 | Carpet | $3 to $8 per sq ft | 5 to 15 years | No |
 
-Hardwood costs more upfront, but its longevity and refinishability make it more cost-effective over the life of a home than carpet or laminate, which need replacing every 10 to 20 years.
+Hardwood costs more upfront, but its longevity and refinishability make it more cost-effective over the life of a home than [carpet](/blog/carpet-installation-cost/) or laminate, which need replacing every 10 to 20 years.
 
 ## Official Resources
 

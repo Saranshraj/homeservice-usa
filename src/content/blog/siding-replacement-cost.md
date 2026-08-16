@@ -91,7 +91,7 @@ Expect to pay **$5 to $12 per square foot installed**. Engineered wood holds pai
 
 ### Natural Wood Siding
 
-Cedar clapboard, pine shiplap, and redwood siding are beautiful, but they demand real maintenance. You will need to repaint or restain every 3 to 7 years, and any missed maintenance opens the door to rot and insect damage. Wood siding costs **$7 to $14 per square foot installed** and requires a bigger time and money commitment over its lifetime.
+Cedar clapboard, pine shiplap, and redwood siding are beautiful, but they demand real maintenance. You will need to [repaint or restain](/blog/exterior-house-painting-cost/) every 3 to 7 years, and any missed maintenance opens the door to rot and insect damage. Wood siding costs **$7 to $14 per square foot installed** and requires a bigger time and money commitment over its lifetime.
 
 That said, if you live in a historic district or simply love the look and feel of real wood, no other material matches it. Just go in with eyes open about the upkeep.
 
@@ -124,9 +124,9 @@ Check the [ENERGY STAR Rebate Finder](https://www.energystar.gov/rebate-finder) 
 
 A lot of homeowners put off siding replacement because it feels optional. It is not always optional. Here is what pushes it from "eventually" to "now":
 
-**Warping or buckling:** Siding that bows outward or shows visible waves has lost its seal against moisture. Water is getting behind it.
+**Warping or buckling:** Siding that bows outward or shows visible waves has lost its seal against moisture. Water is getting behind it, often driven by [failing gutters](/blog/gutter-replacement-cost/) or inadequate drainage at the roofline.
 
-**Cracks or gaps:** Any visible cracking, especially horizontal cracks in lap siding, is an entry point for rain, pests, and cold air. Gaps at corners or around windows are equally urgent.
+**Cracks or gaps:** Any visible cracking, especially horizontal cracks in lap siding, is an entry point for rain, pests, and cold air. Gaps at corners or around [windows](/blog/window-replacement-cost/) are equally urgent.
 
 **Fading that will not respond to cleaning:** Some color loss is cosmetic. But chalky, heavily faded siding is often brittle underneath and past the end of its service life.
 
@@ -144,7 +144,7 @@ Siding is one of the more common home improvement categories for contractor frau
 
 **Get three quotes in writing.** Prices can vary by 30 to 50 percent for the same job in the same neighborhood. Any contractor who pushes you to sign the same day is a red flag.
 
-**Verify the license.** Every state requires siding contractors to hold a contractor's license. Check your [state's contractor licensing board](https://www.contractors-license.org) or search through the [National Association of Home Builders](https://www.nahb.org) to verify. An unlicensed contractor doing work that requires permits leaves you with no legal recourse and no valid homeowner's insurance claim if something goes wrong.
+**Verify the license.** Every state requires siding contractors to hold a contractor's license. Check your [state's contractor licensing board](https://www.contractors-license.org) or search through the [National Association of Home Builders](https://www.nahb.org) to verify. An unlicensed contractor doing work that requires permits leaves you with no legal recourse and no valid [homeowner's insurance claim](/blog/homeowners-insurance-claims/) if something goes wrong.
 
 **Understand what is included.** Ask each contractor whether the quote includes: tear-off and disposal of old siding, moisture barrier replacement, sheathing repair allowance, all trim and corner pieces, and cleanup. Quotes that look cheap often exclude these items.
 
@@ -179,7 +179,7 @@ Siding installation is physically demanding and more technically complex than it
 
 That said, small sections on a single-story home are within reach for a handy homeowner with carpentry experience. The [Family Handyman](https://www.familyhandyman.com) has solid guides for vinyl siding repair and partial replacement.
 
-**For a full replacement, hire a licensed professional.** The labor savings are real but so are the risks, and most manufacturer warranties are void without professional installation.
+**For a full replacement, [hire a licensed professional](/blog/how-to-find-good-contractor/).** The labor savings are real but so are the risks, and most manufacturer warranties are void without professional installation.
 
 ---
 
@@ -196,4 +196,4 @@ Before you spend a dollar, bookmark these sources for your research:
 - [NAHB Contractor Finder](https://www.nahb.org) to find credentialed contractors in your area
 - Your state contractor licensing board to verify any contractor's license before signing
 
-Replacing your siding is a significant investment, but it protects everything else inside your walls. If you are seeing any of the warning signs above, the cost of waiting is almost always higher than the cost of acting now.
+Replacing your siding is a significant investment, but it protects everything else inside your walls, working alongside your [roof](/blog/roof-replacement-cost/) as your home's primary defense against the elements. If you are seeing any of the warning signs above, the cost of waiting is almost always higher than the cost of acting now.

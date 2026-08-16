@@ -82,7 +82,7 @@ The total installed cost of a standby generator includes more than the unit itse
 
 **Automatic transfer switch (ATS):** $500 to $2,000 installed. The ATS is the device that detects an outage, disconnects from the utility grid, and connects the generator automatically. It also prevents dangerous back-feeding onto utility lines, which can electrocute lineworkers. A quality ATS is not optional.
 
-**Electrical work:** $500 to $2,500. A licensed electrician must connect the generator to your panel and the ATS. If you are upgrading to a 200-amp panel at the same time, add $1,500 to $4,000.
+**Electrical work:** $500 to $2,500. A licensed electrician must connect the generator to your panel and the ATS. If you are also scheduling an [electrical panel upgrade](/blog/electrical-panel-upgrade-cost/) to 200 amps at the same time, add $1,500 to $4,000.
 
 **Gas line work:** $300 to $1,500. A licensed plumber or gas fitter typically extends your existing gas line to the generator pad location. Longer runs or undersized existing supply lines cost more.
 
@@ -125,7 +125,7 @@ If a storm damages your generator, your dwelling coverage may pay for repairs or
 
 What insurance almost never covers: generator purchase as a preventive measure, fuel costs during an outage, or food spoilage from a power outage (though some policies have a small food spoilage rider).
 
-The most important insurance angle: make sure your home's electrical work and the generator installation are done to code and properly permitted. Insurance companies can deny claims related to unpermitted electrical work.
+The most important insurance angle: make sure your home's electrical work and the generator installation are done to code and properly permitted. Insurance companies can deny claims related to unpermitted electrical work. If you ever need to file a claim for storm damage to your generator or home, our guide to [homeowners insurance claims](/blog/homeowners-insurance-claims/) walks through the process step by step.
 
 ## Do You Need a Permit for a Standby Generator?
 
@@ -144,11 +144,11 @@ Before signing a contract, get clear answers to these:
 5. What does the warranty cover, and who handles warranty service locally?
 6. Does the generator include automatic weekly self-test, and will you set it up before you leave?
 
-A reputable installer walks you through what is included in the quote line by line. Vague quotes that say only "generator installed" are a signal to ask more questions.
+A reputable installer walks you through what is included in the quote line by line. Vague quotes that say only "generator installed" are a signal to ask more questions. For broader guidance on screening any licensed trade, see our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/).
 
 ## Annual Maintenance Costs
 
-A standby generator is a small engine that needs regular maintenance just like your car:
+A standby generator is a small engine that needs regular maintenance just like your car — keeping up with these tasks is part of the routine home upkeep covered in our [first-year homeowner guide](/blog/first-year-homeowner-guide/):
 
 - **Annual service:** $150 to $300, including oil change, filter replacement, spark plugs, and battery check. Most manufacturers recommend annual service, or every 200 hours of run time.
 - **Propane or diesel fuel:** Variable based on outage frequency and duration. In an average year with minimal outages, costs are low. In a bad storm year, they can add up.

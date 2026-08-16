@@ -119,7 +119,7 @@ Repair can sometimes extend the life of a window, but certain conditions point s
 
 **Replace, do not repair:**
 - Condensation or fog between the panes of a double-pane window (the seal has failed and the insulating gas has escaped; the window can no longer be repaired to perform properly)
-- Visible rot or soft spots in wood frames that extend into the wall framing
+- Visible rot or soft spots in wood frames that extend into the wall framing. Water intrusion around failing frames can spread to the surrounding [siding](/blog/siding-replacement-cost/) and wall sheathing, so inspect the exterior cladding at the same time.
 - Windows that will not stay open, are painted shut, or have failed hardware that cannot be sourced
 - Single-pane windows in any room you heat or cool regularly
 - Cracks in the glass (replace immediately for safety)
@@ -130,7 +130,7 @@ Repair can sometimes extend the life of a window, but certain conditions point s
 - A cracked pane in a single-pane window where the frame is still solid
 - Sticking due to paint buildup (often fixable with planing and sanding)
 
-A window contractor can give you an honest assessment of which situation you are in. If a contractor pushes hard for full replacement on windows that only need weatherstripping, that is worth a second opinion.
+A window contractor can give you an honest assessment of which situation you are in. If a contractor pushes hard for full replacement on windows that only need weatherstripping, that is worth a second opinion. Regular window maintenance — cleaning tracks, replacing weatherstripping, checking caulking — is one of the basics covered in any solid [first-year homeowner guide](/blog/first-year-homeowner-guide/).
 
 ## How Many Windows Does a Typical Home Have?
 
@@ -167,11 +167,11 @@ A contractor who will not provide a written installation warranty is one to avoi
 
 ### Verify Licensing
 
-Window installers should hold a contractor's license in your state. Many states also require a Home Improvement Contractor registration for residential window work. Check your state's licensing board before hiring anyone. The [National Association of Home Builders](https://www.nahb.org) offers resources for verifying credentials.
+Window installers should hold a contractor's license in your state. Many states also require a Home Improvement Contractor registration for residential window work. Check your state's licensing board before hiring anyone. The [National Association of Home Builders](https://www.nahb.org) offers resources for verifying credentials. For a broader checklist on vetting any home improvement contractor, our guide on [how to find a good contractor](/blog/how-to-find-good-contractor/) covers the key questions to ask before signing a contract.
 
 ## Can You Install Windows Yourself?
 
-Window installation is technically within the ability of a skilled DIYer for straightforward insert replacements in single-story homes. The risks are real, though: an improperly flashed window can allow water intrusion into your wall cavities, leading to rot and mold that costs far more to fix than a professional installation would have. Most manufacturers also require professional installation to maintain the warranty.
+Window installation is technically within the ability of a skilled DIYer for straightforward insert replacements in single-story homes. Many homeowners pair new windows with [interior painting](/blog/interior-house-painting-cost/) to refresh the surrounding trim and walls while the room is already disrupted. The risks are real, though: an improperly flashed window can allow water intrusion into your wall cavities, leading to rot and mold that costs far more to fix than a professional installation would have. Most manufacturers also require professional installation to maintain the warranty.
 
 If you want to attempt DIY installation, the [Department of Energy provides installation guidance](https://www.energy.gov/energysaver/windows-doors-and-skylights) and your state's building department can tell you whether a permit and inspection are required. In most jurisdictions, window replacement in an existing opening does not require a permit, but adding a new window or enlarging an existing opening does.
 
@@ -183,7 +183,7 @@ Most window companies offer financing, but the terms and interest rates vary wid
 - Consider using a home equity line of credit (HELOC) or a personal loan for better terms.
 - Look into the [HUD Title I Property Improvement Loan program](https://www.hud.gov/program_offices/housing/sfh/title), which offers federally backed home improvement loans with competitive rates.
 
-The Federal Trade Commission's [Consumer Information on Home Improvement Financing](https://consumer.ftc.gov) is a useful guide for understanding your rights and options.
+The Federal Trade Commission's [Consumer Information on Home Improvement Financing](https://consumer.ftc.gov) is a useful guide for understanding your rights and options. If wind, hail, or storm damage is the reason you are replacing windows, your [homeowners insurance claim](/blog/homeowners-insurance-claims/) may cover some or all of the cost. Document the damage thoroughly before any work begins and contact your insurer to understand your coverage and deductible.
 
 ## Official Resources
 
