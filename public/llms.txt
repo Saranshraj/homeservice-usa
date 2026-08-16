@@ -1,0 +1,89 @@
+# HomeService USA
+
+> HomeService USA (homeservice-usa.com) is an independent, editorial home-services information site for American homeowners. It publishes cost guides, troubleshooting guides, and contractor-vetting advice for plumbing, HVAC, roofing, electrical, pest control, and general home repair. The site does not sell leads, list paid contractors, or accept payment from service providers to influence recommendations. All cost data is presented as ranges in USD, current as of the article's stated publish date, and sourced against government and industry references (EPA, DOE, ENERGY STAR, IRS, FEMA, CPSC, NFPA, HUD, NAHB) where applicable.
+
+## About
+
+- [About HomeService USA](https://homeservice-usa.com/about/): Site mission, editorial approach, and disclosure that no paid contractor listings or lead-generation relationships exist.
+
+## City & Local Guides
+
+City pillar pages summarize local climate risk, housing stock, and licensing rules; city-service pages give locally adjusted cost ranges for a specific trade.
+
+- [All city guides](https://homeservice-usa.com/locations/): Index of every city guide.
+- [Houston, TX](https://homeservice-usa.com/locations/houston-tx/): Gulf Coast heat, flooding, and freeze risk. Includes [HVAC](https://homeservice-usa.com/locations/houston-tx/hvac/), [plumbing](https://homeservice-usa.com/locations/houston-tx/plumbing/), [roofing](https://homeservice-usa.com/locations/houston-tx/roofing/).
+- [Phoenix, AZ](https://homeservice-usa.com/locations/phoenix-az/): Extreme desert heat and monsoon storms. Includes [HVAC](https://homeservice-usa.com/locations/phoenix-az/hvac/), [roofing](https://homeservice-usa.com/locations/phoenix-az/roofing/).
+- [Miami, FL](https://homeservice-usa.com/locations/miami-fl/): Hurricane risk and strict Florida Building Code requirements. Includes [HVAC](https://homeservice-usa.com/locations/miami-fl/hvac/), [roofing](https://homeservice-usa.com/locations/miami-fl/roofing/).
+- [Dallas, TX](https://homeservice-usa.com/locations/dallas-tx/): High hail frequency and winter freeze risk. Includes [HVAC](https://homeservice-usa.com/locations/dallas-tx/hvac/), [plumbing](https://homeservice-usa.com/locations/dallas-tx/plumbing/), [roofing](https://homeservice-usa.com/locations/dallas-tx/roofing/).
+- [Atlanta, GA](https://homeservice-usa.com/locations/atlanta-ga/): Humid summers and severe thunderstorm/tree-fall risk. Includes [HVAC](https://homeservice-usa.com/locations/atlanta-ga/hvac/), [roofing](https://homeservice-usa.com/locations/atlanta-ga/roofing/).
+
+## HVAC
+
+- [Central AC installation cost](https://homeservice-usa.com/blog/central-ac-installation-cost/)
+- [Furnace replacement cost](https://homeservice-usa.com/blog/furnace-replacement-cost/)
+- [Heat pump installation cost](https://homeservice-usa.com/blog/heat-pump-installation-cost/)
+- [Should I repair or replace my AC unit](https://homeservice-usa.com/blog/repair-or-replace-ac-unit/)
+- [AC blowing warm air: 7 causes](https://homeservice-usa.com/blog/ac-blowing-warm-air/)
+- [Air duct cleaning cost](https://homeservice-usa.com/blog/air-duct-cleaning-cost/)
+
+## Plumbing
+
+- [Plumber cost: hourly rates and job prices](https://homeservice-usa.com/blog/how-much-does-a-plumber-cost/)
+- [Water heater replacement cost](https://homeservice-usa.com/blog/water-heater-replacement-cost/)
+- [Signs your water heater is about to fail](https://homeservice-usa.com/blog/signs-water-heater-failing/)
+- [Sewer line repair cost](https://homeservice-usa.com/blog/sewer-line-repair-cost/)
+- [Drain cleaning cost](https://homeservice-usa.com/blog/drain-cleaning-cost/)
+- [Low water pressure: causes and fixes](https://homeservice-usa.com/blog/low-water-pressure-house/)
+- [How to winterize outdoor faucets](https://homeservice-usa.com/blog/winterize-outdoor-faucets/)
+
+## Roofing
+
+- [Roof replacement cost](https://homeservice-usa.com/blog/roof-replacement-cost/)
+- [Roof repair vs. full replacement](https://homeservice-usa.com/blog/roof-repair-vs-replace/)
+- [Roof leak causes and fixes](https://homeservice-usa.com/blog/roof-leak-causes-and-fixes/)
+- [How long does a roof last by material](https://homeservice-usa.com/blog/how-long-does-a-roof-last-by-material/)
+- [Gutter replacement cost](https://homeservice-usa.com/blog/gutter-replacement-cost/)
+
+## Electrical
+
+- [Electrical panel upgrade cost](https://homeservice-usa.com/blog/electrical-panel-upgrade-cost/)
+- [House rewiring cost](https://homeservice-usa.com/blog/house-rewiring-cost/)
+- [EV charger installation cost](https://homeservice-usa.com/blog/ev-charger-installation-cost/)
+- [Whole-home generator cost](https://homeservice-usa.com/blog/whole-home-generator-cost/)
+- [Ceiling fan installation cost](https://homeservice-usa.com/blog/ceiling-fan-installation-cost/)
+
+## Pest Control
+
+- [Termite treatment cost](https://homeservice-usa.com/blog/termite-treatment-cost/)
+- [Pet-safe ant solutions](https://homeservice-usa.com/blog/ants-in-kitchen-pet-safe/)
+
+## Insurance & Home Warranty
+
+- [Are home warranties worth it](https://homeservice-usa.com/blog/home-warranty-worth-it/)
+- [Homeowners insurance claim denied: what to do](https://homeservice-usa.com/blog/homeowners-insurance-claims/)
+
+## Remodeling & Structural Cost Guides
+
+- [Kitchen remodel cost](https://homeservice-usa.com/blog/kitchen-remodel-cost/)
+- [Bathroom remodel cost](https://homeservice-usa.com/blog/bathroom-remodel-cost/)
+- [Foundation repair cost](https://homeservice-usa.com/blog/foundation-repair-cost/)
+- [Mold remediation cost](https://homeservice-usa.com/blog/mold-remediation-cost/)
+- [Siding replacement cost](https://homeservice-usa.com/blog/siding-replacement-cost/)
+- [Window replacement cost](https://homeservice-usa.com/blog/window-replacement-cost/)
+- [Attic insulation cost](https://homeservice-usa.com/blog/attic-insulation-cost/)
+- [Solar panel installation cost](https://homeservice-usa.com/blog/solar-panel-installation-cost/)
+- [Hardwood floor installation cost](https://homeservice-usa.com/blog/hardwood-floor-installation-cost/)
+- [Deck building cost](https://homeservice-usa.com/blog/deck-building-cost/)
+- [Exterior house painting cost](https://homeservice-usa.com/blog/exterior-house-painting-cost/)
+- [Interior house painting cost](https://homeservice-usa.com/blog/interior-house-painting-cost/)
+
+## Contractor Selection & Homeowner Basics
+
+- [How to find a good contractor (and avoid scams)](https://homeservice-usa.com/blog/how-to-find-good-contractor/)
+- [First-time homeowner maintenance guide](https://homeservice-usa.com/blog/first-year-homeowner-guide/)
+- [Home inspection cost](https://homeservice-usa.com/blog/home-inspection-cost/)
+
+## Full Index
+
+- [Sitemap](https://homeservice-usa.com/sitemap-index.xml): Machine-readable index of every published URL, including all articles and city guides not individually listed above.
+- [Blog index with category filters](https://homeservice-usa.com/blog/)
