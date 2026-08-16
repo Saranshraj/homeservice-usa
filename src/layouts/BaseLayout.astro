@@ -95,6 +95,7 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
         <ul class="nav-list">
           <li><a href="/blog/">Guides</a></li>
           <li><a href="/#services">Services</a></li>
+          <li><a href="/locations/">Cities</a></li>
           <li><a href="/#cost-guides">Cost Guides</a></li>
           <li><a href="/about/">About</a></li>
         </ul>
@@ -129,6 +130,17 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
             <li><a href="/blog/?category=hvac">HVAC</a></li>
             <li><a href="/blog/?category=roofing">Roofing</a></li>
             <li><a href="/blog/?category=electrical">Electrical</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>By City</h4>
+          <ul>
+            <li><a href="/locations/houston-tx/">Houston, TX</a></li>
+            <li><a href="/locations/miami-fl/">Miami, FL</a></li>
+            <li><a href="/locations/phoenix-az/">Phoenix, AZ</a></li>
+            <li><a href="/locations/dallas-tx/">Dallas, TX</a></li>
+            <li><a href="/locations/atlanta-ga/">Atlanta, GA</a></li>
+            <li><a href="/locations/">View all cities</a></li>
           </ul>
         </div>
         <div class="footer-links">
@@ -241,7 +253,7 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 
   .footer-grid {
     display: grid;
-    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    grid-template-columns: 1.3fr 1fr 1fr 1fr 1fr;
     gap: 2rem;
   }
 

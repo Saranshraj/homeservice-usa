@@ -1,0 +1,83 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  city: string;
+  stateAbbr: string;
+  citySlug: string;
+  service: string;
+  serviceLabel: string;
+  pubDate: string;
+  readTime: string;
+}
+
+const { title, description, city, stateAbbr, citySlug, serviceLabel, pubDate, readTime } = Astro.props;
+
+const formattedPubDate = new Date(pubDate).toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<BaseLayout title={title} description={description} type="website">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://homeservice-usa.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://homeservice-usa.com/locations/" },
+        { "@type": "ListItem", "position": 3, "name": `${city}, ${stateAbbr}`, "item": `https://homeservice-usa.com/locations/${citySlug}/` },
+        { "@type": "ListItem", "position": 4, "name": serviceLabel, "item": Astro.url.href }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": title,
+      "description": description,
+      "url": Astro.url.href
+    })} />
+  </Fragment>
+
+  <article class="cs-page">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> <span>/</span> <a href="/locations/">Locations</a> <span>/</span> <a href={`/locations/${citySlug}/`}>{city}, {stateAbbr}</a> <span>/</span> <span>{serviceLabel}</span>
+      </nav>
+      <div class="cs-header">
+        <h1>{title}</h1>
+        <p class="cs-description">{description}</p>
+        <div class="cs-meta">
+          <span>{readTime} read</span>
+          <span class="cs-updated">Last updated {formattedPubDate}</span>
+        </div>
+      </div>
+      <div class="cs-content">
+        <slot />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .cs-page { padding: 2rem 0 3rem; }
+  .breadcrumbs { max-width: var(--content-width); margin: 0 auto 1.5rem; font-size: 0.85rem; color: var(--color-text-light); }
+  .breadcrumbs a { color: var(--color-text-light); }
+  .breadcrumbs a:hover { color: var(--color-primary); }
+  .breadcrumbs span { margin: 0 0.4rem; }
+  .cs-header { max-width: var(--content-width); margin: 0 auto 2rem; }
+  .cs-header h1 { font-size: 2.1rem; line-height: 1.2; margin-bottom: 1rem; }
+  .cs-description { font-size: 1.1rem; color: var(--color-text-light); line-height: 1.6; margin: 0; }
+  .cs-meta { display: flex; gap: 1.5rem; margin-top: 1rem; font-size: 0.85rem; color: var(--color-text-light); }
+  .cs-content { max-width: var(--content-width); margin: 0 auto; }
+  .cs-content :global(h2) { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); }
+  .cs-content :global(h2:first-of-type) { border-top: none; padding-top: 0; }
+  @media (max-width: 768px) {
+    .cs-header h1 { font-size: 1.6rem; }
+    .cs-description { font-size: 1.02rem; }
+  }
+</style>
