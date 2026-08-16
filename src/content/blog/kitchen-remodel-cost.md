@@ -9,6 +9,8 @@ tags: ["kitchen-remodel", "cost-guide", "home-improvement", "renovation", "plumb
 
 A kitchen remodel costs between **$5,000 and $75,000** for most US homeowners in 2026, depending on the scope of work. A minor cosmetic refresh (new paint, hardware, lighting) runs **$5,000 to $15,000**. A mid-range remodel with new cabinets, countertops, and flooring averages **$25,000 to $45,000**. A full gut renovation that changes the layout, moves plumbing, and installs custom cabinetry can easily reach **$60,000 to $100,000** or more in high-cost cities. The national average for a full kitchen remodel sits around **$27,000 to $35,000**, according to the [National Association of Home Builders](https://www.nahb.org). That number sounds scary, but the good news is that kitchens return 60 to 80 cents on every dollar you spend when you sell your home.
 
+Many homeowners plan a kitchen remodel alongside a [bathroom remodel](/blog/bathroom-remodel-cost/) to save on contractor mobilization costs, and [new hardwood flooring](/blog/hardwood-floor-installation-cost/) is a common upgrade to bundle in at the same time. Before signing with any contractor, read our [guide to vetting contractors](/blog/how-to-find-good-contractor/), since kitchen remodels are one of the most common sources of homeowner-contractor disputes.
+
 ---
 
 ## Why Kitchen Remodels Cost What They Do

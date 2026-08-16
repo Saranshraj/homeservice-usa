@@ -9,6 +9,8 @@ tags: ["generator", "cost-guide", "electrical", "home-improvement", "emergency-p
 
 A whole-home standby generator costs between **$7,000 and $15,000 installed** for most US homes in 2026, with the most common setup, a 22-kilowatt natural gas unit covering a 2,000 sq ft home, landing around **$9,000 to $12,000** including the generator, transfer switch, and labor. Smaller partial-home units (7.5 to 14 kW) come in lower at **$4,000 to $7,500 installed**, while large luxury or whole-estate systems (36 to 50 kW) can reach **$20,000 to $30,000 or more**. Portable generators are not counted here since they are not connected to your home's electrical system and cannot safely power your central HVAC, well pump, or sump pump. If you are waffling between portable and standby, this guide will help you see exactly what each path costs and what you are actually getting.
 
+Installing a standby generator almost always requires an [electrical panel upgrade](/blog/electrical-panel-upgrade-cost/) or at minimum a new transfer switch, and older homes may need broader [rewiring work](/blog/house-rewiring-cost/) to support it safely. If you are also considering [solar panels](/blog/solar-panel-installation-cost/), a generator and solar setup can work together as a backup and primary power combination.
+
 ## Why Homeowners Are Buying Generators Right Now
 
 Power outages in the United States are increasing in frequency and duration. According to the [US Department of Energy](https://www.energy.gov), major outage events have more than doubled over the past two decades, driven by extreme weather, aging grid infrastructure, and growing demand. Storms, ice events, hurricanes, and wildfires now routinely knock out power for days at a time in many parts of the country.

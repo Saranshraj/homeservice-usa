@@ -11,6 +11,8 @@ Heat pump installation costs between **$3,800 and $8,200** for most US homeowner
 
 If you are hearing about heat pumps constantly right now and wondering whether one actually makes sense for your home and your wallet, you are in good company. This guide breaks down the real costs, what drives prices up or down, how to claim every incentive available, and what questions to ask before you sign anything.
 
+If you are comparing a heat pump against a straight [furnace replacement](/blog/furnace-replacement-cost/) or [central AC installation](/blog/central-ac-installation-cost/), the biggest factor is your climate and whether you want one system to handle both heating and cooling. And if your current AC is aging but not quite dead, our [repair or replace decision guide](/blog/repair-or-replace-ac-unit/) can help you decide whether to wait for a heat pump upgrade or fix what you have now.
+
 ## What Is a Heat Pump (and Why Is Everyone Talking About Them)?
 
 A heat pump does not create heat by burning fuel. Instead, it moves heat from one place to another, the way a refrigerator moves heat out of its interior and releases it behind the unit. In summer, a heat pump pulls warm air from inside your home and sends it outside, cooling your living space. In winter, it runs in reverse: it extracts heat energy from outdoor air (yes, even cold air holds heat energy) and moves it inside.

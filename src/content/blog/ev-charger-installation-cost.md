@@ -11,6 +11,8 @@ Installing a Level 2 home EV charger costs **$800 to $2,000 for most US homeowne
 
 That is the short answer. Below is everything you need to know to get a fair quote, claim your tax credit, and avoid the common mistakes homeowners make when they rush this project.
 
+If a panel upgrade is in your future either way, see our [electrical panel upgrade cost guide](/blog/electrical-panel-upgrade-cost/) for the full breakdown. Homes with older wiring may need broader [rewiring work](/blog/house-rewiring-cost/) before an EV charger can be added safely, and if you are also planning a [garage door replacement](/blog/garage-door-replacement-cost/), it is worth coordinating both projects with the same electrician.
+
 ## What Type of Charger Do You Actually Need?
 
 There are three levels of EV charging, and only one makes sense for most homes.

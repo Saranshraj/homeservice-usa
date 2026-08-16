@@ -11,6 +11,8 @@ If you are staring at cracked tile, a dripping faucet, or a vanity that belongs 
 
 Take a breath. This guide breaks down every cost category so you know exactly what to expect, where you can save, and how to avoid being overcharged.
 
+If you are planning your bathroom alongside a [kitchen remodel](/blog/kitchen-remodel-cost/) or adding [hardwood floors](/blog/hardwood-floor-installation-cost/) elsewhere in the home, bundling projects with the same contractor can save on labor. And since bathroom work always involves plumbing, our guide on [what a plumber actually costs](/blog/how-much-does-a-plumber-cost/) will help you sanity-check any quote. Before signing with anyone, read [how to find a good contractor](/blog/how-to-find-good-contractor/) to avoid the most common bathroom remodel scams.
+
 ## What Type of Bathroom Are You Remodeling?
 
 The first thing that shapes your budget is which bathroom you are working with.

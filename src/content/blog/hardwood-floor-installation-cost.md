@@ -9,6 +9,8 @@ tags: ["flooring", "hardwood-floors", "cost-guide", "home-improvement", "diy-vs-
 
 Installing hardwood floors costs **$6 to $23 per square foot installed**, with most US homeowners paying **$8 to $15 per square foot** for solid hardwood including labor. For a 500 square foot living room, expect to pay **$4,000 to $10,000**. A whole-home installation covering 1,500 square feet typically runs **$12,000 to $25,000**, with the national average landing around **$4,500 to $7,500** for a single room project. The price range is wide because it depends on wood species, installation method, subfloor condition, and where you live. The good news: hardwood floors are one of the few renovations that consistently return 70 to 80 cents on the dollar at resale, making them a smart long-term investment even at today's prices.
 
+Hardwood is a popular pairing with a [kitchen remodel](/blog/kitchen-remodel-cost/), and many homeowners install it during the same renovation window to save on labor scheduling. If your existing subfloor has moisture issues, get that resolved first, our [mold remediation guide](/blog/mold-remediation-cost/) explains what to look for before new flooring goes down. Always vet your flooring contractor using our [contractor vetting guide](/blog/how-to-find-good-contractor/).
+
 ## What You Are Actually Paying For
 
 Before calling for quotes, it helps to understand how contractors break down the bill. Hardwood flooring costs have two main components: **materials** and **labor**.

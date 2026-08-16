@@ -9,6 +9,8 @@ tags: ["siding", "cost-guide", "home-improvement", "exterior", "energy-efficienc
 
 Replacing the siding on your home costs between **$7,500 and $22,000** for most American homeowners in 2026, with the national average landing around **$12,000 to $14,000** for a standard 1,500 to 2,000 sq ft two-story home. Vinyl siding is the budget-friendly option at **$3 to $10 per square foot installed**, while fiber cement (like James Hardie board) runs **$7 to $15 per square foot**, and brick or stone veneer can reach **$20 to $35 per square foot**. If your siding is cracked, warped, or letting moisture into your walls, this is one home repair where procrastinating really does compound the damage. The good news: insulated vinyl siding qualifies for a **30% federal tax credit up to $1,200** under the Inflation Reduction Act.
 
+New siding is often paired with an [exterior paint job](/blog/exterior-house-painting-cost/) or [gutter replacement](/blog/gutter-replacement-cost/) since all three involve the same scaffolding and labor setup, so bundling them can save money. Before hiring a siding contractor, read our [guide to vetting contractors](/blog/how-to-find-good-contractor/) to avoid common exterior-work scams.
+
 ---
 
 ## What You Will Pay: Costs at a Glance

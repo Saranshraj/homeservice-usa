@@ -11,6 +11,8 @@ Hiring a plumber costs **$45 to $200 per hour** in 2026, with most US homeowners
 
 If you are dealing with a burst pipe, sewage backup, or a leak that is actively damaging your home right now, call a plumber immediately and read the details later. For everything else, this guide will help you understand what you should expect to pay and how to avoid common overcharges.
 
+For specific plumbing projects, see our detailed guides on [water heater replacement](/blog/water-heater-replacement-cost/) and [sewer line repair](/blog/sewer-line-repair-cost/) costs. And if you want to avoid a plumbing emergency altogether, our [guide to winterizing outdoor faucets](/blog/winterize-outdoor-faucets/) covers the most preventable cause of frozen pipe calls.
+
 ---
 
 ## Plumber Cost by Job Type

@@ -11,6 +11,8 @@ tags: ["chimney", "chimney-cleaning", "fireplace", "cost-guide", "home-safety", 
 
 If you have a fireplace and you have not had your chimney cleaned in the past year, please stop putting it off. Chimney fires send roughly 25,000 Americans to the emergency room each year and cause over $125 million in property damage annually, according to the [National Fire Protection Association](https://www.nfpa.org). Most of those fires were preventable with a $200 annual cleaning.
 
+A neglected chimney can also contribute to roof leaks around the flashing where it meets your roofline, so if you are already dealing with water intrusion, check our guide on [roof leak causes and fixes](/blog/roof-leak-causes-and-fixes/). And if your furnace shares a flue with your fireplace, chimney condition matters for that too, our [furnace replacement cost guide](/blog/furnace-replacement-cost/) explains how the two connect. As with any home service, verify credentials before hiring using our [contractor vetting guide](/blog/how-to-find-good-contractor/).
+
 ## What You Will Actually Pay: Cost Breakdown
 
 Here is a realistic look at what homeowners pay across the country in 2026:

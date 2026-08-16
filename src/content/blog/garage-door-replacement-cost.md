@@ -9,6 +9,8 @@ tags: ["garage-door", "cost-guide", "home-improvement", "exterior", "contractor-
 
 **The short answer:** Replacing a garage door costs **$700 to $4,500 installed** for most US homeowners in 2026, with the national average landing around **$1,200 to $1,800** for a standard single-car steel door with basic hardware and professional installation. Double-car doors run **$1,200 to $3,500 installed**. Custom wood, glass-panel, or carriage-style doors push the high end to **$4,500 to $10,000 or more**. Labor alone typically runs **$200 to $600**, so the door itself accounts for most of the bill. The good news: garage door replacement is one of the highest-ROI home improvement projects in the US, returning about **103 percent** of cost at resale according to Remodeling Magazine's Cost vs. Value report.
 
+If you are upgrading your garage door opener at the same time, this is also a good moment to consider whether your electrical panel can support an [EV charger](/blog/ev-charger-installation-cost/) or [whole-home generator transfer switch](/blog/whole-home-generator-cost/) in the same space. Older garages sometimes need [electrical panel upgrades](/blog/electrical-panel-upgrade-cost/) to support these additions safely.
+
 ---
 
 ## Garage Door Replacement Cost by Door Type

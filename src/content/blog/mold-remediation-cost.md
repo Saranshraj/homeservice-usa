@@ -9,6 +9,8 @@ tags: ["mold-remediation", "cost-guide", "home-improvement", "safety", "indoor-a
 
 Professional mold remediation costs between **$1,500 and $9,000** for most US homeowners in 2026, with the national average landing around **$3,500** for a single affected area like a bathroom, basement, or crawl space. Small contained areas under 10 square feet can run as little as **$500 to $1,500**. Severe whole-house mold infestations, often following flooding or a slow roof leak, can reach **$10,000 to $30,000 or more**. If you just discovered mold in your home, take a breath. The cost varies enormously based on where the mold is, how large the affected area is, and what type of mold you are dealing with. This guide gives you real numbers so you can make smart decisions fast.
 
+Mold almost always has a moisture source behind it. If it is coming from a basement or crawl space, check our [foundation repair cost guide](/blog/foundation-repair-cost/) for signs of water intrusion, and if a roof leak is the culprit, our [roof leak causes and fixes guide](/blog/roof-leak-causes-and-fixes/) will help you find and fix the source before remediation, otherwise the mold just comes back. If the damage stemmed from a covered event, see our [homeowners insurance claims guide](/blog/homeowners-insurance-claims/).
+
 ## What You Are Actually Paying For
 
 Before breaking down the numbers, it helps to understand what remediation companies actually do. The word "remediation" means controlled removal combined with treating the underlying moisture source. Companies that only scrub visible mold without fixing the moisture problem are setting you up for a return visit in six months.

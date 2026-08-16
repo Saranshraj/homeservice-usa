@@ -9,6 +9,8 @@ tags: ["plumbing", "cost-guide", "sewer-line", "home-improvement", "emergency", 
 
 Sewer line repair costs between **$1,500 and $5,000** for most US homeowners dealing with a single crack, root intrusion, or partial blockage in 2026. A full sewer line replacement runs significantly more: **$3,000 to $25,000** depending on the length of pipe, the repair method, and where you live. The national average for a complete sewer line replacement sits around **$7,500 to $12,000**. If you are facing this repair right now, the most important thing to know is that trenchless repair methods can save you **$3,000 to $10,000** compared to traditional dig-and-replace, and they are now available in most US markets.
 
+For general plumbing labor rates, see our [plumber cost guide](/blog/how-much-does-a-plumber-cost/). If frequent clogs led you here, check whether the real culprit might be your [water heater](/blog/signs-water-heater-failing/) or a slow drain issue rather than the main line itself before committing to a major repair.
+
 ## Why Sewer Line Problems Are Among the Most Stressful Home Repairs
 
 If you have ever had sewage backing up into your bathtub, or noticed a mysterious swampy patch in your yard that smells faintly of something terrible, you already know this feeling. Sewer line problems do not give much warning, and they escalate fast. What starts as a slow drain can become a full sewage backup inside your home within days.

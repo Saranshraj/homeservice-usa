@@ -11,6 +11,8 @@ Window replacement costs between **$300 and $1,500 per window installed**, with 
 
 If your windows are fogging up between the panes, letting in cold air drafts, or fighting you every time you try to open them, you are likely dealing with seal failures or aging frames that no longer perform the way they should. Replacing windows is one of the few home improvement projects that simultaneously improves comfort, lowers energy bills, and adds curb appeal.
 
+Drafty windows and poor [attic insulation](/blog/attic-insulation-cost/) often show up together, so if your energy bills feel high, check both. New windows are also a natural pairing with an [exterior paint job](/blog/exterior-house-painting-cost/) since both involve working around the same trim and openings.
+
 ## Window Replacement Cost at a Glance
 
 | Window Type | Average Cost per Window (Installed) |

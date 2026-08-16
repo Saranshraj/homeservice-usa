@@ -9,6 +9,8 @@ tags: ["gutters", "gutter-replacement", "cost-guide", "roofing", "home-exterior"
 
 **Most homeowners pay between $900 and $2,100 to replace gutters on an average-sized house, with a national average around $1,400.** That works out to roughly $4 to $12 per linear foot installed, depending on the gutter material and your region. A small ranch-style home with 120 linear feet of gutters might cost as little as $600 for vinyl, while a two-story colonial with 200 feet of copper gutters can run $5,000 or more. Knowing these numbers before you call a contractor is the difference between paying a fair price and getting taken advantage of.
 
+Clogged or failing gutters are one of the most common causes of roof leaks, especially at the roofline edges. Our guide on [roof leak causes and fixes](/blog/roof-leak-causes-and-fixes/) explains exactly how gutter backup damages your roof, and [how long your roof should last by material](/blog/how-long-does-a-roof-last-by-material/) covers how neglected gutters shorten that lifespan. If your gutters and roof both need attention, see our full [roof replacement cost guide](/blog/roof-replacement-cost/) to plan the bigger project.
+
 ## Why Gutters Matter More Than You Think
 
 Gutters are your home's first line of defense against water damage. When they fail, rainwater pours directly against your foundation, seeps into your basement, erodes landscaping, and soaks the fascia boards behind the gutters. The [Federal Emergency Management Agency (FEMA)](https://www.fema.gov) estimates that water damage is one of the most common and costly home disasters in the US. Replacing failing gutters is almost always cheaper than repairing the damage they would cause if left in place.

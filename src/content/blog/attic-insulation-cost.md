@@ -11,6 +11,8 @@ Adding or replacing attic insulation costs **$1,500 to $6,000** for most US home
 
 This is one of the highest-return upgrades a US homeowner can make. Proper attic insulation can cut your heating and cooling costs by **15 to 25 percent annually**, according to [ENERGY STAR](https://www.energystar.gov/campaign/seal_insulate/identify_problems_you_want_fix/diy_checks_inspections/check_your_insulation_levels). For most homes, that means saving **$200 to $600 per year** on energy bills. When you factor in the tax credit, the payback period for most attic insulation projects is just 3 to 6 years.
 
+Poor attic insulation is also a leading cause of ice dams, which we cover in our guide to [roof leak causes and fixes](/blog/roof-leak-causes-and-fixes/). If you are also budgeting for a new [furnace](/blog/furnace-replacement-cost/) or [central AC system](/blog/central-ac-installation-cost/), tackle insulation first since it directly affects how large a system you actually need.
+
 ## Average Attic Insulation Costs at a Glance
 
 | Project Type | Cost Range | Best For |

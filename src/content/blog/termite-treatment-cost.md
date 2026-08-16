@@ -9,6 +9,8 @@ tags: ["termites", "pest-control", "cost-guide", "home-protection", "diy-vs-pro"
 
 If you have spotted mud tubes on your foundation, hollow-sounding wood, or discarded wings near a windowsill, your stomach probably just dropped. Here is the honest answer upfront: **termite treatment costs $500 to $3,500 for most US homes in 2026**, depending on the method and the size of the infestation. Liquid chemical barriers run $1,000 to $3,500 for a typical home. Baiting systems cost $1,200 to $3,500 to install plus $300 to $500 per year for monitoring. Full tent fumigation, used for severe or whole-house infestations, costs $1,200 to $8,500. The earlier you catch an infestation, the cheaper the fix. Termites cause an estimated **$6.8 billion in property damage** across the US every year, according to the [EPA](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them), and most homeowners insurance policies do not cover that damage.
 
+Since insurance typically will not help here, see our [homeowners insurance claims guide](/blog/homeowners-insurance-claims/) to understand exactly what is and is not covered. If ants are also a concern in your home, our [pet-safe ant guide](/blog/ants-in-kitchen-pet-safe/) covers a related but distinct pest problem. Always verify licensing before hiring a pest control company using our [contractor vetting guide](/blog/how-to-find-good-contractor/).
+
 ## Why Termite Treatment Costs Vary So Much
 
 You will get wildly different quotes from different pest control companies, and there are legitimate reasons for that. The main factors that drive cost are:

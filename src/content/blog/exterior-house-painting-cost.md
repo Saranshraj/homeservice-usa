@@ -9,6 +9,8 @@ tags: ["painting", "cost-guide", "exterior-painting", "home-improvement", "diy-v
 
 Painting the outside of your home costs **$1,800 to $13,000** for most American homeowners in 2026, with the national average landing around **$3,200 for a 1,500 square foot single-story home**. Multi-story or larger homes run $5,000 to $13,000 or more. If you are getting quotes right now and feeling sticker shock, you are not alone. Labor accounts for 70 to 85 percent of that total, and material and labor costs have climbed steadily since 2021. This guide breaks down exactly what you are paying for, where you can trim costs without ruining your home's protection, and how to spot contractors who will take your money and leave you with a peeling mess in two years.
 
+If your siding is more than cosmetically worn, cracked, warped boards may mean it is time to consider [siding replacement](/blog/siding-replacement-cost/) instead of another paint job. For the inside of your home, see our [interior painting cost guide](/blog/interior-house-painting-cost/). And before hiring any painter, read [how to find a good contractor](/blog/how-to-find-good-contractor/) to avoid the poor-prep scams that are unfortunately common in this trade.
+
 ## Why Your Neighbor Paid Half What You Were Quoted
 
 Before you panic about a high quote, understand that exterior painting prices vary enormously based on factors that have nothing to do with profit margin. Two identical houses on the same street can produce quotes $3,000 apart based on their condition, the paint specified, and the prep work required. Here are the big variables:
