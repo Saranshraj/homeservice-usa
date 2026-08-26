@@ -39,8 +39,8 @@ Rules going forward:
 1. ~~roof-repair-vs-replace~~ — DONE (2026-07-24)
 2. ~~roof-leak-causes-and-fixes~~ — DONE (2026-07-24)
 3. ~~how-long-does-a-roof-last-by-material~~ — DONE (2026-07-24)
-4. metal-roof-cost-vs-shingle
-5. roof-inspection-cost-what-to-expect
+4. ~~metal-roof-cost-vs-shingle~~ — DONE (2026-08-16)
+5. ~~roof-inspection-cost-what-to-expect~~ — DONE (2026-08-16)
 6. hiring-a-roofer-vs-general-contractor (direct Reddit question)
 7. roof-replacement-financing-options
 8. hail-damage-roof-insurance-claim
