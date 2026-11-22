@@ -5,6 +5,10 @@ pubDate: "2026-10-25"
 category: "plumbing"
 readTime: "10 min"
 tags: ["plumbing", "frozen pipes", "burst pipe", "cost-guide", "winter", "pipe repair", "water damage"]
+products: ["P016", "P017"]
+productsBefore: "DIY vs. Hiring a Plumber"
+productsVariant: "pro"
+productsTitle: "Protect your pipes before the next freeze"
 ---
 
 Repairing a frozen pipe costs **$200 to $1,500** for most US homeowners when a licensed plumber thaws or patches a single pipe. If the pipe has already burst and water has soaked into walls, flooring, or insulation, total costs including water damage restoration jump to **$3,000 to $15,000 or more**. Emergency after-hours calls add a 50 to 100 percent premium on top of those numbers. The good news: catching a frozen pipe before it bursts keeps the repair bill under $500 in the majority of cases.

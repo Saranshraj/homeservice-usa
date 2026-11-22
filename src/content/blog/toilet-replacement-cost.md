@@ -5,6 +5,9 @@ pubDate: "2026-08-27"
 category: "plumbing"
 readTime: "11 min"
 tags: ["toilet replacement", "plumbing cost", "toilet installation", "bathroom plumbing", "cost-guide"]
+products: ["P001", "P008"]
+productsBefore: "How to Save Money on Toilet Replacement"
+productsVariant: "pro"
 ---
 
 Toilet replacement costs **$200 to $900** for most US homeowners in 2026, including the toilet itself and professional installation. A standard two-piece elongated toilet installed by a licensed plumber typically runs **$300 to $550** all-in. High-efficiency and comfort-height toilets push the total to **$400 to $750**, while a high-end one-piece or wall-hung unit with bidet features can reach **$1,000 to $2,500 or more**. If you are just replacing an old toilet in the same footprint with no plumbing modifications, expect to pay around **$150 to $300 in labor alone**, and the job usually takes 1 to 2 hours.

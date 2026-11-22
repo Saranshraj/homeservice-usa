@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Affiliate Disclosure"
+  description="How HomeService USA uses Amazon affiliate links, how we choose the products we list, and what we never do."
+>
+  <section class="policy-hero">
+    <div class="container">
+      <h1>Affiliate Disclosure</h1>
+    </div>
+  </section>
+
+  <section class="policy-content">
+    <div class="container">
+      <div class="content-wrapper">
+        <p><strong>As an Amazon Associate I earn from qualifying purchases.</strong></p>
+
+        <h2>What That Means</h2>
+        <p>Some product links on HomeService USA are Amazon affiliate links. If you click one and buy something, we may earn a small commission. It costs you nothing extra, and the price you pay is the same either way.</p>
+
+        <h2>How We Choose Products</h2>
+        <ul>
+          <li><strong>Every product ties back to a guide.</strong> We list a product only when one of our guides already discusses the job it helps with, such as a toilet that keeps running or pipes that freeze.</li>
+          <li><strong>We pick by use case.</strong> We curate the best fit for each job, then sort the list by what you are trying to do, not by brand or price.</li>
+          <li><strong>We do not rank products by commission.</strong> A higher commission never moves a product up, and a lower one never moves it down.</li>
+          <li><strong>We stay inside safe DIY territory.</strong> Our guides send electrical panels, gas lines, roofing and refrigerant work to licensed professionals, so we do not promote products for those jobs.</li>
+          <li><strong>We check the links.</strong> Before we publish, we confirm each link opens the product we describe. Listings can still change or go out of stock, so check the details on Amazon before you order.</li>
+        </ul>
+
+        <h2>What We Do Not Do</h2>
+        <ul>
+          <li>We do not accept payment from contractors or service providers to influence our recommendations.</li>
+          <li>We do not list prices or star ratings, because they change on Amazon. Look at the current listing before you buy.</li>
+          <li>We do not recommend a product because someone paid us to.</li>
+        </ul>
+
+        <h2>Where You Will See Product Links</h2>
+        <p>You will find them in boxes inside some guides, on our <a href="/recommended-products/">recommended products page</a>, and on some city pages. Each box has a short disclosure above the first link, and every page shows the Amazon Associates statement in the footer.</p>
+
+        <h2>Your Choice</h2>
+        <p>You never have to use our links. If you prefer, search for the product name directly on Amazon or at a local store.</p>
+
+        <h2>Questions</h2>
+        <p>Write to us at <strong>hello@homeservice-usa.com</strong>. You can also read our <a href="/privacy-policy/">privacy policy</a> and our <a href="/about/">About page</a>.</p>
+
+        <p class="policy-small">Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .policy-hero { background: var(--color-primary-dark); color: white; padding: 3rem 0; text-align: center; }
+  .policy-hero h1 { color: white; }
+  .policy-content { padding: 3rem 0; }
+  .content-wrapper { max-width: var(--content-width); margin: 0 auto; }
+  .content-wrapper p, .content-wrapper li { font-size: 1.05rem; line-height: 1.75; }
+  .policy-small { font-size: 0.85rem; color: var(--color-text-light); }
+</style>

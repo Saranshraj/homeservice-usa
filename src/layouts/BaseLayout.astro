@@ -150,10 +150,13 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
             <li><a href="https://www.epa.gov/" target="_blank" rel="noopener">EPA</a></li>
             <li><a href="https://www.energy.gov/" target="_blank" rel="noopener">Dept. of Energy</a></li>
             <li><a href="https://www.cpsc.gov/" target="_blank" rel="noopener">CPSC Recalls</a></li>
+            <li><a href="/recommended-products/">Recommended Products</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
+        <p class="footer-affiliate">As an Amazon Associate I earn from qualifying purchases.</p>
+        <p class="footer-policy-links"><a href="/affiliate-disclosure/">Affiliate Disclosure</a> <span aria-hidden="true">|</span> <a href="/privacy-policy/">Privacy Policy</a></p>
         <p>&copy; {new Date().getFullYear()} HomeService USA. All rights reserved.</p>
         <p class="footer-disclaimer">This site provides general information for educational purposes. Always consult licensed professionals for specific advice about your home.</p>
       </div>
@@ -161,6 +164,19 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
   </footer>
 
   <script>
+    document.addEventListener('click', (event) => {
+      const link = event.target instanceof Element ? event.target.closest('a[data-affiliate]') : null;
+      const track = (window as any).gtag;
+      if (!link || typeof track !== 'function') return;
+      track('event', 'affiliate_click', {
+        product_id: link.getAttribute('data-product-id'),
+        product_name: link.getAttribute('data-product-name'),
+        placement: link.getAttribute('data-placement'),
+        page_path: window.location.pathname,
+        transport_type: 'beacon',
+      });
+    });
+
     const toggle = document.querySelector('.menu-toggle');
     const navList = document.querySelector('.nav-list');
     if (toggle && navList) {
@@ -296,6 +312,27 @@ const fullTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
     margin-top: 2rem;
     padding-top: 1.5rem;
     text-align: center;
+  }
+
+  .footer-affiliate {
+    font-size: 0.85rem;
+    color: #cbd5e1;
+    margin-bottom: 0.25rem;
+  }
+
+  .footer-policy-links {
+    font-size: 0.85rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-policy-links a {
+    color: #cbd5e1;
+    text-decoration: underline;
+  }
+
+  .footer-policy-links span {
+    margin: 0 0.4rem;
+    color: #64748b;
   }
 
   .footer-disclaimer {

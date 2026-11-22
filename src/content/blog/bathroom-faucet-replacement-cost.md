@@ -5,6 +5,9 @@ pubDate: "2026-10-10"
 category: "plumbing"
 readTime: "9 min"
 tags: ["bathroom faucet", "faucet replacement", "plumbing cost", "bathroom plumbing", "DIY plumbing"]
+products: ["P006", "P009", "P010", "P014"]
+productsBefore: "What Plumbers Are Licensed to Do (and Why It Matters)"
+productsVariant: "pro"
 ---
 
 Replacing a bathroom faucet in the US typically costs **$150 to $400**, with most homeowners paying around $250 when you include both the faucet itself and a plumber's labor. The faucet hardware alone runs $30 to $250 depending on the style and brand, while a licensed plumber charges $100 to $200 for the swap. If you are comfortable with basic plumbing, this is one of the more approachable DIY projects that can cut costs nearly in half.

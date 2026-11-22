@@ -11,6 +11,10 @@ const blog = defineCollection({
     category: z.string(),
     readTime: z.string(),
     tags: z.array(z.string()).default([]),
+    products: z.array(z.string()).optional(),
+    productsBefore: z.string().optional(),
+    productsVariant: z.enum(['tools', 'pro', 'season', 'city']).optional(),
+    productsTitle: z.string().optional(),
   }),
 });
 
@@ -28,6 +32,10 @@ const locations = defineCollection({
     description: z.string(),
     pubDate: z.string(),
     services: z.array(z.string()).default([]),
+    products: z.array(z.string()).optional(),
+    productsBefore: z.string().optional(),
+    productsVariant: z.enum(['tools', 'pro', 'season', 'city']).optional(),
+    productsTitle: z.string().optional(),
   }),
 });
 

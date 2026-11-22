@@ -5,6 +5,9 @@ pubDate: "2026-10-01"
 category: "plumbing"
 readTime: "9 min"
 tags: ["toilet running", "toilet repair", "plumbing", "running toilet fix", "toilet flapper", "fill valve", "DIY plumbing"]
+products: ["P001", "P002", "P004"]
+productsBefore: "Repair Cost Summary"
+productsVariant: "tools"
 ---
 
 A toilet that keeps running wastes between 200 and 4,000 gallons of water per day depending on the severity, which translates to an extra $70 to $200 on your monthly water bill. In almost all cases, the fix costs $5 to $30 in parts and takes under an hour to do yourself. The five most common culprits are a worn flapper, a faulty fill valve, an incorrectly adjusted float, a cracked overflow tube, or a bad flush valve seat.

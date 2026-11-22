@@ -5,6 +5,9 @@ pubDate: "2026-06-07"
 category: "homeowner-basics"
 readTime: "11 min"
 tags: ["first-time-homeowner", "maintenance", "home-care"]
+products: ["P001", "P002", "G-AIR-FILTERS"]
+productsBefore: "What Things Cost (So You Are Not Blindsided)"
+productsVariant: "tools"
 ---
 
 **The short answer:** Your home needs regular maintenance to avoid expensive emergency repairs. The good news is that most tasks are simple, take less than 30 minutes, and cost little or nothing. This guide gives you a complete month-by-month schedule for your first year, with estimated costs and honest advice about what you can skip.

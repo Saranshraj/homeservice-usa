@@ -5,6 +5,9 @@ pubDate: "2026-08-07"
 category: "plumbing"
 readTime: "9 min"
 tags: ["low water pressure", "plumbing problems", "water pressure fix", "home plumbing", "plumbing repair"]
+products: ["P005", "P009"]
+productsBefore: "DIY vs. Call a Plumber"
+productsVariant: "tools"
 ---
 
 If your showers feel like a light drizzle or your kitchen faucet barely trickles, low water pressure is likely the culprit. Normal residential water pressure runs between **40 and 80 psi** (pounds per square inch). Anything below 40 psi is considered low and will affect your daily comfort. The good news: most low water pressure problems cost **$0 to $700 to fix**, and many homeowners can handle the diagnosis and simple repairs themselves. Only about 20% of cases require a licensed plumber and more significant repairs ranging from $500 to $5,000 or more.

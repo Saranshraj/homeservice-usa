@@ -5,6 +5,9 @@
 ## About
 
 - [About HomeService USA](https://homeservice-usa.com/about/): Site mission, editorial approach, and disclosure that no paid contractor listings or lead-generation relationships exist.
+- [Recommended products by use case](https://homeservice-usa.com/recommended-products/): Parts and tools matched to jobs our guides cover, filterable by use case. Amazon affiliate links.
+- [Affiliate disclosure](https://homeservice-usa.com/affiliate-disclosure/): How affiliate links work and how products are chosen.
+- [Privacy policy](https://homeservice-usa.com/privacy-policy/)
 
 ## City & Local Guides
 

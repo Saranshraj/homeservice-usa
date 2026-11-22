@@ -5,6 +5,9 @@ pubDate: "2026-10-13"
 category: "plumbing"
 readTime: "9 min"
 tags: ["kitchen faucet", "faucet replacement", "plumbing cost", "kitchen plumbing", "dripping faucet"]
+products: ["P006", "P009", "P010"]
+productsBefore: "What to Expect During a Professional Installation"
+productsVariant: "pro"
 ---
 
 If your kitchen faucet is dripping, leaking at the base, or just plain worn out, you are probably wondering what the repair bill will look like. Here is the direct answer: **kitchen faucet replacement costs between $200 and $700 for most homeowners**, with the average landing around $380 when you hire a licensed plumber and use a mid-range faucet. Luxury faucets with smart features, or situations requiring extra pipe work, can push the total past $1,500. If you are comfortable with basic plumbing, a DIY replacement cuts costs to just the faucet price: $50 to $500 for most models.

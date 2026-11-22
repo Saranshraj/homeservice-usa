@@ -5,6 +5,9 @@ pubDate: "2026-06-28"
 category: "plumbing"
 readTime: "8 min"
 tags: ["plumbing", "home-maintenance", "seasonal", "winter", "diy", "frozen-pipes"]
+products: ["P016", "P017"]
+productsBefore: "What If You Have Frost-Free Faucets?"
+productsVariant: "tools"
 ---
 
 **The short answer:** Winterizing your outdoor faucets takes about 15 minutes and costs nothing if you do it yourself. You need to shut off the interior valve that feeds each outdoor faucet, open the outdoor spigot to drain remaining water, and disconnect any attached hoses. Skip this step and a single burst pipe can cost **$1,000 to $4,000** to repair, not counting water damage to walls, floors, and belongings. The American Red Cross and most plumbing professionals recommend winterizing outdoor faucets before the first hard freeze, which means late October in northern states and late November to December in the South.

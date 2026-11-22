@@ -1,0 +1,216 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadCatalog, renderCard, DISCLOSURE } from '../lib/products.mjs';
+
+const cat = loadCatalog();
+const items = [...cat.items.values()];
+
+const itemText = (item) => {
+  const parts = [item.name, item.why, item.brand || '', item.category];
+  if (item.type === 'group') {
+    for (const o of item.options) {
+      const member = cat.products.get(o.productId);
+      parts.push(member.name, member.brand || '');
+    }
+  }
+  return parts.join(' ').toLowerCase();
+};
+
+const cardsHtml = items
+  .map((item) => {
+    const attrs =
+      ` data-use="${item.useCases.join(' ')}"` +
+      ` data-cat="${item.category.toLowerCase()}"` +
+      ` data-text="${itemText(item).replace(/"/g, '&quot;')}"`;
+    return renderCard(item, cat, 'hub', attrs);
+  })
+  .join('');
+
+const useCaseChips = [...cat.useCases.values()]
+  .map((u) => ({ ...u, count: items.filter((i) => i.useCases.includes(u.id)).length }))
+  .filter((u) => u.count > 0);
+
+const categories = [...new Set(items.map((i) => i.category))].map((name) => ({
+  id: name.toLowerCase(),
+  label: name,
+  count: items.filter((i) => i.category === name).length,
+}));
+---
+
+<BaseLayout
+  title="Recommended Products for Common Home Jobs"
+  description="Products matched to the repairs and upkeep jobs our guides cover, sorted by use case. Pick the job you are facing and see the parts and tools worth looking at."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://homeservice-usa.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Recommended Products", "item": "https://homeservice-usa.com/recommended-products/" }
+      ]
+    })} />
+  </Fragment>
+
+  <section class="hub-hero">
+    <div class="container">
+      <h1>Recommended Products for Common Home Jobs</h1>
+      <p class="hub-lead">
+        Every product here comes from a guide on this site: the parts, tools and supplies a guide points you to when you fix something yourself or get ready for a pro. We curated the best fit for each job and sorted the list by use case, so you can start with the problem you have instead of scrolling a long catalog.
+      </p>
+    </div>
+  </section>
+
+  <section class="hub-main">
+    <div class="container">
+      <div class="hub-disclosure" role="note">
+        <p>{DISCLOSURE} We do not rank products by commission, and contractors never pay to be mentioned. Prices and stock change on Amazon, so we do not list prices here. <a href="/affiliate-disclosure/">Read our full affiliate disclosure.</a></p>
+      </div>
+
+      <div class="hub-filters" aria-label="Filter products">
+        <div class="hub-filter-block">
+          <p class="hub-filter-label" id="use-label">What are you trying to do?</p>
+          <div class="chip-row" role="group" aria-labelledby="use-label" id="use-chips">
+            <button type="button" class="chip is-active" data-use="all" aria-pressed="true">All ({items.length})</button>
+            {useCaseChips.map((u) => (
+              <button type="button" class="chip" data-use={u.id} aria-pressed="false">
+                <span aria-hidden="true">{u.icon}</span> {u.label} ({u.count})
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div class="hub-filter-block">
+          <p class="hub-filter-label" id="cat-label">Category</p>
+          <div class="chip-row" role="group" aria-labelledby="cat-label" id="cat-chips">
+            <button type="button" class="chip is-active" data-cat="all" aria-pressed="true">All</button>
+            {categories.map((c) => (
+              <button type="button" class="chip" data-cat={c.id} aria-pressed="false">{c.label} ({c.count})</button>
+            ))}
+          </div>
+        </div>
+
+        <div class="hub-search">
+          <label for="product-search">Search products</label>
+          <input id="product-search" type="search" placeholder="For example: flapper, filter, thermostat" autocomplete="off" />
+        </div>
+      </div>
+
+      <p class="hub-count" id="hub-count" aria-live="polite">Showing {items.length} products</p>
+      <ul class="product-grid" id="product-grid" set:html={cardsHtml} />
+      <p class="hub-empty" id="hub-empty" hidden>No products match those filters. Clear a filter or try a different word.</p>
+
+      <p class="hub-more">Looking for a guide instead? Browse all <a href="/blog/">home service guides</a>.</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const grid = document.getElementById('product-grid');
+  const cards = Array.from(grid ? grid.querySelectorAll('.product-card') : []) as HTMLElement[];
+  const countEl = document.getElementById('hub-count');
+  const emptyEl = document.getElementById('hub-empty');
+  const search = document.getElementById('product-search') as HTMLInputElement | null;
+  const useChips = Array.from(document.querySelectorAll('#use-chips .chip')) as HTMLButtonElement[];
+  const catChips = Array.from(document.querySelectorAll('#cat-chips .chip')) as HTMLButtonElement[];
+  const state = { use: 'all', cat: 'all', q: '' };
+
+  function setActive(chips: HTMLButtonElement[], key: 'use' | 'cat', value: string) {
+    chips.forEach((chip) => {
+      const on = chip.dataset[key] === value;
+      chip.classList.toggle('is-active', on);
+      chip.setAttribute('aria-pressed', String(on));
+    });
+  }
+
+  function apply() {
+    let shown = 0;
+    const q = state.q.trim().toLowerCase();
+    cards.forEach((card) => {
+      const useOk = state.use === 'all' || (card.dataset.use || '').split(' ').includes(state.use);
+      const catOk = state.cat === 'all' || card.dataset.cat === state.cat;
+      const textOk = !q || (card.dataset.text || '').includes(q);
+      const show = useOk && catOk && textOk;
+      card.hidden = !show;
+      if (show) shown++;
+    });
+    if (countEl) countEl.textContent = 'Showing ' + shown + (shown === 1 ? ' product' : ' products');
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+    const params = new URLSearchParams();
+    if (state.use !== 'all') params.set('use', state.use);
+    if (state.cat !== 'all') params.set('cat', state.cat);
+    const qs = params.toString();
+    history.replaceState(null, '', window.location.pathname + (qs ? '?' + qs : ''));
+  }
+
+  useChips.forEach((chip) => chip.addEventListener('click', () => {
+    state.use = chip.dataset.use || 'all';
+    setActive(useChips, 'use', state.use);
+    apply();
+  }));
+  catChips.forEach((chip) => chip.addEventListener('click', () => {
+    state.cat = chip.dataset.cat || 'all';
+    setActive(catChips, 'cat', state.cat);
+    apply();
+  }));
+  if (search) search.addEventListener('input', () => { state.q = search.value; apply(); });
+
+  const initial = new URLSearchParams(window.location.search);
+  const startUse = initial.get('use');
+  const startCat = initial.get('cat');
+  if (startUse && useChips.some((c) => c.dataset.use === startUse)) { state.use = startUse; setActive(useChips, 'use', startUse); }
+  if (startCat && catChips.some((c) => c.dataset.cat === startCat)) { state.cat = startCat; setActive(catChips, 'cat', startCat); }
+  apply();
+</script>
+
+<style>
+  .hub-hero {
+    background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #2563eb 100%);
+    color: white;
+    padding: 3rem 0;
+  }
+  .hub-hero h1 { color: white; font-size: 2.25rem; margin-bottom: 1rem; }
+  .hub-lead { color: #bfdbfe; font-size: 1.1rem; line-height: 1.65; max-width: 760px; margin: 0; }
+  .hub-main { padding: 2rem 0 3rem; }
+  .hub-disclosure {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: var(--radius);
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 1.5rem;
+  }
+  .hub-disclosure p { margin: 0; font-size: 0.9rem; line-height: 1.6; color: var(--color-text); }
+  .hub-filters { display: grid; gap: 1.1rem; margin-bottom: 1rem; }
+  .hub-filter-label { margin: 0 0 0.5rem; font-size: 0.85rem; font-weight: 700; color: var(--color-text); text-transform: uppercase; letter-spacing: 0.03em; }
+  .chip-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .chip {
+    min-height: 44px;
+    padding: 0.45rem 0.95rem;
+    font: inherit;
+    font-size: 0.9rem;
+    color: var(--color-text);
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .chip:hover { border-color: var(--color-primary); }
+  .chip:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 2px; }
+  .chip.is-active { background: var(--color-primary); border-color: var(--color-primary); color: #fff; }
+  .hub-search label { display: block; margin-bottom: 0.4rem; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; }
+  .hub-search input {
+    width: 100%;
+    max-width: 420px;
+    min-height: 44px;
+    padding: 0.5rem 0.9rem;
+    font: inherit;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+  }
+  .hub-count { margin: 1.25rem 0 0; font-size: 0.9rem; color: var(--color-text-light); }
+  .hub-empty { margin-top: 1rem; color: var(--color-text-light); }
+  .hub-more { margin-top: 2rem; font-size: 0.95rem; }
+  @media (max-width: 768px) {
+    .hub-hero h1 { font-size: 1.75rem; }
+  }
+</style>

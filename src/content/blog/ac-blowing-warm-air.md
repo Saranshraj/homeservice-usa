@@ -5,6 +5,9 @@ pubDate: "2026-06-07"
 category: "hvac"
 readTime: "7 min"
 tags: ["hvac", "ac-repair", "troubleshooting", "diy"]
+products: ["G-AIR-FILTERS"]
+productsBefore: "Causes That Need a Professional"
+productsVariant: "tools"
 ---
 
 **The short answer:** The most common reason your AC blows warm air is a dirty air filter restricting airflow. Check that first. If the filter is clean, you are likely dealing with low refrigerant, a tripped breaker, a frozen evaporator coil, or a faulty thermostat. Some of these you can fix in minutes. Others require a licensed HVAC technician.

@@ -5,6 +5,9 @@ pubDate: "2026-09-22"
 category: "hvac"
 readTime: "9 min"
 tags: ["furnace", "hvac", "furnace repair", "heating", "troubleshooting", "winter", "home heating"]
+products: ["G-AIR-FILTERS"]
+productsBefore: "How Much Does Furnace Repair Cost by Problem?"
+productsVariant: "tools"
 ---
 
 If your furnace is not turning on, the most common cause is either a dirty air filter, a tripped circuit breaker, or a thermostat set incorrectly. Most homeowners fix this in under 30 minutes at zero cost. If those three checks do not solve it, you are likely looking at a repair bill of $150 to $600 for an ignitor, limit switch, or blower issue. Only about 5 to 10 percent of non-starting furnaces need full replacement, which runs $2,800 to $7,500 installed.

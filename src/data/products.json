@@ -1,0 +1,298 @@
+{
+  "tag": "199708f1-20",
+  "useCases": [
+    {
+      "id": "fix-running-toilet",
+      "label": "Fix a running toilet",
+      "icon": "🚽"
+    },
+    {
+      "id": "unclog-drains",
+      "label": "Unclog drains and toilets",
+      "icon": "🪠"
+    },
+    {
+      "id": "water-pressure",
+      "label": "Check water pressure",
+      "icon": "💧"
+    },
+    {
+      "id": "fix-leaks-parts",
+      "label": "Fix leaks and replace worn parts",
+      "icon": "🔧"
+    },
+    {
+      "id": "freeze-protection",
+      "label": "Protect pipes from freezing",
+      "icon": "❄️"
+    },
+    {
+      "id": "hvac-upkeep",
+      "label": "Keep the AC and furnace running well",
+      "icon": "🌬️"
+    },
+    {
+      "id": "energy-temp",
+      "label": "Control temperature and save energy",
+      "icon": "🌡️"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "Fluidmaster 400A Brass Shank Universal Toilet Fill Valve",
+      "brand": "Fluidmaster",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-running-toilet"
+      ],
+      "why": "A common universal replacement when a toilet keeps refilling or running. Check your tank height before you order.",
+      "url": "https://link.amazon/B04XznT9P",
+      "asin": "B093NT72CQ",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P002",
+      "name": "Korky 2-Inch Universal Toilet Flapper",
+      "brand": "Korky",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-running-toilet"
+      ],
+      "why": "A low-cost first fix for a toilet that runs on. It fits 2-inch flush valves only, so check yours first.",
+      "url": "https://link.amazon/B028SAVGY",
+      "asin": "B00E5ICW0E",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P004",
+      "name": "Toilet Leak Detection Dye Tablets, 20 Pack",
+      "brand": "New Resources Group",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-running-toilet"
+      ],
+      "why": "Drop a tablet in the tank and wait. If color shows up in the bowl without a flush, the flapper is leaking.",
+      "url": "https://link.amazon/B03fnoZDZ",
+      "asin": "B07S31SCZN",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P005",
+      "name": "Reotemp PD25H Home Water Pressure Test Gauge",
+      "brand": "Reotemp",
+      "category": "Plumbing",
+      "useCases": [
+        "water-pressure"
+      ],
+      "why": "Screws onto an outdoor hose spigot and reads your water pressure in PSI, so you can compare it to the normal range in our guide.",
+      "url": "https://link.amazon/B00G87SZG",
+      "asin": "B098BTTBNY",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P006",
+      "name": "Hotop 7-Piece Brass Faucet Adapter Kit",
+      "brand": "Hotop",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-leaks-parts"
+      ],
+      "why": "Brass adapters in male and female thread sizes, for fitting parts to a faucet spout when the threads do not match.",
+      "url": "https://link.amazon/B0coqGGEn",
+      "asin": "B08B3SP2XY",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P008",
+      "name": "Korky Beehive MAX Heavy Duty Toilet Plunger",
+      "brand": "Korky",
+      "category": "Plumbing",
+      "useCases": [
+        "unclog-drains"
+      ],
+      "why": "A heavy-duty toilet plunger with a flange that is built to seal the bowl drain.",
+      "url": "https://link.amazon/B02D3kowv",
+      "asin": "B0851T29PF",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P009",
+      "name": "VOTMELL PTFE Plumber's Thread Seal Tape, 4 Rolls",
+      "brand": "VOTMELL",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-leaks-parts"
+      ],
+      "why": "Thread seal tape wrapped on pipe threads to help stop small leaks at threaded joints.",
+      "url": "https://link.amazon/B03DSoUXy",
+      "asin": "B091913Z7F",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P010",
+      "name": "Eastman 20-Inch Braided Faucet Connector",
+      "brand": "Eastman",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-leaks-parts"
+      ],
+      "why": "A braided stainless steel supply line for replacing a worn faucet line. Match the length and thread size to your faucet first.",
+      "url": "https://link.amazon/B0as9Z1ib",
+      "asin": "B00ECX0BUA",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P012",
+      "name": "Eastman 5 ft Washing Machine Hose Connectors with Elbows",
+      "brand": "Eastman",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-leaks-parts"
+      ],
+      "why": "Braided hoses to replace old rubber washing machine hoses, which can burst and flood a laundry room.",
+      "url": "https://link.amazon/B03HqFARv",
+      "asin": "B00838JBWO",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P014",
+      "name": "Oatey Plumber's Putty, 14 oz",
+      "brand": "Oatey",
+      "category": "Plumbing",
+      "useCases": [
+        "fix-leaks-parts"
+      ],
+      "why": "Putty used to seal a sink drain or the base of a faucet.",
+      "url": "https://link.amazon/B03tlY4qq",
+      "asin": "B000BQQM2I",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P016",
+      "name": "Insulated Outdoor Faucet Covers, 2 Pack",
+      "brand": "YOGINGO",
+      "category": "Plumbing",
+      "useCases": [
+        "freeze-protection"
+      ],
+      "why": "Insulated covers that fit over an outdoor spigot before a freeze.",
+      "url": "https://link.amazon/B08YJwRbu",
+      "asin": "B0CCRPWB6Z",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P017",
+      "name": "Foam King Insulating Foam Pipe Covers, 3/4 Inch by 3 Feet",
+      "brand": "Foam King",
+      "category": "Plumbing",
+      "useCases": [
+        "freeze-protection"
+      ],
+      "why": "Foam sleeves that wrap exposed pipes in garages, basements and crawl spaces.",
+      "url": "https://link.amazon/B014rns0s",
+      "asin": "B09LZ811RG",
+      "verified": "2026-11-22"
+    },
+    {
+      "id": "P019",
+      "name": "Filtrete 16x25x1 MERV 8 Air Filter, 4 Pack",
+      "brand": "Filtrete",
+      "category": "HVAC",
+      "useCases": [
+        "hvac-upkeep"
+      ],
+      "why": "",
+      "url": "https://link.amazon/B0aVxjo2H",
+      "asin": "B0B1P5K3CV",
+      "verified": "2026-11-22",
+      "inGroup": "G-AIR-FILTERS"
+    },
+    {
+      "id": "P020",
+      "name": "Filterbuy 20x25x1 MERV 8 Air Filter, 4 Pack",
+      "brand": "Filterbuy",
+      "category": "HVAC",
+      "useCases": [
+        "hvac-upkeep"
+      ],
+      "why": "",
+      "url": "https://link.amazon/A0gz0G0Vw",
+      "asin": "B00CJZ8PGU",
+      "verified": "2026-11-22",
+      "inGroup": "G-AIR-FILTERS"
+    },
+    {
+      "id": "P021",
+      "name": "Filterbuy 16x20x1 MERV 8 Air Filter, 4 Pack",
+      "brand": "Filterbuy",
+      "category": "HVAC",
+      "useCases": [
+        "hvac-upkeep"
+      ],
+      "why": "",
+      "url": "https://link.amazon/A0fCjt7pr",
+      "asin": "B00CJZ836C",
+      "verified": "2026-11-22",
+      "inGroup": "G-AIR-FILTERS"
+    },
+    {
+      "id": "P022",
+      "name": "Filterbuy 20x20x1 MERV 8 Air Filter, 4 Pack",
+      "brand": "Filterbuy",
+      "category": "HVAC",
+      "useCases": [
+        "hvac-upkeep"
+      ],
+      "why": "",
+      "url": "https://link.amazon/A0hjOZa6d",
+      "asin": "B00CJZ8LAK",
+      "verified": "2026-11-22",
+      "inGroup": "G-AIR-FILTERS"
+    },
+    {
+      "id": "P024",
+      "name": "ecobee Smart Thermostat Essential",
+      "brand": "ecobee",
+      "category": "HVAC",
+      "useCases": [
+        "energy-temp"
+      ],
+      "why": "A Wi-Fi smart thermostat. Check that it works with your system's wiring before you buy.",
+      "url": "https://link.amazon/A0aTF8Ata",
+      "asin": "B0DT9MC2Z9",
+      "verified": "2026-11-22"
+    }
+  ],
+  "groups": [
+    {
+      "id": "G-AIR-FILTERS",
+      "type": "group",
+      "name": "Replacement Air Filters, MERV 8, 4 Pack",
+      "category": "HVAC",
+      "useCases": [
+        "hvac-upkeep"
+      ],
+      "why": "One-inch MERV 8 filters sold as 4-packs. Check the size printed on your current filter, then pick the matching size.",
+      "options": [
+        {
+          "label": "16x25x1 (Filtrete)",
+          "productId": "P019"
+        },
+        {
+          "label": "20x25x1 (Filterbuy)",
+          "productId": "P020"
+        },
+        {
+          "label": "16x20x1 (Filterbuy)",
+          "productId": "P021"
+        },
+        {
+          "label": "20x20x1 (Filterbuy)",
+          "productId": "P022"
+        }
+      ],
+      "verified": "2026-11-22"
+    }
+  ]
+}

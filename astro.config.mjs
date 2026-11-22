@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import fs from 'fs';
 import path from 'path';
+import rehypeProductBox from './src/plugins/rehype-product-box.mjs';
 
 function buildPubDateMap() {
   const blogDir = path.join(process.cwd(), 'src/content/blog');
@@ -41,6 +42,7 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
+    rehypePlugins: [rehypeProductBox],
     shikiConfig: {
       theme: 'github-light',
     },

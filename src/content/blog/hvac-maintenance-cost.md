@@ -5,6 +5,9 @@ pubDate: "2026-09-28"
 category: "hvac"
 readTime: "9 min"
 tags: ["hvac maintenance cost", "hvac tune-up cost", "ac tune-up cost", "furnace tune-up cost", "hvac service contract"]
+products: ["G-AIR-FILTERS"]
+productsBefore: "How HVAC Maintenance Affects Your Utility Bills"
+productsVariant: "tools"
 ---
 
 A professional HVAC tune-up costs **$80 to $150 per unit** for a one-time visit, or **$150 to $500 per year** if you sign up for a maintenance contract covering both your furnace and air conditioner. Most homeowners spend around $200 to $250 annually for a two-system preventive maintenance plan. Costs vary by region, system age, and what the technician actually does during the visit.

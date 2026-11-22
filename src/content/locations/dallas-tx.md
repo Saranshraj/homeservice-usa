@@ -10,6 +10,9 @@ title: "Home Service Costs and Guides in Dallas, TX"
 description: "Local home service guidance for Dallas homeowners: HVAC, plumbing, and roofing costs adjusted for hot summers, winter freeze risk, and one of the highest hail-frequency zones in the country."
 pubDate: "2026-07-27"
 services: ["hvac", "plumbing", "roofing"]
+products: ["P016", "P017"]
+productsBefore: "Local Service Guides"
+productsVariant: "city"
 ---
 
 Dallas homeowners deal with genuine four-season weather swings that most of Texas does not see, and that variability drives home service demand in a few specific directions: heavy summer AC use, real winter freeze risk, and some of the most frequent hail activity anywhere in the United States.

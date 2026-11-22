@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="What information HomeService USA collects, how Google Analytics, Google AdSense and Amazon affiliate links use cookies, and the choices you have."
+>
+  <section class="policy-hero">
+    <div class="container">
+      <h1>Privacy Policy</h1>
+      <p class="policy-date">Last updated November 22, 2026</p>
+    </div>
+  </section>
+
+  <section class="policy-content">
+    <div class="container">
+      <div class="content-wrapper">
+        <p>HomeService USA (homeservice-usa.com) publishes guides for American homeowners. This page explains what information is collected when you visit, who collects it, and what you can do about it.</p>
+
+        <h2>What We Do Not Collect Directly</h2>
+        <p>The site has no user accounts, comment sections, newsletter sign-up, or forms. We do not ask you for your name or address to read a guide. If you email us, we use your email address and your message only to reply.</p>
+
+        <h2>Information Collected Automatically</h2>
+        <ul>
+          <li><strong>Analytics.</strong> We use Google Analytics (GA4) to understand which pages are read and how people find the site. Google Analytics uses cookies or similar technologies and receives information such as pages visited, approximate location, device and browser type, and the site that referred you.</li>
+          <li><strong>Hosting.</strong> The site is hosted on GitHub Pages. GitHub may log technical information, such as your IP address, when your browser requests a page, as described in <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">GitHub's privacy statement</a>.</li>
+        </ul>
+
+        <h2>Advertising</h2>
+        <p>We show ads through Google AdSense. Google and its advertising partners use cookies and similar technologies to show ads, including ads based on your earlier visits to this and other sites. Learn more in <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">how Google uses information from sites that use its services</a>. You can control personalized ads in <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google Ads Settings</a> or opt out through the <a href="https://optout.aboutads.info" target="_blank" rel="noopener">Digital Advertising Alliance</a>.</p>
+
+        <h2>Affiliate Links</h2>
+        <p>Some links on the site go to Amazon and carry our Amazon Associates tag, so Amazon can credit us if you buy. When you click one, Amazon may set its own cookies and collect information under its own policy. See <a href="/affiliate-disclosure/">our affiliate disclosure</a> and <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" target="_blank" rel="nofollow noopener">Amazon's privacy notice</a>. As an Amazon Associate I earn from qualifying purchases.</p>
+
+        <h2>Your Choices</h2>
+        <ul>
+          <li>Change or block cookies in your browser settings. Some features of other sites may stop working if you block all cookies.</li>
+          <li>Install the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics opt-out browser add-on</a>.</li>
+          <li>Use the Google and Digital Advertising Alliance links above to manage ad personalization.</li>
+        </ul>
+
+        <h2>Privacy Rights in Some States</h2>
+        <p>Residents of some U.S. states, including California, may have rights to know what personal information is collected, ask for deletion, or opt out of the sale or sharing of personal information for advertising. Some state laws treat advertising cookies as a sale or sharing of data. You can use the opt-out tools above, or email us and we will help where we can.</p>
+
+        <h2>Children</h2>
+        <p>This site is written for adult homeowners and is not directed to children under 13. We do not knowingly collect personal information from children.</p>
+
+        <h2>Links to Other Sites</h2>
+        <p>Our guides link to government agencies, Amazon and other sites. Their privacy practices are their own, and this policy does not cover them.</p>
+
+        <h2>Changes</h2>
+        <p>If we change this policy, we will post the new version here and update the date above.</p>
+
+        <h2>Contact</h2>
+        <p>Questions about this policy? Email <strong>hello@homeservice-usa.com</strong>.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .policy-hero { background: var(--color-primary-dark); color: white; padding: 3rem 0; text-align: center; }
+  .policy-hero h1 { color: white; }
+  .policy-date { color: #bfdbfe; margin: 0.5rem 0 0; font-size: 0.95rem; }
+  .policy-content { padding: 3rem 0; }
+  .content-wrapper { max-width: var(--content-width); margin: 0 auto; }
+  .content-wrapper p, .content-wrapper li { font-size: 1.05rem; line-height: 1.75; }
+</style>
